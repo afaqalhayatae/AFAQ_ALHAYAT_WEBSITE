@@ -13,7 +13,7 @@ Channel architecture, page composition, and UI content mapping for the AFAQ Alha
 | `01_HOMEPAGE/` | Populated — architecture, content, UI/UX, SEO/AI, and component documents exist. |
 | `02_ABOUT/` | Not yet built. Should reference `01_BUSINESS/COMPANY_PROFILE.md` and `01_BUSINESS/VISION.md`/`MISSION.md`, not restate them. |
 | `03_SERVICE_PAGES/` | Not yet built. Should map one page per entry in `04_SERVICE_KNOWLEDGE/SERVICE_CATALOG.md`. |
-| `04_LOCATIONS/` | Not yet built. Emirate-level coverage is approved; city/community pages remain blocked until lower-level registry rows exist. |
+| `04_LOCATIONS/` | Not yet built. Emirates and the initial premium-priority communities are approved in the registry; pages still require unique content, operations review, and SEO quality approval. |
 | `05_BOOKING/` | Not yet built. Depends on `06_CUSTOMER_AND_SALES/BOOKING/`, not yet authored. |
 | `06_BLOG/` | Not yet built. |
 | `07_CONTACT/` | Not yet built. Phone and domain are approved; WhatsApp, email, address, and hours remain pending and must not be inferred. |

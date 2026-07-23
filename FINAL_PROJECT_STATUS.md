@@ -21,7 +21,7 @@
 | `00_GOVERNANCE/` | Complete — all 8 target documents present, including new `DECISION_LOG.md`. |
 | `01_BUSINESS/` | Complete — all 8 target documents present, including new `STAKEHOLDERS.md`. |
 | `02_BRAND/` | Structurally complete. Phone and domain are owner-approved; WhatsApp, email, address, hours, profile URLs, and branch facts remain pending. |
-| `03_MARKET/` | Structurally complete. All seven emirates are approved coverage areas for every current catalog service; lower-level areas remain pending. |
+| `03_MARKET/` | Structurally complete. All seven emirates and an initial set of premium-priority communities are approved for every current catalog service; further expansion remains evidence-led. |
 | `04_SERVICE_KNOWLEDGE/` | Structurally complete — `README.md`, `SERVICE_CATALOG.md`, `SERVICE_MATRIX.md`, `SERVICE_WORKFLOW.md`, `SERVICE_KPIS.md`, `SERVICE_GLOSSARY.md` all new; `01_PEST_CONTROL/` package complete (12 files). 8 of 9 cataloged services have no package yet — draft source held, not fabricated. |
 | `05_OPERATIONS/`, `06_CUSTOMER_AND_SALES/`, `10_MARKETING_AND_SEO/`, `11_TECHNICAL/` | Scaffolded only — `README.md` documents structure and explicitly explains why substantive content (SOPs, pricing, SEO strategy, deployment procedures) was not invented. |
 | `07_WEBSITE/` | `README.md` added; `01_HOMEPAGE/` and `WORDPRESS/` complete; other subpages not yet built (correctly, since they depend on undecided content). |

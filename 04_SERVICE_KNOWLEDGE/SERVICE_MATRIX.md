@@ -38,6 +38,8 @@ booking confirmation and the canonical area registry.
 | `SVC-HANDYMAN` | All approved emirates | Active | Confirm date/time and service scope |
 
 `All approved emirates` expands only to the seven IDs listed above.
+Every approved priority community in `03_MARKET/SERVICE_AREAS.md` inherits its
+parent emirate’s service availability unless an explicit constraint is added.
 
 ## Consumer Rules
 

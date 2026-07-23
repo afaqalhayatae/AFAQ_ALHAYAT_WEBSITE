@@ -34,6 +34,7 @@ Source: `SYSTEM_ARCHITECTURE.md` v1.0, migration plan `MIGPLAN-20260723-0326-4ff
 | 15 | Production domain is `afaqalhayatae.com`. | Canonical host and redirect configuration require deployment verification. |
 | 16 | Hosting provider is Hostinger. | Exact plan compatibility with Next.js, Node.js, PostgreSQL, CI/CD, backups, and staging requires technical verification. |
 | 17 | All services in the current canonical catalog are offered across all seven UAE emirates. | Approval is emirate-level only; it does not authorize city/community pages, virtual branches, response-time promises, or automatic booking availability. |
+| 18 | The project may select premium-property and high-value communities as initial marketing priorities, with all catalog services available. | Priority is based on property and market characteristics, not individual personal data. Coverage remains UAE-wide; dedicated pages and campaigns still require quality, operational, and measurement gates. |
 
 ## Deferred / open (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` for full detail)
 
