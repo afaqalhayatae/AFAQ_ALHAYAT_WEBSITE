@@ -1,0 +1,21 @@
+# Electrical Maintenance
+
+## Document Information
+
+- **Service ID:** `SVC-ELECTRICAL-MAINTENANCE`
+- **Status:** Draft package — Owner, Safety, and Licensed-Trade Review Required
+- **Source:** `SOURCE_DRAFT.md`
+
+## Purpose
+
+This package will become the canonical source for electrical-maintenance
+knowledge. No instruction in the source draft is approved for field execution.
+
+## Required Before Approval
+
+- Define permitted work, exclusions, voltage/system limits, and escalation.
+- Confirm technician authorization, lockout/isolation, testing, PPE, and
+  incident controls.
+- Approve inspection records, completion evidence, parts, and warranty rules.
+- Validate all regulatory, licensing, emergency, and response-time claims.
+

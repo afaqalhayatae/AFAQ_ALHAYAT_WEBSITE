@@ -13,14 +13,14 @@ Source: [`01_BUSINESS/COMPANY_PROFILE.md`](../01_BUSINESS/COMPANY_PROFILE.md) "C
 | ID | Name | Category | Knowledge package status |
 |---|---|---|---|
 | `SVC-PEST-CONTROL` | Pest Control | Cleaning & Pest Control | ✅ Complete — [`01_PEST_CONTROL/`](01_PEST_CONTROL/) |
-| `SVC-AC-MAINTENANCE` | AC Maintenance | General Maintenance | Draft source exists, package not yet built |
-| `SVC-GENERAL-CLEANING` | General Cleaning | Cleaning & Pest Control | Draft source exists, package not yet built |
-| `SVC-DEEP-CLEANING` | Deep Cleaning | Cleaning & Pest Control | No dedicated draft source found; scope confirmed by Company Profile only |
-| `SVC-WATER-TANK-CLEANING` | Water Tank Cleaning | Cleaning & Pest Control | Draft source exists, package not yet built |
-| `SVC-PLUMBING` | Plumbing | General Maintenance | Draft source exists, package not yet built |
-| `SVC-ELECTRICAL-MAINTENANCE` | Electrical Maintenance | General Maintenance | Draft source exists, package not yet built |
-| `SVC-PAINTING` | Painting | General Maintenance | Draft source exists, package not yet built |
-| `SVC-HANDYMAN` | Handyman Services | General Maintenance | Draft source exists, package not yet built |
+| `SVC-AC-MAINTENANCE` | AC Maintenance | General Maintenance | Draft package — [`02_AC_MAINTENANCE/`](02_AC_MAINTENANCE/) |
+| `SVC-GENERAL-CLEANING` | General Cleaning | Cleaning & Pest Control | Draft package — [`03_GENERAL_CLEANING/`](03_GENERAL_CLEANING/) |
+| `SVC-DEEP-CLEANING` | Deep Cleaning | Cleaning & Pest Control | Blocked package — [`04_DEEP_CLEANING/`](04_DEEP_CLEANING/) |
+| `SVC-WATER-TANK-CLEANING` | Water Tank Cleaning | Cleaning & Pest Control | Draft package — [`05_WATER_TANK_CLEANING/`](05_WATER_TANK_CLEANING/) |
+| `SVC-PLUMBING` | Plumbing | General Maintenance | Draft package — [`06_PLUMBING/`](06_PLUMBING/) |
+| `SVC-ELECTRICAL-MAINTENANCE` | Electrical Maintenance | General Maintenance | Draft package — [`07_ELECTRICAL_MAINTENANCE/`](07_ELECTRICAL_MAINTENANCE/) |
+| `SVC-PAINTING` | Painting | General Maintenance | Draft package — [`08_PAINTING/`](08_PAINTING/) |
+| `SVC-HANDYMAN` | Handyman Services | General Maintenance | Draft package — [`09_HANDYMAN/`](09_HANDYMAN/) |
 
 ---
 
@@ -33,19 +33,13 @@ Per approved decision 5 (`00_GOVERNANCE/DECISION_LOG.md`), AFAQ Alhayat covers t
 
 ---
 
-# Draft source material (not yet approved packages)
+# Draft package policy
 
-Held pending a folder-numbering convention decision (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3):
-
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/01_AC_MAINTENANCE.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/02_CLEANING_SERVICES.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/04_PLUMBING.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/05_ELECTRICAL_MAINTENANCE.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/06_PAINTING_SERVICES.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/07_HANDYMAN_SERVICES.md`
-- `00_START/01_BUSINESS/02_BRAND/03_MARKET_RESEARCH/04_SERVICES/08_WATER_TANK_CLEANING.md`
-
-These are unapproved drafts — do not treat their content as canonical until they are reviewed and formally migrated into a `04_SERVICE_KNOWLEDGE/<NN_SERVICE>/` package following `99_STANDARDS/SERVICE_TEMPLATE.md`.
+The seven migrated service drafts are preserved as `SOURCE_DRAFT.md` inside
+their assigned packages. They remain non-authoritative until reviewed and
+converted into the document set required by
+`99_STANDARDS/SERVICE_TEMPLATE.md`. Deep Cleaning has no source draft and is
+explicitly blocked pending owner scope.
 
 Two superseded overview drafts that informed this catalog's reconciliation are preserved at `98_LEGACY_ARCHIVE/00_START/.../00_SERVICES_OVERVIEW.md` and `98_LEGACY_ARCHIVE/07_WEBSITE/03_SERVICES/00_SERVICES_OVERVIEW.md` (see `98_LEGACY_ARCHIVE/ARCHIVE_MANIFEST.csv`).
 
@@ -53,4 +47,6 @@ Two superseded overview drafts that informed this catalog's reconciliation are p
 
 # Status
 
-Draft — catalog structure and IDs are established; 8 of 9 services still need their full knowledge package authored from the held draft material after review.
+Draft — stable service IDs and package paths are established. Pest Control is
+complete; seven packages contain reviewable source drafts; Deep Cleaning is
+blocked pending owner scope.
