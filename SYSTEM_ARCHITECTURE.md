@@ -321,8 +321,8 @@ No consumer may silently redefine a fact owned by another source. A consumer sho
 Use relative Markdown links for human navigation and stable identifiers for automation. Example:
 
 ```md
-Contact data: [CONTACT_INFORMATION.md](../../02_BRAND/CONTACT_INFORMATION.md)
-Service area source: [SERVICE_AREAS.md](../../03_MARKET/SERVICE_AREAS.md)
+Contact data: [CONTACT_INFORMATION.md](02_BRAND/CONTACT_INFORMATION.md)
+Service area source: `03_MARKET/SERVICE_AREAS.md` (blocked until owner-approved reconciliation)
 Service ID: SVC-PEST-CONTROL
 ```
 
