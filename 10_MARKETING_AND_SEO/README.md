@@ -19,6 +19,7 @@ Cross-channel acquisition, SEO, schema, analytics, and campaigns — per `SYSTEM
 | `URL_AND_INTERNAL_LINKING_STANDARD.md` | URL, canonical, redirect, language, and internal-link rules. | Active architecture standard |
 | `KNOWLEDGE_GRAPH.md` | Entity relationships across channels. | Draft framework complete |
 | `ANALYTICS.md` | Analytics and event-governance approach. | Draft framework complete |
+| `EMAIL_MARKETING.md` | Permission, deliverability, lifecycle automation, content, and measurement standard. | Active architecture standard |
 | `CAMPAIGNS/` | Individual campaign records. | Not yet populated |
 | `SOCIAL_MEDIA/` | Social strategy, production, approval, publishing, and measurement. | Draft framework complete |
 
