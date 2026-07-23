@@ -14,7 +14,7 @@ Source: [`01_BUSINESS/COMPANY_PROFILE.md`](../01_BUSINESS/COMPANY_PROFILE.md) "C
 |---|---|---|---|
 | `SVC-PEST-CONTROL` | Pest Control | Cleaning & Pest Control | ✅ Complete — [`01_PEST_CONTROL/`](01_PEST_CONTROL/) |
 | `SVC-AC-MAINTENANCE` | AC Maintenance | General Maintenance | Draft package — [`02_AC_MAINTENANCE/`](02_AC_MAINTENANCE/) |
-| `SVC-GENERAL-CLEANING` | General Cleaning | Cleaning & Pest Control | Draft package — [`03_GENERAL_CLEANING/`](03_GENERAL_CLEANING/) |
+| `SVC-GENERAL-CLEANING` | General Cleaning | Cleaning & Pest Control | Review-ready package — [`03_GENERAL_CLEANING/`](03_GENERAL_CLEANING/) |
 | `SVC-DEEP-CLEANING` | Deep Cleaning | Cleaning & Pest Control | Blocked package — [`04_DEEP_CLEANING/`](04_DEEP_CLEANING/) |
 | `SVC-WATER-TANK-CLEANING` | Water Tank Cleaning | Cleaning & Pest Control | Draft package — [`05_WATER_TANK_CLEANING/`](05_WATER_TANK_CLEANING/) |
 | `SVC-PLUMBING` | Plumbing | General Maintenance | Draft package — [`06_PLUMBING/`](06_PLUMBING/) |

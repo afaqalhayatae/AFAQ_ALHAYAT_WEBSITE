@@ -23,7 +23,7 @@ This domain holds the authoritative, website-independent definition of every ser
 |---|---|
 | `01_PEST_CONTROL/` | Complete — 11-document package migrated and canonical (see `00_GOVERNANCE/DECISION_LOG.md` decision 6). |
 | `02_AC_MAINTENANCE/` | Draft package; source preserved, technical review required. |
-| `03_GENERAL_CLEANING/` | Draft package; source preserved, operations review required. |
+| `03_GENERAL_CLEANING/` | Review-ready 12-document package; owner and operations approval required. |
 | `04_DEEP_CLEANING/` | Blocked; owner scope required. |
 | `05_WATER_TANK_CLEANING/` | Draft package; source preserved, safety/compliance review required. |
 | `06_PLUMBING/` | Draft package; source preserved, licensed-trade review required. |
