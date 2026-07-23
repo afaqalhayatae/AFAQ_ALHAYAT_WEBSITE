@@ -29,5 +29,5 @@ This domain holds the authoritative, website-independent definition of every ser
 # Related sources
 
 - Service list origin: [`01_BUSINESS/COMPANY_PROFILE.md`](../01_BUSINESS/COMPANY_PROFILE.md) — "Core Services."
-- Geographic coverage: [`03_MARKET/SERVICE_AREAS.md`](../03_MARKET/SERVICE_AREAS.md) (pending reconciliation).
+- Geographic coverage: `03_MARKET/SERVICE_AREAS.md` — not yet created; pending manual reconciliation of 3 held drafts (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3).
 - Documentation shape: [`99_STANDARDS/SERVICE_TEMPLATE.md`](../99_STANDARDS/SERVICE_TEMPLATE.md).
