@@ -33,6 +33,19 @@ Future Support
 
 ---
 
+# Governing Integration Standard
+
+The complete public-site integration, Google Business Profile, Place ID,
+reviews, Search Console, analytics, consent, security, performance, and
+authority rules are defined in:
+
+- `../GOOGLE_LIVE_ECOSYSTEM.md`
+
+This document remains the operational map and booking architecture. It must
+not independently publish contact, coverage, review, or branch facts.
+
+---
+
 # Customer Features
 
 Customers can:

@@ -20,6 +20,7 @@ Channel architecture, page composition, and UI content mapping for the AFAQ Alha
 | `08_LEGAL_PAGES/` | Not yet built. Requires legal/owner-approved terms, privacy policy, etc. — do not draft legal text without review. |
 | `09_ERROR_PAGES/` | Not yet built. |
 | `WORDPRESS/` | Populated — implementation architecture for the WordPress build. |
+| `GOOGLE_LIVE_ECOSYSTEM.md` | Approved live Google Maps, Places, reviews, Search Console, analytics, consent, and security architecture. |
 
 ---
 
