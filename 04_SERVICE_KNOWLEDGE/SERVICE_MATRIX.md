@@ -36,6 +36,9 @@ booking confirmation and the canonical area registry.
 | `SVC-ELECTRICAL-MAINTENANCE` | All approved emirates | Active | Confirm date/time and service scope |
 | `SVC-PAINTING` | All approved emirates | Active | Confirm date/time and service scope |
 | `SVC-HANDYMAN` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-DRAIN-UNBLOCKING` | All approved emirates | Active | Confirm affected drainage point, site conditions, date/time, and service scope |
+| `SVC-WATERPROOFING` | All approved emirates | Active | Confirm surface, affected area, site inspection, date/time, and approved system |
+| `SVC-WATER-LEAK-DETECTION` | All approved emirates | Active | Confirm suspected leak location, site conditions, date/time, and diagnostic scope |
 
 `All approved emirates` expands only to the seven IDs listed above.
 Every approved priority community in `03_MARKET/SERVICE_AREAS.md` inherits its

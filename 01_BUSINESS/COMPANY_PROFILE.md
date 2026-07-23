@@ -45,6 +45,9 @@ AFAQ Alhayat is a professional maintenance and cleaning company dedicated to del
 - Electrical Maintenance
 - Painting
 - Handyman Services
+- Drain Unblocking
+- Waterproofing
+- Water Leak Detection
 
 ---
 

@@ -30,6 +30,9 @@ This domain holds the authoritative, website-independent definition of every ser
 | `07_ELECTRICAL_MAINTENANCE/` | Draft package; source preserved, safety/licensed-trade review required. |
 | `08_PAINTING/` | Draft package; source preserved, operations review required. |
 | `09_HANDYMAN/` | Draft package; source preserved, scope-boundary review required. |
+| `10_DRAIN_UNBLOCKING/` | Draft package; owner confirmed, plumbing/drainage operations and safety review required. |
+| `11_WATERPROOFING/` | Draft package; owner confirmed, technical system, substrate, safety, and warranty review required. |
+| `12_WATER_LEAK_DETECTION/` | Draft package; owner confirmed, diagnostic-method and licensed-trade review required. |
 
 ---
 

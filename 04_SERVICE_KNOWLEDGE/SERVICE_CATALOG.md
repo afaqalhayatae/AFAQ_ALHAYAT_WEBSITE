@@ -25,6 +25,9 @@ through `SERVICE_MATRIX.md`; this catalog does not duplicate location data.
 | `SVC-ELECTRICAL-MAINTENANCE` | Electrical Maintenance | General Maintenance | Draft package — [`07_ELECTRICAL_MAINTENANCE/`](07_ELECTRICAL_MAINTENANCE/) |
 | `SVC-PAINTING` | Painting | General Maintenance | Draft package — [`08_PAINTING/`](08_PAINTING/) |
 | `SVC-HANDYMAN` | Handyman Services | General Maintenance | Draft package — [`09_HANDYMAN/`](09_HANDYMAN/) |
+| `SVC-DRAIN-UNBLOCKING` | Drain Unblocking | Drainage & Water Protection | Draft package — [`10_DRAIN_UNBLOCKING/`](10_DRAIN_UNBLOCKING/) |
+| `SVC-WATERPROOFING` | Waterproofing | Drainage & Water Protection | Draft package — [`11_WATERPROOFING/`](11_WATERPROOFING/) |
+| `SVC-WATER-LEAK-DETECTION` | Water Leak Detection | Drainage & Water Protection | Draft package — [`12_WATER_LEAK_DETECTION/`](12_WATER_LEAK_DETECTION/) |
 
 ---
 
@@ -34,6 +37,7 @@ Per approved decision 5 (`00_GOVERNANCE/DECISION_LOG.md`), AFAQ Alhayat covers t
 
 - **Cleaning & Pest Control** — Pest Control, General Cleaning, Deep Cleaning, Water Tank Cleaning.
 - **General Maintenance** — AC Maintenance, Plumbing, Electrical Maintenance, Painting, Handyman Services.
+- **Drainage & Water Protection** — Drain Unblocking, Waterproofing, Water Leak Detection.
 
 ---
 
@@ -55,3 +59,5 @@ Approved service list — stable service IDs and package paths are established.
 Package maturity remains independent: Pest Control is complete, General
 Cleaning and Water Tank Cleaning are review-ready, other packages require
 content completion, and Deep Cleaning requires a detailed scope package.
+Drain Unblocking, Waterproofing, and Water Leak Detection are owner-confirmed
+services whose technical scope must be approved before detailed publication.
