@@ -25,7 +25,7 @@ This domain holds the authoritative, website-independent definition of every ser
 | `02_AC_MAINTENANCE/` | Draft package; source preserved, technical review required. |
 | `03_GENERAL_CLEANING/` | Review-ready 12-document package; owner and operations approval required. |
 | `04_DEEP_CLEANING/` | Blocked; owner scope required. |
-| `05_WATER_TANK_CLEANING/` | Draft package; source preserved, safety/compliance review required. |
+| `05_WATER_TANK_CLEANING/` | Review-ready 12-document package; safety/compliance and owner approval required. |
 | `06_PLUMBING/` | Draft package; source preserved, licensed-trade review required. |
 | `07_ELECTRICAL_MAINTENANCE/` | Draft package; source preserved, safety/licensed-trade review required. |
 | `08_PAINTING/` | Draft package; source preserved, operations review required. |

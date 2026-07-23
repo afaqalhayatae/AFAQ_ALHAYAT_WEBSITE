@@ -3,22 +3,38 @@
 ## Document Information
 
 - **Service ID:** `SVC-WATER-TANK-CLEANING`
-- **Status:** Draft package — Owner, Safety, and Compliance Review Required
-- **Source:** `SOURCE_DRAFT.md`
+- **Owner:** Operations
+- **Status:** Review-ready package — Safety, Compliance, and Owner approval required
+- **Version:** 1.0
+- **Source:** Preserved `SOURCE_DRAFT.md` plus governed project standards
 
 ## Purpose
 
-This package will become the canonical source for water-tank-cleaning
-knowledge. The migrated source is preserved but cannot authorize operational
-or compliance claims.
+Provide controlled knowledge for inspection, cleaning, hygiene treatment, and
+release of supported water-storage tanks without making unsupported water
+safety, laboratory, municipality, or regulatory claims.
 
-## Required Before Approval
+## Package Contents
 
-- Confirm supported tank types, access constraints, exclusions, and capacity
-  rules.
-- Approve isolation, drainage, confined-space, chemical, PPE, and water-quality
-  controls where applicable.
-- Confirm inspection evidence, customer sign-off, and post-service release.
-- Validate all municipality, certification, and testing claims with qualified
-  reviewers.
+- `BUSINESS.md`
+- `OPERATIONS.md`
+- `SAFETY.md`
+- `CUSTOMER_GUIDE.md`
+- `FAQ.md`
+- `SEO_AI.md`
+- `CONTENT_AR.md`
+- `CONTENT_EN.md`
+- `TRAINING.md`
+- `MEDIA.md`
+- `CHANGELOG.md`
+- `SOURCE_DRAFT.md` — preserved historical source; not authoritative
+
+## Approval Blockers
+
+- Supported tank types, materials, sizes, access, and exclusions
+- Whether entry is required and the applicable confined-space program
+- Approved isolation, drainage, cleaning, disinfection, waste, and release method
+- Product approvals, concentrations, contact times, and safety documentation
+- Water-quality testing responsibility, laboratory method, and acceptance criteria
+- Applicable authority requirements, records, frequency, and certificates
 
