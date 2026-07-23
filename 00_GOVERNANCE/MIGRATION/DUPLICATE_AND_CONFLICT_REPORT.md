@@ -23,7 +23,10 @@ No byte-identical (true duplicate) non-empty files exist anywhere in the reposit
 
 - **7 per-service maintenance/cleaning drafts** (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — in scope per decision 5, but each needs a `04_SERVICE_KNOWLEDGE/<NN_SERVICE>/` folder-numbering convention before an exact destination can be assigned.
 - **14 cross-cutting sales/operations drafts** (Service Packages, Annual Maintenance Contracts, Emergency Services, Pricing Strategy, Service Workflow, Service Standards, Quality Assurance, Customer Support, Booking Process, Service Policies, Warranty Policy, After-Service Process, Upsell/Cross-sell, Service Checklist) — each needs a per-file placement decision under `06_CUSTOMER_AND_SALES/*` or `05_OPERATIONS/*`.
-- **`05_DATABASE_ARCHITECTURE.md`** — minor open question, not addressed by decisions 1–12: remains under `07_WEBSITE/WORDPRESS/` (current proposal) or moves to `11_TECHNICAL/ARCHITECTURE/`.
+
+## Resolved after initial plan approval
+
+- **`05_DATABASE_ARCHITECTURE.md` placement (2026-07-23):** Resolved — destination is `08_DIGITAL_SYSTEMS/DATABASE/WORDPRESS_DATABASE_ARCHITECTURE.md`, not `07_WEBSITE/WORDPRESS/`. The document defines a hybrid WordPress and operational database architecture, placing it in the Digital Systems database domain rather than WordPress implementation. `MIGRATION_MAP.csv` (ITM-048) updated accordingly.
 
 ## Placeholder / unverified data carried forward
 
