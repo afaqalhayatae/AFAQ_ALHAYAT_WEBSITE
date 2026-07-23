@@ -13,6 +13,8 @@ Cross-channel acquisition, SEO, schema, analytics, and campaigns — per `SYSTEM
 | `SEO_STRATEGY.md` | Overall SEO strategy. | Draft framework complete |
 | `LOCAL_SEO.md` | Local-search execution, referencing `02_BRAND/LOCAL_SEO_PROFILE.md`. | Draft; blocked on verified NAP/coverage |
 | `CONTENT_STRATEGY.md` | Content planning and governance. | Draft framework complete |
+| `PAID_MEDIA_STRATEGY.md` | Google Ads and paid-media role, gates, and measurement. | Draft framework complete |
+| `LANDING_PAGE_STANDARD.md` | Organic and paid landing-page quality standard. | Active architecture standard |
 | `SCHEMA_STRATEGY.md` | Structured-data / schema.org approach. | Draft framework complete |
 | `URL_AND_INTERNAL_LINKING_STANDARD.md` | URL, canonical, redirect, language, and internal-link rules. | Active architecture standard |
 | `KNOWLEDGE_GRAPH.md` | Entity relationships across channels. | Draft framework complete |
