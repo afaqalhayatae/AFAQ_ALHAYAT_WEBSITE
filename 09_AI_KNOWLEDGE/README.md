@@ -14,6 +14,7 @@ Defines how AI systems (assistants, agents, generative search) should retrieve, 
 | `ENTITY_REGISTRY.md` | The company's core named entities (organization, services, brand). |
 | `ENTITY_RELATIONSHIPS.md` | How those entities relate to each other. |
 | `AI_SYSTEM_PROMPT.md` | Baseline instruction set for any AI assistant answering on behalf of AFAQ Alhayat. |
+| `CONVERSATIONAL_ASSISTANT_STANDARD.md` | Product, safety, UX, retrieval, handoff, evaluation, and launch standard for a natural bilingual chatbot. |
 | `RETRIEVAL_POLICY.md` | Rules for which source an AI system must retrieve from for a given fact type. |
 | `ANSWER_POLICY.md` | Rules for what an AI system may and may not claim, and how to handle uncertainty. |
 | `GEO_STRATEGY.md` | Generative-Engine-Optimization approach — how content should be structured so AI search engines can find and cite it. |

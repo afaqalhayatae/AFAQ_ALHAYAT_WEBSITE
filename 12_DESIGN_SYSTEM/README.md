@@ -34,6 +34,7 @@ The interface must reduce friction and help users complete their tasks as quickl
 The binding premium visual direction is defined in:
 
 - [Luxury Design Direction](LUXURY_DESIGN_DIRECTION.md)
+- [Professional Sidebar Navigation](SIDEBAR_NAVIGATION.md)
 
 It establishes the standard for quiet luxury, bilingual parity, authentic imagery, conversion quality, accessibility, responsive behavior, and design acceptance.
 
