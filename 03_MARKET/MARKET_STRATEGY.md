@@ -2,7 +2,8 @@
 
 ## Purpose
 
-This document defines the market strategy that will guide AFAQ Alhayat's growth, customer acquisition, and competitive positioning across the United Arab Emirates.
+This document records a draft market strategy for owner review. Geographic
+targets describe planning hypotheses, not confirmed operational coverage.
 
 ---
 
@@ -14,13 +15,13 @@ Position AFAQ Alhayat as one of the most trusted and digitally advanced maintena
 
 # Target Markets
 
-Primary Markets:
+Proposed primary markets — **not approved service coverage**:
 
 - Dubai
 - Sharjah
 - Ajman
 
-Secondary Markets:
+Proposed secondary markets — **not approved service coverage**:
 
 - Abu Dhabi
 - Ras Al Khaimah

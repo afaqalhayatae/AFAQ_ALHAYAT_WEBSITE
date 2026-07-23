@@ -106,14 +106,21 @@ All images should:
 
 # Local SEO
 
-Every local service page should include:
+A local service page may be created only for a location and service combination
+approved in `03_MARKET/SERVICE_AREAS.md`.
 
-- Business Name
-- Address
-- Phone Number
-- Service Areas
-- Google Maps
-- LocalBusiness Schema
+Publish only verified fields appropriate to the real business model:
+
+- Approved business or trading name
+- Verified contact method
+- Approved service-area relationship
+- Physical address and map link only when the location represents a genuine,
+  customer-facing or otherwise eligible business location
+- Structured data that accurately reflects the entity and page
+
+Do not create a fictional branch, address, map listing, or `LocalBusiness`
+entity for every service area. Service-area businesses must follow current
+search-engine eligibility rules and owner-approved business records.
 
 ---
 

@@ -14,13 +14,17 @@ Facility Maintenance, Cleaning Services, Pest Control, and Property Care.
 
 ## Headquarters
 
-Dubai, United Arab Emirates
+Dubai, United Arab Emirates — **Owner Verification Required.** This location
+must not be published as a legal address or verified headquarters until the
+owner supplies supporting business information.
 
 ---
 
 ## Service Areas
 
-The company provides services across the United Arab Emirates, with a primary focus on Dubai, Sharjah, Ajman, and the Northern Emirates.
+Geographic coverage is controlled exclusively by
+`03_MARKET/SERVICE_AREAS.md`. No coverage statement in this company profile is
+authoritative until the owner approves that registry.
 
 ---
 
