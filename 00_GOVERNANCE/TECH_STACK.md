@@ -130,7 +130,15 @@ ORM
 
 Hosting
 
-- Cloud Platform
+- Hostinger — confirmed by the business owner on 2026-07-23.
+- The exact Hostinger plan, runtime support, database service, deployment
+  method, limits, region, backups, staging support, and SSH/CI capabilities
+  require technical verification before the stack is deployed.
+
+Production Domain
+
+- https://afaqalhayatae.com
+- Canonical apex versus `www` redirect must be validated during deployment.
 
 Continuous Integration
 

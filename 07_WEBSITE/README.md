@@ -13,10 +13,10 @@ Channel architecture, page composition, and UI content mapping for the AFAQ Alha
 | `01_HOMEPAGE/` | Populated — architecture, content, UI/UX, SEO/AI, and component documents exist. |
 | `02_ABOUT/` | Not yet built. Should reference `01_BUSINESS/COMPANY_PROFILE.md` and `01_BUSINESS/VISION.md`/`MISSION.md`, not restate them. |
 | `03_SERVICE_PAGES/` | Not yet built. Should map one page per entry in `04_SERVICE_KNOWLEDGE/SERVICE_CATALOG.md`. |
-| `04_LOCATIONS/` | Not yet built. Depends on `03_MARKET/SERVICE_AREAS.md`, which is not yet finalized (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3). |
+| `04_LOCATIONS/` | Not yet built. Emirate-level coverage is approved; city/community pages remain blocked until lower-level registry rows exist. |
 | `05_BOOKING/` | Not yet built. Depends on `06_CUSTOMER_AND_SALES/BOOKING/`, not yet authored. |
 | `06_BLOG/` | Not yet built. |
-| `07_CONTACT/` | Not yet built. Must reference `02_BRAND/CONTACT_INFORMATION.md`, which is currently Draft/Unverified — do not publish a contact page from it until that status changes. |
+| `07_CONTACT/` | Not yet built. Phone and domain are approved; WhatsApp, email, address, and hours remain pending and must not be inferred. |
 | `08_LEGAL_PAGES/` | Not yet built. Requires legal/owner-approved terms, privacy policy, etc. — do not draft legal text without review. |
 | `09_ERROR_PAGES/` | Not yet built. |
 | `WORDPRESS/` | Populated — implementation architecture for the WordPress build. |

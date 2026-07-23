@@ -39,7 +39,9 @@ The project was reviewed read-only at:
 - `03_SERVICE_KNOWLEDGE` currently sits inside `07_WEBSITE/03_SERVICES`, although service knowledge should be independent of the website.
 - Project-wide standards currently sit inside `07_WEBSITE/01_HOMEPAGE/99_STANDARDS`.
 - The repository contains empty Markdown files, including the root `README.md`, `TARGET_CUSTOMERS.md`, `COMPETITOR_ANALYSIS.md`, and `05_ACCESSIBILITY_STANDARD.md`.
-- `CONTACT_INFORMATION.md` still contains placeholder phone and WhatsApp values. Placeholder contact details must never be published, indexed, or treated as approved facts.
+- Contact fields have independent verification states. The phone and domain
+  are owner-approved; WhatsApp, email, address, hours, and social URLs remain
+  pending. Consumers must never infer one field from another.
 - A zero-byte object named `01_HOMEPAGE` exists in the design-system tree and must be classified before migration.
 - macOS `.DS_Store` files are present and should be ignored by Git, but not silently deleted during the first migration.
 - The project is **not currently a Git repository**. Safe migration therefore requires Git initialization and a baseline commit before any move.
@@ -322,7 +324,8 @@ Use relative Markdown links for human navigation and stable identifiers for auto
 
 ```md
 Contact data: [CONTACT_INFORMATION.md](02_BRAND/CONTACT_INFORMATION.md)
-Service area source: `03_MARKET/SERVICE_AREAS.md` (blocked until owner-approved reconciliation)
+Service area source: `03_MARKET/SERVICE_AREAS.md` (approved at emirate level;
+lower-level areas require explicit registry rows)
 Service ID: SVC-PEST-CONTROL
 ```
 

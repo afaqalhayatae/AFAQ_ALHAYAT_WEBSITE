@@ -4,7 +4,14 @@
 
 Technical architecture, security, testing, deployment, and monitoring — per `SYSTEM_ARCHITECTURE.md` Sec. 5. This domain owns *how* systems are built; it must not own business policy.
 
-The platform's technology stack is already decided and recorded at [`00_GOVERNANCE/TECH_STACK.md`](../00_GOVERNANCE/TECH_STACK.md): Next.js/TypeScript/React/Tailwind frontend, Next.js API Routes on Node.js, PostgreSQL via Prisma ORM, cloud hosting. This domain should build detailed architecture, security, testing, deployment, and monitoring documentation **on top of** that decided stack — not re-decide it.
+The platform's technology stack is recorded at
+[`00_GOVERNANCE/TECH_STACK.md`](../00_GOVERNANCE/TECH_STACK.md):
+Next.js/TypeScript/React/Tailwind frontend, Next.js API Routes on Node.js,
+PostgreSQL via Prisma ORM, and owner-selected Hostinger hosting. Hostinger plan
+compatibility with the decided runtime and database must be technically
+verified before deployment. This domain should build detailed architecture,
+security, testing, deployment, and monitoring documentation on top of the
+approved decisions rather than silently changing them.
 
 ---
 

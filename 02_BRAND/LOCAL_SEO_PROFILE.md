@@ -22,7 +22,9 @@ Owner Input Required. No verified street address exists in the source material m
 
 # Phone / WhatsApp
 
-See [`CONTACT_INFORMATION.md`](CONTACT_INFORMATION.md) — canonical source. Do not duplicate the number here; reference it. Current status: Draft / Unverified (placeholder value, owner input required).
+See [`CONTACT_INFORMATION.md`](CONTACT_INFORMATION.md) — canonical source. Do
+not duplicate the number here. Phone is owner-approved; WhatsApp remains
+unverified.
 
 ---
 
@@ -47,10 +49,17 @@ Owner Input Required. No branch structure has been defined yet. If AFAQ Alhayat 
 
 # Service Area Reference
 
-Geographic coverage is owned by `03_MARKET/SERVICE_AREAS.md`. As of this writing, that file is **not yet finalized** — three overlapping drafts remain on HOLD pending manual reconciliation (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3). This profile must reference the final `SERVICE_AREAS.md` once approved, not restate area lists here.
+Geographic coverage is owned by `03_MARKET/SERVICE_AREAS.md`. All seven UAE
+emirates are owner-approved at emirate level. City, district, community,
+branch, and address claims remain unapproved until added to that registry.
 
 ---
 
 # Status
 
-Draft — this document is a required structural placeholder per `SYSTEM_ARCHITECTURE.md` Sec. 4 (`02_BRAND/LOCAL_SEO_PROFILE.md`). No prior source existed for it in the migrated repository. All factual fields require owner input before this document can be marked Approved or used in any published schema, listing, or AI answer.
+Partially Verified — the phone, domain, hosting provider, and emirate-level
+coverage have owner approval. The registered listing name, address or
+service-area-business configuration, branch structure, coordinates, Google
+Business Profile URL, Place ID, WhatsApp, email, and hours remain pending.
+LocalBusiness schema or public listings must not be generated until the
+required fields for the relevant entity are verified.

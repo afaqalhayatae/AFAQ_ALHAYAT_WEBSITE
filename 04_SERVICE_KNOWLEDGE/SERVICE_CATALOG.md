@@ -6,6 +6,10 @@ The official list of services offered by AFAQ Alhayat, each with a stable identi
 
 Source: [`01_BUSINESS/COMPANY_PROFILE.md`](../01_BUSINESS/COMPANY_PROFILE.md) "Core Services" (canonical, approved per decision 1 in `00_GOVERNANCE/DECISION_LOG.md`).
 
+On 2026-07-23 the business owner confirmed that every service in this catalog
+is currently offered across all seven UAE emirates. Coverage is implemented
+through `SERVICE_MATRIX.md`; this catalog does not duplicate location data.
+
 ---
 
 # Services
@@ -47,6 +51,7 @@ Two superseded overview drafts that informed this catalog's reconciliation are p
 
 # Status
 
-Draft — stable service IDs and package paths are established. Pest Control is
-complete; seven packages contain reviewable source drafts; Deep Cleaning is
-blocked pending owner scope.
+Approved service list — stable service IDs and package paths are established.
+Package maturity remains independent: Pest Control is complete, General
+Cleaning and Water Tank Cleaning are review-ready, other packages require
+content completion, and Deep Cleaning requires a detailed scope package.

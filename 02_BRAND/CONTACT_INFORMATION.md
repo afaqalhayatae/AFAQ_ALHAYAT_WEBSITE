@@ -8,34 +8,51 @@ AFAQ Alhayat Maintenance, Cleaning & Pest Control
 
 ## Phone
 
-+971 XX XXX XXXX — **Owner Input Required.** Placeholder value; not verified, not for publication.
++971 58 543 1766
+
+**Verification:** Confirmed directly by the business owner on 2026-07-23.
+
+**Canonical formats:**
+
+- International display: `+971 58 543 1766`
+- Local UAE display: `058 543 1766`
+- Click-to-call: `tel:+971585431766`
 
 ---
 
 ## WhatsApp
 
-+971 XX XXX XXXX — **Owner Input Required.** Placeholder value; not verified, not for publication.
+**Owner Confirmation Required.** Do not assume that the approved phone number
+is also the official WhatsApp number.
 
 ---
 
 ## Email
 
-info@afaqalhayat.ae — **Owner Verification Required.** Do not publish until ownership and active delivery are confirmed.
+**Owner Input Required.** No official email address has been confirmed. Do not
+derive an email address from the approved domain.
 
 ---
 
 ## Website
 
-https://www.afaqalhayat.ae — **Owner Verification Required.** Do not publish until domain ownership and the production URL are confirmed.
+https://afaqalhayatae.com
+
+**Verification:** Domain and Hostinger hosting confirmed directly by the
+business owner on 2026-07-23.
+
+The final `www` versus apex redirect and canonical-host configuration must be
+verified during deployment. Until then, the approved public base is the apex
+domain shown above.
 
 ---
 
 ## Service Areas
 
 Geographic coverage is not owned by this document. Use
-`03_MARKET/SERVICE_AREAS.md` after its coverage data has been reconciled and
-approved by the owner. Until then, no emirate, city, or district may be
-presented as a confirmed service area.
+`03_MARKET/SERVICE_AREAS.md`. The business owner confirmed coverage across all
+seven UAE emirates on 2026-07-23. City, district, and community coverage must
+still be retrieved from that registry and must not be inferred.
 
 ---
 
@@ -68,7 +85,16 @@ not been verified.
 
 ## Status
 
-Draft / Unverified — every publishable contact or availability value in this
-document requires owner confirmation. This document must not be treated as
-authoritative or published to any channel (website, schema, AI, campaigns)
-until its status is changed through the documented approval process.
+Partially Verified:
+
+- Phone: Approved.
+- Website domain: Approved.
+- Hosting provider: Approved.
+- WhatsApp: Pending.
+- Email: Pending.
+- Working hours: Pending.
+- Social profile URLs: Pending.
+- Emergency-service availability: Pending.
+
+Consumers may publish only the fields explicitly marked Approved. Missing or
+pending fields must not be guessed or copied from legacy drafts.

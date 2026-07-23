@@ -1,6 +1,6 @@
 # Final Project Status
 
-- Branch: `chore/architecture-migration-20260723`
+- Current completion branch: `chore/knowledge-completion-20260723`
 - Baseline tag: `pre-architecture-migration-20260723-0326` (commit `46fa2a2`)
 - Plan ID: `MIGPLAN-20260723-0326-4ff3164091`
 - Generated after commit: `1c060f7`
@@ -20,8 +20,8 @@
 |---|---|
 | `00_GOVERNANCE/` | Complete — all 8 target documents present, including new `DECISION_LOG.md`. |
 | `01_BUSINESS/` | Complete — all 8 target documents present, including new `STAKEHOLDERS.md`. |
-| `02_BRAND/` | Complete — all 12 target documents present, including new `LOCAL_SEO_PROFILE.md`; `CONTACT_INFORMATION.md` status corrected to Draft/Unverified. |
-| `03_MARKET/` | 9 of 10 target documents present. `SERVICE_AREAS.md` intentionally not created — see HOLD items below. |
+| `02_BRAND/` | Structurally complete. Phone and domain are owner-approved; WhatsApp, email, address, hours, profile URLs, and branch facts remain pending. |
+| `03_MARKET/` | Structurally complete. All seven emirates are approved coverage areas for every current catalog service; lower-level areas remain pending. |
 | `04_SERVICE_KNOWLEDGE/` | Structurally complete — `README.md`, `SERVICE_CATALOG.md`, `SERVICE_MATRIX.md`, `SERVICE_WORKFLOW.md`, `SERVICE_KPIS.md`, `SERVICE_GLOSSARY.md` all new; `01_PEST_CONTROL/` package complete (12 files). 8 of 9 cataloged services have no package yet — draft source held, not fabricated. |
 | `05_OPERATIONS/`, `06_CUSTOMER_AND_SALES/`, `10_MARKETING_AND_SEO/`, `11_TECHNICAL/` | Scaffolded only — `README.md` documents structure and explicitly explains why substantive content (SOPs, pricing, SEO strategy, deployment procedures) was not invented. |
 | `07_WEBSITE/` | `README.md` added; `01_HOMEPAGE/` and `WORDPRESS/` complete; other subpages not yet built (correctly, since they depend on undecided content). |
@@ -53,7 +53,9 @@ All byte-for-byte intact, recorded in `ARCHIVE_MANIFEST.csv` with checksum, reas
 
 ## 4. HOLD items (25 — untouched, exactly as left)
 
-- **Service Areas (3)** — deferred to manual reconciliation, decision CNF-04. Blocks `03_MARKET/SERVICE_AREAS.md`, `04_SERVICE_KNOWLEDGE/SERVICE_MATRIX.md` population, and any `07_WEBSITE/04_LOCATIONS/` work.
+- **Service Areas legacy drafts (3)** — preserved untouched as migration
+  evidence. Owner confirmation now supersedes them for emirate-level
+  authority; their city/district lists remain unapproved.
 - **7 non-pest-control service drafts** (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — in scope per decision 5, folder-numbering convention not yet assigned.
 - **14 cross-cutting sales/operations drafts** — per-file placement under `06_CUSTOMER_AND_SALES/` or `05_OPERATIONS/` not yet decided.
 - **1 FAQ scope item** (general vs. per-service, `20_SERVICE_FAQ.md`) — resolved in principle (decision 7), exact destination path not yet approved.
@@ -64,10 +66,12 @@ All remain at their original migration-discovery paths under `00_START/01_BUSINE
 
 ## 5. Owner Input Required (cannot be resolved by further autonomous work)
 
-- Real phone and WhatsApp numbers (`02_BRAND/CONTACT_INFORMATION.md`).
+- Official WhatsApp number, email, address, working hours, social URLs, and
+  emergency-service policy (`02_BRAND/CONTACT_INFORMATION.md`). Phone and
+  domain are now approved.
 - Business address, map coordinates, branch structure, Google Business Profile URL (`02_BRAND/LOCAL_SEO_PROFILE.md`).
 - Named stakeholders/contacts for every internal role (`01_BUSINESS/STAKEHOLDERS.md`).
-- Reconciled, approved Service Areas list (CNF-04).
+- Approved city, district, community, branch, and operational constraint data.
 - Approval/review of the 7 held service drafts and 14 sales/ops drafts before they become canonical.
 - Numeric performance targets, security/compliance review, and formal quality-gate sign-off (`99_STANDARDS/{PERFORMANCE,SECURITY,QUALITY_CHECKLIST}`).
 - Commercial facts for `06_CUSTOMER_AND_SALES/` (pricing, warranty terms, policies).
@@ -79,8 +83,11 @@ All remain at their original migration-discovery paths under `00_START/01_BUSINE
 
 | Risk | Mitigation in place |
 |---|---|
-| Placeholder contact data could be mistakenly published | Marked Draft/Unverified in both the value and the document Status field; `99_STANDARDS/QUALITY_CHECKLIST.md` gates on this explicitly. |
-| Service Areas ambiguity could cause inconsistent coverage claims across channels | No canonical file exists yet; nothing currently claims coverage, so there's no live inconsistency — but this blocks 3 downstream documents until resolved. |
+| Partially verified contact data could be over-published | Each field now has
+an independent verification state; consumers may publish only Approved fields. |
+| Coverage could be overstated below emirate level | Canonical registry
+approves only the seven emirates and explicitly blocks city, district,
+community, branch, response-time, and live-availability inference. |
 | 8 of 9 catalog services have no real knowledge package | `SERVICE_CATALOG.md` explicitly marks their status; nothing presents draft/unapproved content as canonical. |
 | Large domains (`05_OPERATIONS`, `06_CUSTOMER_AND_SALES`, `10_MARKETING_AND_SEO`, `11_TECHNICAL`) are structural only | Explicitly documented as such in each `README.md`; no fabricated procedures exist to be mistakenly followed. |
 
@@ -98,8 +105,10 @@ All remain at their original migration-discovery paths under `00_START/01_BUSINE
 
 ## 8. Recommended next development step
 
-1. **Resolve the Service Areas HOLD (CNF-04)** — this unblocks the largest number of downstream documents (`SERVICE_AREAS.md`, `SERVICE_MATRIX.md`, location pages, local SEO).
-2. **Review the archive-manifest source material and provide the remaining owner-input facts** (Section 5 above) so `CONTACT_INFORMATION.md` and `LOCAL_SEO_PROFILE.md` can move from Draft to Approved.
+1. Complete the remaining service-knowledge packages, starting with Deep
+   Cleaning and the draft technical services.
+2. Provide remaining contact, business-profile, branch, and lower-level
+   location facts so local SEO and booking can progress safely.
 3. **Review this validation and status report, then decide on merge.** Per project policy, merging `chore/architecture-migration-20260723` into `main` requires your explicit approval — it has not been done automatically.
 4. Only after the above: begin authoring the 8 remaining service-knowledge packages and the `06_CUSTOMER_AND_SALES` / `05_OPERATIONS` domains, once the underlying business decisions exist to build them from.
 

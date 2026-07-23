@@ -26,6 +26,15 @@ Source: `SYSTEM_ARCHITECTURE.md` v1.0, migration plan `MIGPLAN-20260723-0326-4ff
 | 12 | Every migration batch required explicit user approval before execution. | Chosen migration-safety posture given the volume of overlapping/conflicting source material discovered during Phase A. |
 | 13 | `WORDPRESS_DATABASE_ARCHITECTURE.md` (former `05_DATABASE_ARCHITECTURE.md`) placed under `08_DIGITAL_SYSTEMS/DATABASE/`, not `07_WEBSITE/WORDPRESS/`. | Defines a hybrid WordPress + operational database architecture — belongs to the Digital Systems database domain per `SYSTEM_ARCHITECTURE.md` Sec. 5. |
 
+## 2026-07-23 — Owner-confirmed operating inputs
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 14 | Canonical phone is `+971 58 543 1766`. | Phone only; WhatsApp remains unconfirmed and must not be inferred. |
+| 15 | Production domain is `afaqalhayatae.com`. | Canonical host and redirect configuration require deployment verification. |
+| 16 | Hosting provider is Hostinger. | Exact plan compatibility with Next.js, Node.js, PostgreSQL, CI/CD, backups, and staging requires technical verification. |
+| 17 | All services in the current canonical catalog are offered across all seven UAE emirates. | Approval is emirate-level only; it does not authorize city/community pages, virtual branches, response-time promises, or automatic booking availability. |
+
 ## Deferred / open (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` for full detail)
 
 - Folder-numbering convention for 7 additional service-knowledge packages (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — content in scope per decision 5, destination IDs not yet assigned.

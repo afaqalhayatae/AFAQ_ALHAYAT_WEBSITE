@@ -2,18 +2,50 @@
 
 ## Purpose
 
-Maps which services (from `SERVICE_CATALOG.md`) are available in which locations (from `03_MARKET/SERVICE_AREAS.md`), per `SYSTEM_ARCHITECTURE.md` Sec. 9.2. Website local-landing pages and booking availability must read from this matrix, not maintain their own coverage lists.
+Maps the services in `SERVICE_CATALOG.md` to the approved emirates in
+`03_MARKET/SERVICE_AREAS.md`. Website landing pages, booking, CRM, campaigns,
+analytics, and AI must read this matrix rather than maintain independent
+coverage claims.
 
----
+## Status
 
-# Status
+Approved at emirate level by direct owner confirmation on 2026-07-23.
+Operational date/time availability and lower-level locations remain subject to
+booking confirmation and the canonical area registry.
 
-**Blocked — cannot be populated yet.** `03_MARKET/SERVICE_AREAS.md` is not yet finalized: three overlapping drafts remain on HOLD pending manual reconciliation (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3). Building this matrix before that reconciliation would risk encoding an unapproved or inconsistent area list as fact.
+## Approved Emirate Set
 
-Once `SERVICE_AREAS.md` is finalized, this document should be populated as:
+- `LOC-AE-AZ` — Abu Dhabi
+- `LOC-AE-DU` — Dubai
+- `LOC-AE-SH` — Sharjah
+- `LOC-AE-AJ` — Ajman
+- `LOC-AE-UQ` — Umm Al Quwain
+- `LOC-AE-RK` — Ras Al Khaimah
+- `LOC-AE-FU` — Fujairah
 
-| Service ID | Location ID | Available |
-|---|---|---|
-| `SVC-PEST-CONTROL` | `LOC-AE-...` | Owner Input Required |
+## Coverage Matrix
 
-Naming for location IDs follows `99_STANDARDS/NAMING_CONVENTIONS.md`: `LOC-AE-<EMIRATE>-<AREA>`.
+| Service ID | Approved Location IDs | Coverage Status | Booking Constraint |
+|---|---|---|---|
+| `SVC-PEST-CONTROL` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-AC-MAINTENANCE` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-GENERAL-CLEANING` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-DEEP-CLEANING` | All approved emirates | Active | Knowledge package still requires completion before detailed publication |
+| `SVC-WATER-TANK-CLEANING` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-PLUMBING` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-ELECTRICAL-MAINTENANCE` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-PAINTING` | All approved emirates | Active | Confirm date/time and service scope |
+| `SVC-HANDYMAN` | All approved emirates | Active | Confirm date/time and service scope |
+
+`All approved emirates` expands only to the seven IDs listed above.
+
+## Consumer Rules
+
+- Coverage means the company offers the service in the emirate; it does not
+  promise immediate availability, travel time, price, or response time.
+- A detailed service page cannot exceed the approved knowledge package.
+- No city or community page may be generated until that location exists in the
+  canonical registry.
+- Booking systems must recheck current operational availability.
+- AI must state uncertainty about scheduling and lower-level coverage.
+- New service IDs require explicit matrix review.

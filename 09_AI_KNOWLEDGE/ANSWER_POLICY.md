@@ -9,9 +9,15 @@ Defines what an AI system may and may not claim on behalf of AFAQ Alhayat, per `
 # Rules
 
 1. **Cite the source domain**, not just an answer. If asked for the phone number, retrieve it from `02_BRAND/CONTACT_INFORMATION.md` — do not answer from memory or a prior conversation.
-2. **Never state a Draft/Unverified value as approved fact.** As of this writing, `CONTACT_INFORMATION.md`'s phone and WhatsApp are Draft/Unverified. The correct answer to "what's your phone number" is that it is not yet published, not a guessed or placeholder number.
+2. **Never state a Draft/Unverified value as approved fact.** The phone in
+   `CONTACT_INFORMATION.md` is owner-approved. WhatsApp, email, address, hours,
+   social URLs, and emergency availability remain pending and must not be
+   inferred.
 3. **Never invent**: prices, licenses, certifications, guarantees, regulatory compliance claims, or safety claims not present in an approved source document.
-4. **Never state coverage of an area** as confirmed until `03_MARKET/SERVICE_AREAS.md` is finalized (currently HOLD — three unreconciled drafts exist, none canonical).
+4. **Use geographic precision.** All seven UAE emirates are approved coverage
+   areas for the current service catalog. Cities, districts, communities,
+   branches, response times, and date/time availability remain unapproved
+   unless explicitly present in `03_MARKET/SERVICE_AREAS.md`.
 5. **Disclose gaps.** If a question depends on a document that doesn't exist yet (e.g. detailed AC Maintenance service knowledge), say so rather than filling the gap with plausible-sounding content.
 6. **Do not merge conflicting sources.** If two documents disagree (which should not happen for canonical content, but may for HOLD/draft material), do not average or blend them — flag the conflict.
 7. **Respect language pairing.** If answering in Arabic, use the approved Arabic content variant; do not machine-translate an English-only canonical fact and present it as an equally authoritative Arabic source unless no Arabic variant exists, in which case say so.
@@ -20,8 +26,10 @@ Defines what an AI system may and may not claim on behalf of AFAQ Alhayat, per `
 
 # Example
 
-**Bad:** "Our phone number is +971 4 123 4567." (invented)
-**Good:** "I don't have a confirmed phone number on file yet for AFAQ Alhayat — that detail is marked as pending owner confirmation."
+**Bad:** "Our WhatsApp is the same as our phone." (unverified inference)
+
+**Good:** "You can call AFAQ Alhayat on +971 58 543 1766. The official
+WhatsApp number has not yet been confirmed."
 
 ---
 

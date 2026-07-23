@@ -9,7 +9,7 @@ This domain holds the authoritative, website-independent definition of every ser
 # Structure
 
 - `SERVICE_CATALOG.md` — the official list of services, stable IDs, and category.
-- `SERVICE_MATRIX.md` — service-to-location availability (depends on `03_MARKET/SERVICE_AREAS.md`, not yet finalized).
+- `SERVICE_MATRIX.md` — approved service-to-emirate availability.
 - `SERVICE_WORKFLOW.md` — the shared service-delivery workflow shape, where one exists.
 - `SERVICE_KPIS.md` — cross-service quality/performance indicators.
 - `SERVICE_GLOSSARY.md` — shared terminology.
@@ -36,5 +36,6 @@ This domain holds the authoritative, website-independent definition of every ser
 # Related sources
 
 - Service list origin: [`01_BUSINESS/COMPANY_PROFILE.md`](../01_BUSINESS/COMPANY_PROFILE.md) — "Core Services."
-- Geographic coverage: `03_MARKET/SERVICE_AREAS.md` — not yet created; pending manual reconciliation of 3 held drafts (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3).
+- Geographic coverage: `03_MARKET/SERVICE_AREAS.md` — all seven emirates
+  approved; cities, districts, communities, and branches remain pending.
 - Documentation shape: [`99_STANDARDS/SERVICE_TEMPLATE.md`](../99_STANDARDS/SERVICE_TEMPLATE.md).
