@@ -5,6 +5,13 @@
 Define controlled automation for knowledge, marketing, customer operations,
 media production, publishing, notifications, and reporting.
 
+## Documents
+
+| Document | Purpose |
+|---|---|
+| `AGENT_ORCHESTRATION.md` | Control-plane architecture for agent orchestration — job envelope, conflict prevention, event flow, and implementation gate. |
+| `AGENT_RUNBOOK.md` | Repeatable execution modes, stop conditions, validation, and completion reporting for specialist agents. |
+
 ## Safety Model
 
 Automation is divided into risk classes:
@@ -45,4 +52,3 @@ rollback.
 8. Analytics and performance feedback
 
 No live external action is authorized by this document alone.
-

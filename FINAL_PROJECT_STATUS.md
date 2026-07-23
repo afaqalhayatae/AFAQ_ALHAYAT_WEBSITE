@@ -1,5 +1,11 @@
 # Final Project Status
 
+> **Historical snapshot:** This report describes the migration-completion state
+> at commit `1c060f7`. It is preserved for audit history and is not the current
+> project status. Use
+> [`00_GOVERNANCE/CURRENT_PROJECT_STATUS.md`](00_GOVERNANCE/CURRENT_PROJECT_STATUS.md)
+> for the live status.
+
 - Current completion branch: `chore/knowledge-completion-20260723`
 - Baseline tag: `pre-architecture-migration-20260723-0326` (commit `46fa2a2`)
 - Plan ID: `MIGPLAN-20260723-0326-4ff3164091`

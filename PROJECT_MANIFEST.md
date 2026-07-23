@@ -25,7 +25,7 @@ Master Project Manifest
 
 # Vision
 
-Build a complete Enterprise Knowledge System that becomes the single source of truth for every department, employee, customer-facing platform, and AI system.
+Build a complete Enterprise Knowledge System that becomes the single source of truth for the business owner, every governed AI agent, customer-facing platform, and automated system.
 
 This project is not a website.
 
@@ -130,16 +130,11 @@ These may integrate later but are not core documentation goals.
 
 # Primary Stakeholders
 
-- Company Owners
-- Executive Management
-- Operations Team
-- Sales Team
-- Customer Service
-- Marketing Team
-- Developers
-- Designers
+- Business Owner (the sole internal human operator and final authority)
 - AI Systems
-- Future Employees
+- Automated Digital Systems
+- Customers
+- External Licensed Service Providers, when legally or operationally required
 
 ---
 
@@ -147,11 +142,13 @@ These may integrate later but are not core documentation goals.
 
 The project is successful when:
 
-- Every employee can find accurate information quickly.
+- The owner can control the business from one governed operating system.
 - Every service has complete operational documentation.
-- Developers can build systems without guessing business rules.
+- AI agents can execute permitted work without guessing business rules.
 - AI systems can answer customer questions accurately.
 - Customers receive consistent information across all channels.
+- Routine marketing, support, reporting, and publishing workflows operate
+  automatically with recorded evidence, approval gates, and rollback.
 
 ---
 
@@ -200,6 +197,7 @@ This repository will evolve into the central knowledge platform powering:
 - Customer Self-Service
 - Business Intelligence
 - Future Automation
+- An owner-led, agent-operated business model
 
 ---
 

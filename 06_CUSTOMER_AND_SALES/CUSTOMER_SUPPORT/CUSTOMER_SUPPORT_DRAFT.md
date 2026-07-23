@@ -59,7 +59,7 @@ Email
 1. Receive customer inquiry.
 2. Verify customer details.
 3. Understand the issue or request.
-4. Assign the appropriate department.
+4. Route to the responsible governed agent role or the owner-review escalation queue.
 5. Provide updates until resolution.
 6. Confirm customer satisfaction.
 7. Close the support request.
@@ -108,7 +108,7 @@ Success should be measured through:
 
 Customer support should continuously improve by:
 
-- Training staff
+- Refining AI agent instructions and knowledge sources
 - Reviewing feedback
 - Updating procedures
 - Improving response times

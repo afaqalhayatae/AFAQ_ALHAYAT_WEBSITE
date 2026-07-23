@@ -11,6 +11,7 @@ CRM, customer portal, admin dashboard, API, database, integrations, and automati
 | Folder | Contents |
 |---|---|
 | `DATABASE/` | `WORDPRESS_DATABASE_ARCHITECTURE.md` — hybrid WordPress + operational database architecture, migrated from the WordPress research track (see `00_GOVERNANCE/DECISION_LOG.md` decision 13). |
+| `AUTOMATION/` | `AGENT_ORCHESTRATION.md` and `AGENT_RUNBOOK.md` — control-plane architecture and repeatable operating workflow; see `00_GOVERNANCE/AI_OPERATING_MODEL.md`. |
 
 # Planned structure (not yet populated)
 

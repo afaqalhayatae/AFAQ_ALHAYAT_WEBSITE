@@ -14,15 +14,19 @@ automation, or customer application.
 
 - Architecture migration completed on a protected Git branch with rollback
   points and checksum evidence.
-- Pest Control is the only complete service knowledge package.
-- Additional service, operations, sales, marketing, and technical domains are
-  under controlled completion.
-- Contact information and geographic service coverage are not approved for
-  publication.
+- Pest Control is complete; eleven additional owner-confirmed service packages
+  are at controlled stages of completion.
+- Operations, sales, marketing, automation, and technical domains are under
+  controlled completion.
+- Phone, domain, emirate coverage, and the approved priority-community registry
+  may be used from their canonical sources. Other contact and operational facts
+  remain field-level Pending/Unverified.
+- The approved operating model has one internal human: the business owner.
+  Governed AI agents and automated systems perform delegated functions.
 - Production implementation must not begin from Draft, HOLD, or Unverified
   content.
 
-See `FINAL_PROJECT_STATUS.md` for the latest detailed status and
+See `00_GOVERNANCE/CURRENT_PROJECT_STATUS.md` for the latest detailed status and
 `00_GOVERNANCE/DECISION_LOG.md` for approved decisions.
 
 ## Repository Map
@@ -60,9 +64,14 @@ See `FINAL_PROJECT_STATUS.md` for the latest detailed status and
 
 1. Read `PROJECT_MANIFEST.md`.
 2. Read `SYSTEM_ARCHITECTURE.md`.
-3. Check `FINAL_PROJECT_STATUS.md`.
+3. Check `00_GOVERNANCE/CURRENT_PROJECT_STATUS.md`.
 4. Review `00_GOVERNANCE/DECISION_LOG.md`.
-5. Use `99_STANDARDS/QUALITY_CHECKLIST.md` before approving any release.
+5. Understand the operating model in `00_GOVERNANCE/AI_OPERATING_MODEL.md` and
+   `00_GOVERNANCE/AUTONOMY_AND_APPROVAL_MATRIX.md`.
+6. Use `00_GOVERNANCE/AGENT_REGISTRY.md` and
+   `08_DIGITAL_SYSTEMS/AUTOMATION/AGENT_RUNBOOK.md` when delegating work.
+7. Route models using `00_GOVERNANCE/MODEL_ROUTING_POLICY.md`.
+8. Use `99_STANDARDS/QUALITY_CHECKLIST.md` before approving any release.
 
 ## Publication Gate
 

@@ -22,10 +22,17 @@ Cross-service SOPs, quality assurance, health/safety/environment rules, forms, c
 
 # Why this domain is not yet populated
 
-Real SOPs, safety rules, and incident procedures require input from the operations team who actually run service delivery — see `01_BUSINESS/STAKEHOLDERS.md`. Authoring these without that input would mean inventing procedures AFAQ Alhayat doesn't actually follow, which this project's governing rules explicitly prohibit. The one exception already captured is the shared workflow shape derived from the approved Pest Control package, at `04_SERVICE_KNOWLEDGE/SERVICE_WORKFLOW.md`.
+Real SOPs, safety rules, and incident procedures require approval by the
+business owner and, where the work is regulated or technically specialized,
+evidence from the applicable external licensed provider, manufacturer, or
+authority. The project has no assumed internal operations team. Authoring
+procedures without evidence would mean inventing practices AFAQ Alhayat does
+not actually follow. The shared workflow shape derived from the approved Pest
+Control package remains at `04_SERVICE_KNOWLEDGE/SERVICE_WORKFLOW.md`.
 
 ---
 
 # Status
 
-Structural placeholder only. Populate once operational input is available.
+Structural foundation. Populate through the governed owner-and-agent workflow;
+specialist evidence is required where applicable.

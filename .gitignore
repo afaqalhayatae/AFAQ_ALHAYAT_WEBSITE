@@ -12,6 +12,7 @@
 *.swp
 *.swo
 .claude/settings.local.json
+install-debug.log
 
 # Windows
 Thumbs.db

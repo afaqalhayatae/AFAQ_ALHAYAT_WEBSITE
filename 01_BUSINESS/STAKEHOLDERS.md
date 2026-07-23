@@ -2,84 +2,81 @@
 
 ## Purpose
 
-This document identifies the primary stakeholder groups of AFAQ Alhayat, as defined in `PROJECT_MANIFEST.md`, and records their role and interest in the Enterprise Knowledge System. Named individuals, titles, and contact details are **Owner Input Required** — none are recorded here to avoid inventing organizational facts.
+This document defines the approved operating model for AFAQ Alhayat. The
+business owner confirmed that he is the **only internal human operator**.
+Internal departments and employees must not be assumed. Their functions are
+implemented by governed AI agents and digital systems, with the owner retaining
+final authority.
 
 ---
 
-# Internal Stakeholders
+# Human Authority
 
-## Company Owners
+## Business Owner
 
-- Role: Ultimate decision authority over business direction, brand, and investment.
-- Interest in this system: Source-of-truth for company identity, strategy, and approvals.
-- Named individuals: Owner Input Required.
+- Role: Sole internal human operator, business owner, and final decision
+  authority.
+- Owns: company facts, commercial decisions, brand approval, publishing
+  authority, credentials, budgets, legal commitments, payments, and exceptions.
+- May delegate execution to AI agents but not accountability.
+- Is the only person represented as an internal approver in this repository
+  unless the owner explicitly changes the operating model.
 
-## Executive Management
+# AI and System Operators
 
-- Role: Day-to-day strategic and operational leadership.
-- Interest in this system: Governance, roadmap, decision log, business goals.
-- Named individuals: Owner Input Required.
+AI agents perform functional roles without being represented as employees.
+Their authority is limited by
+[`00_GOVERNANCE/AI_OPERATING_MODEL.md`](../00_GOVERNANCE/AI_OPERATING_MODEL.md)
+and
+[`00_GOVERNANCE/AUTONOMY_AND_APPROVAL_MATRIX.md`](../00_GOVERNANCE/AUTONOMY_AND_APPROVAL_MATRIX.md).
 
-## Operations Team
+## Orchestration Agent
 
-- Role: Service delivery, SOPs, quality, safety, technician management.
-- Interest in this system: `04_SERVICE_KNOWLEDGE/`, `05_OPERATIONS/`.
-- Named individuals / department contacts: Owner Input Required.
+- Coordinates specialist agents, isolates edits, prevents conflicts, validates
+  evidence, and presents owner decisions.
 
-## Sales Team
+## Knowledge and Governance Agent
 
-- Role: Lead conversion, quotations, customer acquisition.
-- Interest in this system: `06_CUSTOMER_AND_SALES/`, `03_MARKET/`, service catalog.
-- Named individuals / department contacts: Owner Input Required.
+- Maintains architecture, canonical sources, decisions, standards, links, and
+  document lifecycle.
 
-## Customer Service
+## Customer and Sales Agent
 
-- Role: Support, complaints, booking assistance, warranty handling.
-- Interest in this system: `06_CUSTOMER_AND_SALES/`, per-service FAQ and customer guide documents.
-- Named individuals / department contacts: Owner Input Required.
+- Qualifies leads, provides approved information, supports booking, records
+  conversations, and escalates commitments requiring owner approval.
 
-## Marketing Team
+## Marketing, SEO, and Publishing Agent
 
-- Role: Brand expression, SEO, campaigns, content.
-- Interest in this system: `02_BRAND/`, `10_MARKETING_AND_SEO/`.
-- Named individuals / department contacts: Owner Input Required.
+- Plans and produces governed content for search, email, and social platforms.
+- Cannot publish unsupported facts or spend money without the applicable gate.
 
-## Developers
+## Website and Systems Agent
 
-- Role: Build and maintain the website, CRM, portal, API, and automation.
-- Interest in this system: `07_WEBSITE/`, `08_DIGITAL_SYSTEMS/`, `11_TECHNICAL/`.
-- Named individuals / team: Owner Input Required.
+- Builds and maintains approved website, data, CRM, integration, and automation
+  changes with testing and rollback.
 
-## Designers
+## Quality and Safety Agent
 
-- Role: Visual and interaction design across channels.
-- Interest in this system: `12_DESIGN_SYSTEM/`, `02_BRAND/`.
-- Named individuals / team: Owner Input Required.
-
-## Future Employees
-
-- Role: Onboarding and reference for anyone joining AFAQ Alhayat.
-- Interest in this system: `00_GOVERNANCE/`, `99_STANDARDS/`, service and operations knowledge as their role requires.
+- Reviews claims, links, naming, accessibility, security, bilingual parity, and
+  Single Source of Truth compliance. It cannot approve its own high-risk work.
 
 ---
 
-# System / AI Stakeholders
-
-## AI Systems
-
-- Role: Answer customer and internal questions, generate or assist with content, retrieve knowledge per `09_AI_KNOWLEDGE/RETRIEVAL_POLICY.md` (once authored).
-- Constraint: Must not invent facts; must defer to canonical sources and disclose uncertainty per `PROJECT_MANIFEST.md`'s AI-native principle.
-
----
-
-# External Stakeholders (not authors of this repository)
+# External Stakeholders
 
 - Customers — consumers of service knowledge, booking, and support content.
-- Regulatory bodies — relevant to `05_OPERATIONS/SAFETY/` and any licensing/compliance claims, none of which are recorded without verified source documents.
-- Partners / property management companies — referenced in `01_BUSINESS/BUSINESS_GOALS.md` medium-term goals; specific partnerships are Owner Input Required.
+- Regulators and platform providers — sources of applicable rules and
+  verification requirements.
+- Licensed technicians, contractors, suppliers, and specialist service
+  providers — may perform physical or regulated work when required. They are
+  external providers, not internal employees, and receive only the minimum
+  information and authority needed for an approved job.
+- Hosting, advertising, communications, and software providers — external
+  processors governed by credentials, access, privacy, cost, and audit rules.
 
 ---
 
 # Status
 
-Draft — stakeholder categories are derived from `PROJECT_MANIFEST.md`; named individuals and contact details require owner input before this document can be marked Approved.
+Approved operating model — sole internal human owner with governed AI agents,
+automated systems, customers, and external providers where necessary.

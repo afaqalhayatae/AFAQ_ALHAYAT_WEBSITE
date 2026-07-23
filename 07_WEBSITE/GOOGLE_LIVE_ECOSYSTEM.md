@@ -94,7 +94,7 @@ Google Business Profile’s former native chat and call-history features ended o
 The supported contact architecture is:
 
 - Human-like AI assistant on the website under the approved assistant standard.
-- Human handoff.
+- Owner-review escalation.
 - Verified phone and WhatsApp.
 - Booking or enquiry form.
 - Eligible Google Business Profile contact or business links where available.

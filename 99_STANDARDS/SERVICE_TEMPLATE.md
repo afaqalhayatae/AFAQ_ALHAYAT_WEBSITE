@@ -8,7 +8,7 @@
 |--------|-------------|
 | Service Name | Official service name |
 | Category | Service category |
-| Department | Responsible department |
+| Responsible Agent Role | Governed agent role responsible for this service (see `00_GOVERNANCE/AI_OPERATING_MODEL.md`) |
 | Owner | Business owner |
 | Version | Document version |
 | Status | Draft / Review / Approved |
