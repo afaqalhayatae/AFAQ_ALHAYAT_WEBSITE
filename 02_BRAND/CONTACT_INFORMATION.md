@@ -8,13 +8,13 @@ AFAQ Alhayat Maintenance, Cleaning & Pest Control
 
 ## Phone
 
-+971 XX XXX XXXX
++971 XX XXX XXXX — **Owner Input Required.** Placeholder value; not verified, not for publication.
 
 ---
 
 ## WhatsApp
 
-+971 XX XXX XXXX
++971 XX XXX XXXX — **Owner Input Required.** Placeholder value; not verified, not for publication.
 
 ---
 
@@ -80,4 +80,4 @@ Available
 
 ## Status
 
-Approved
+Draft / Unverified — Phone and WhatsApp values are placeholders and require owner confirmation before this document may be treated as authoritative or published to any channel (website, schema, AI, campaigns).
