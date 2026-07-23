@@ -79,6 +79,10 @@ Every page must support:
 - Fast Loading
 - Clean URLs
 
+URL structure, canonical handling, redirects, language alternates, and internal
+linking must follow the
+[URL and Internal Linking Standard](../10_MARKETING_AND_SEO/URL_AND_INTERNAL_LINKING_STANDARD.md).
+
 ---
 
 # Internal Linking
