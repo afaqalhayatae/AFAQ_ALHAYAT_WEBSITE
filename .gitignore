@@ -1,0 +1,17 @@
+# Conservative baseline .gitignore — OS and editor artifacts only.
+# Project content (Markdown, data, etc.) is never ignored.
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor / tool local state
+.vscode/
+.idea/
+*.swp
+*.swo
+.claude/settings.local.json
+
+# Windows
+Thumbs.db
