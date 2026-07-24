@@ -1,8 +1,21 @@
 # Warranty Policy
 
+## Document Control
+
+- Owner: Business owner
+- Status: Legacy draft source
+- Version: 0.1
+- Publication: Blocked
+- Canonical domain: [`../WARRANTY/`](../WARRANTY/)
+- Evidence required: Owner-approved terms, effective date, and legal review where applicable
+
+> This legacy draft is not an official warranty and creates no customer
+> commitment.
+
 ## Purpose
 
-This document defines the official warranty policy for services provided by AFAQ Alhayat to ensure transparency, customer confidence, and consistent post-service support.
+This document preserves unapproved migration source material for future owner
+review.
 
 ---
 
@@ -14,7 +27,8 @@ AFAQ Alhayat stands behind the quality of its workmanship and is committed to re
 
 # Warranty Coverage
 
-The warranty applies to workmanship performed by AFAQ Alhayat technicians.
+Any future warranty scope and responsible external provider are `Owner Input
+Required`.
 
 Coverage may include:
 

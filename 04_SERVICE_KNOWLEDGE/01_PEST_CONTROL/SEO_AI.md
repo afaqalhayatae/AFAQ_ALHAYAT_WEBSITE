@@ -4,6 +4,10 @@
 
 This document defines the SEO strategy and AI knowledge structure for the Pest Control service.
 
+This is a draft discovery framework. It must not be used to generate live
+answers or publish safety, credential, product, response-time, compliance,
+price, result, or warranty claims until their evidence is approved.
+
 ---
 
 # Primary Keywords
@@ -85,4 +89,4 @@ Pest Control Service
 
 # Status
 
-Approved SEO & AI Knowledge
+Draft — Not Approved for Publication or Live AI Answers

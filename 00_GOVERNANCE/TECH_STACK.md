@@ -1,8 +1,30 @@
 # Technology Stack
 
+## Document Information
+
+- **Owner:** Business Owner
+- **Status:** Approved Direction / Hosting Verification Pending
+- **Version:** 1.1
+- **Last Updated:** 2026-07-24
+
 ## Purpose
 
 This document defines the official technology stack for the AFAQ Alhayat Digital Platform.
+
+---
+
+# Canonical Implementation Decision
+
+The canonical implementation direction is Next.js, TypeScript, React,
+Tailwind CSS, Node.js, PostgreSQL, and Prisma.
+
+Documents under `07_WEBSITE/WORDPRESS/` and the WordPress database research
+document are retained as non-canonical historical research. They do not
+authorize a WordPress or hybrid implementation unless the owner records a new
+decision.
+
+Hostinger compatibility remains a deployment gate and must be verified against
+the actual purchased plan before infrastructure implementation.
 
 ---
 

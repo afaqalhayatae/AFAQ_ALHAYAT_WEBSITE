@@ -6,7 +6,7 @@
 - **Official English name:** Waterproofing
 - **Working Arabic name:** أعمال العزل المائي
 - **Category:** Drainage & Water Protection
-- **Status:** Draft — Owner, Operations, Technical, and Safety Review Required
+- **Status:** Structurally Complete Draft — Owner, Technical, and Safety Evidence Required
 
 ## Purpose
 
@@ -49,3 +49,5 @@ The package must be expanded using
 [`99_STANDARDS/SERVICE_TEMPLATE.md`](../../99_STANDARDS/SERVICE_TEMPLATE.md)
 after owner and technical review.
 
+The standard document set now exists as Draft/Not for Publication. No system,
+material, application method, lifespan, result, or warranty is approved.

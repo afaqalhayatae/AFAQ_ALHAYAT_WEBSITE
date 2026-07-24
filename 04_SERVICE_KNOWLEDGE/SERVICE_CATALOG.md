@@ -17,17 +17,17 @@ through `SERVICE_MATRIX.md`; this catalog does not duplicate location data.
 | ID | Name | Category | Knowledge package status |
 |---|---|---|---|
 | `SVC-PEST-CONTROL` | Pest Control | Cleaning & Pest Control | ✅ Complete — [`01_PEST_CONTROL/`](01_PEST_CONTROL/) |
-| `SVC-AC-MAINTENANCE` | AC Maintenance | General Maintenance | Draft package — [`02_AC_MAINTENANCE/`](02_AC_MAINTENANCE/) |
+| `SVC-AC-MAINTENANCE` | AC Maintenance | General Maintenance | Structurally complete draft — [`02_AC_MAINTENANCE/`](02_AC_MAINTENANCE/) |
 | `SVC-GENERAL-CLEANING` | General Cleaning | Cleaning & Pest Control | Review-ready package — [`03_GENERAL_CLEANING/`](03_GENERAL_CLEANING/) |
-| `SVC-DEEP-CLEANING` | Deep Cleaning | Cleaning & Pest Control | Blocked package — [`04_DEEP_CLEANING/`](04_DEEP_CLEANING/) |
+| `SVC-DEEP-CLEANING` | Deep Cleaning | Cleaning & Pest Control | Structurally complete; facts blocked pending owner scope — [`04_DEEP_CLEANING/`](04_DEEP_CLEANING/) |
 | `SVC-WATER-TANK-CLEANING` | Water Tank Cleaning | Cleaning & Pest Control | Review-ready package — [`05_WATER_TANK_CLEANING/`](05_WATER_TANK_CLEANING/) |
-| `SVC-PLUMBING` | Plumbing | General Maintenance | Draft package — [`06_PLUMBING/`](06_PLUMBING/) |
-| `SVC-ELECTRICAL-MAINTENANCE` | Electrical Maintenance | General Maintenance | Draft package — [`07_ELECTRICAL_MAINTENANCE/`](07_ELECTRICAL_MAINTENANCE/) |
-| `SVC-PAINTING` | Painting | General Maintenance | Draft package — [`08_PAINTING/`](08_PAINTING/) |
-| `SVC-HANDYMAN` | Handyman Services | General Maintenance | Draft package — [`09_HANDYMAN/`](09_HANDYMAN/) |
-| `SVC-DRAIN-UNBLOCKING` | Drain Unblocking | Drainage & Water Protection | Draft package — [`10_DRAIN_UNBLOCKING/`](10_DRAIN_UNBLOCKING/) |
-| `SVC-WATERPROOFING` | Waterproofing | Drainage & Water Protection | Draft package — [`11_WATERPROOFING/`](11_WATERPROOFING/) |
-| `SVC-WATER-LEAK-DETECTION` | Water Leak Detection | Drainage & Water Protection | Draft package — [`12_WATER_LEAK_DETECTION/`](12_WATER_LEAK_DETECTION/) |
+| `SVC-PLUMBING` | Plumbing | General Maintenance | Structurally complete draft — [`06_PLUMBING/`](06_PLUMBING/) |
+| `SVC-ELECTRICAL-MAINTENANCE` | Electrical Maintenance | General Maintenance | Structurally complete draft — [`07_ELECTRICAL_MAINTENANCE/`](07_ELECTRICAL_MAINTENANCE/) |
+| `SVC-PAINTING` | Painting | General Maintenance | Structurally complete draft — [`08_PAINTING/`](08_PAINTING/) |
+| `SVC-HANDYMAN` | Handyman Services | General Maintenance | Structurally complete draft — [`09_HANDYMAN/`](09_HANDYMAN/) |
+| `SVC-DRAIN-UNBLOCKING` | Drain Unblocking | Drainage & Water Protection | Structurally complete draft — [`10_DRAIN_UNBLOCKING/`](10_DRAIN_UNBLOCKING/) |
+| `SVC-WATERPROOFING` | Waterproofing | Drainage & Water Protection | Structurally complete draft — [`11_WATERPROOFING/`](11_WATERPROOFING/) |
+| `SVC-WATER-LEAK-DETECTION` | Water Leak Detection | Drainage & Water Protection | Structurally complete draft — [`12_WATER_LEAK_DETECTION/`](12_WATER_LEAK_DETECTION/) |
 
 ---
 
@@ -56,8 +56,9 @@ Two superseded overview drafts that informed this catalog's reconciliation are p
 # Status
 
 Approved service list — stable service IDs and package paths are established.
-Package maturity remains independent: Pest Control is complete, General
+Package maturity remains independent: Pest Control is structurally complete but
+requires evidence review, General
 Cleaning and Water Tank Cleaning are review-ready, other packages require
-content completion, and Deep Cleaning requires a detailed scope package.
+owner and competent evidence review, and Deep Cleaning requires owner scope.
 Drain Unblocking, Waterproofing, and Water Leak Detection are owner-confirmed
 services whose technical scope must be approved before detailed publication.

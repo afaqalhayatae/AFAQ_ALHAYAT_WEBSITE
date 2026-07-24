@@ -38,8 +38,17 @@ It serves as the single source of truth for this service across all company syst
 
 ---
 
+## Evidence Gate
+
+The package is structurally complete, but its operational, safety, compliance,
+credential, product, response-time, and warranty claims require owner and
+competent evidence review before public or field use. In particular, no
+certification, municipality-compliance, approved-product, child/pet-safety,
+fast-response, or warranty claim may be published solely because it appears in
+this package.
+
 ## Status
 
-Enterprise Service Knowledge Package
+Review Required — Not Approved for Publication or Field Execution
 
 Version 1.0

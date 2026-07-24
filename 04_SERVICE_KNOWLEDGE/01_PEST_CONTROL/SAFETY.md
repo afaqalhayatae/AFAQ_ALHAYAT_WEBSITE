@@ -4,6 +4,11 @@
 
 This document defines the health, safety, and environmental requirements for the Pest Control service.
 
+This is a legacy draft control list, not an approved risk assessment, method
+statement, product label, or field instruction. A competent safety review must
+confirm hazards, products, exposure routes, controls, PPE, re-entry guidance,
+emergency response, and disposal requirements for the actual service.
+
 ---
 
 # Personal Protective Equipment (PPE)
@@ -64,4 +69,4 @@ This document defines the health, safety, and environmental requirements for the
 
 # Status
 
-Approved Safety Knowledge
+Draft — Competent Safety Review Required Before Field Use

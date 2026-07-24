@@ -1,5 +1,8 @@
 # English Content
 
+> **Status:** Review Draft — claims below require owner and evidence approval
+> before publication.
+
 ## Service Title
 
 Professional Pest Control Services
@@ -26,10 +29,10 @@ AFAQ Alhayat provides professional pest control services using safe, approved, a
 
 ## Why Choose Us?
 
-- Certified Technicians
-- Approved Treatment Products
-- Fast Response
-- Safe Solutions
+- Competency evidence to be confirmed
+- Product approvals to be confirmed
+- Response commitment to be confirmed
+- Safety claims subject to case-specific assessment
 - Professional Inspection Reports
 - Scheduled Maintenance Programs
 

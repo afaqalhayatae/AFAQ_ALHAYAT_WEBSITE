@@ -3,7 +3,7 @@
 ## Document Information
 
 - **Service ID:** `SVC-PAINTING`
-- **Status:** Draft package — Owner and Operations Review Required
+- **Status:** Structurally Complete Draft — Owner and Operations Evidence Required
 - **Source:** `SOURCE_DRAFT.md`
 
 ## Purpose
@@ -21,3 +21,7 @@ The source draft is preserved unchanged pending validation.
   policy.
 - Remove or verify durability, warranty, safety, and timing claims.
 
+## Package Completion
+
+The standard document set now exists as Draft/Not for Publication. Scope,
+products, controls, acceptance, timing, and commercial claims remain pending.

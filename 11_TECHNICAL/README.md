@@ -1,5 +1,23 @@
 # Technical
 
+## Document Control
+
+- **Owner:** Business Owner
+- **Status:** Foundation Complete — Implementation Gates Open
+- **Version:** 1.0
+- **Updated:** 2026-07-24
+
+## Index
+
+- [Solution Architecture](SOLUTION_ARCHITECTURE.md)
+- [Security Implementation Standard](SECURITY_IMPLEMENTATION_STANDARD.md)
+- [Testing Strategy](TESTING_STRATEGY.md)
+- [Deployment and Monitoring](DEPLOYMENT_AND_MONITORING.md)
+- [Disaster Recovery](DISASTER_RECOVERY.md)
+
+These documents define implementation requirements. They contain no source
+code, credentials, or authorization to deploy.
+
 ## Purpose
 
 Technical architecture, security, testing, deployment, and monitoring — per `SYSTEM_ARCHITECTURE.md` Sec. 5. This domain owns *how* systems are built; it must not own business policy.

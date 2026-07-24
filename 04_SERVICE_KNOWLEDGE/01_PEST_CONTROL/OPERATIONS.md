@@ -4,6 +4,10 @@
 
 This document defines the operational procedures for delivering the Pest Control service safely, consistently, and professionally.
 
+The workflow is a draft structure only. Treatment methods, tools, products,
+inspection criteria, competence requirements, safety controls, service
+duration, and acceptance criteria require owner and competent technical review.
+
 ---
 
 # Service Workflow
@@ -74,4 +78,4 @@ This document defines the operational procedures for delivering the Pest Control
 
 # Status
 
-Approved Operations Knowledge
+Draft — Not Approved for Field Execution

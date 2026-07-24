@@ -105,6 +105,13 @@ Professional pest control services designed to inspect, identify, treat, elimina
 
 ---
 
+## Evidence Required Before Approval
+
+- Evidence for technician certification or authorization
+- Evidence for approved products and municipality-compliance claims
+- Owner-approved response-time, commercial, and warranty policies
+- Approved scope, exclusions, and quality acceptance criteria
+
 ## Status
 
-Approved Business Knowledge
+Review Required — Unsupported claims must not be published

@@ -1,5 +1,16 @@
 # Emergency Services
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-confirmed service availability, provider capability, safety controls, and response rules
+
+> This document does not establish emergency availability, coverage, priority,
+> dispatch, or response-time commitments.
+
 ## Purpose
 
 This document defines the emergency maintenance services provided by AFAQ Alhayat to ensure rapid response for urgent residential, commercial, and industrial maintenance needs.
@@ -8,7 +19,8 @@ This document defines the emergency maintenance services provided by AFAQ Alhaya
 
 # Overview
 
-AFAQ Alhayat offers emergency maintenance services designed to minimize downtime, protect property, and restore normal operations as quickly and safely as possible.
+Potential urgent-service handling requires owner confirmation and approved
+external-provider capability before it may be offered.
 
 ---
 
@@ -30,7 +42,7 @@ AFAQ Alhayat offers emergency maintenance services designed to minimize downtime
 Target Response Time
 
 - Immediate call acknowledgment
-- Technician dispatch as quickly as possible
+- External-provider coordination only when approved availability is confirmed
 - Priority handling for urgent requests
 
 ---
@@ -55,7 +67,7 @@ Examples
 
 Target
 
-Immediate priority.
+Owner Input Required.
 
 ---
 
@@ -69,7 +81,7 @@ Examples
 
 Target
 
-Same-day response whenever possible.
+Owner Input Required.
 
 ---
 
@@ -82,7 +94,7 @@ Examples
 
 Target
 
-Next available technician.
+Owner Input Required.
 
 ---
 
@@ -91,7 +103,7 @@ Next available technician.
 1. Customer contacts support.
 2. Issue assessment.
 3. Priority classification.
-4. Technician dispatch.
+4. Approved external-provider coordination, if availability is confirmed.
 5. On-site diagnosis.
 6. Immediate repair where possible.
 7. Service completion report.
@@ -103,7 +115,7 @@ Next available technician.
 
 - Fast response
 - Reduced property damage
-- Professional technicians
+- Approved external providers
 - Reliable communication
 - Safe repair procedures
 - Priority service

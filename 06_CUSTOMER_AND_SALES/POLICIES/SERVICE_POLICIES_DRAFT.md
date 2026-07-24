@@ -1,5 +1,15 @@
 # Service Policies
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved commercial terms and legal/specialist review where applicable
+
+> This document is not an official customer policy and creates no commitment.
+
 ## Purpose
 
 This document defines the official service policies of AFAQ Alhayat to ensure transparency, consistency, and customer confidence across all maintenance services.
@@ -30,7 +40,7 @@ Emergency cancellations may be handled individually.
 
 # Arrival Policy
 
-Technicians will make every effort to arrive at the scheduled time.
+Approved external-provider arrival terms are `Owner Input Required`.
 
 Unexpected delays caused by traffic, weather, or emergency situations will be communicated to the customer as soon as possible.
 
@@ -55,12 +65,8 @@ Inspection findings may affect pricing if additional work is identified.
 
 # Safety Policy
 
-All technicians must:
-
-- Follow UAE safety regulations.
-- Wear appropriate Personal Protective Equipment (PPE).
-- Use approved tools and materials.
-- Maintain a safe working environment.
+Safety and provider requirements must be defined in approved service-specific
+controls supported by applicable provider, manufacturer, or authority evidence.
 
 ---
 
@@ -70,7 +76,7 @@ Customers should:
 
 - Provide accurate booking information.
 - Ensure access to the service location.
-- Inform technicians of any known hazards.
+- Disclose known hazards through the approved intake channel.
 - Review completed work before final approval.
 
 ---

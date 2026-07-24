@@ -1,5 +1,13 @@
 # After Service Process
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved service, support, payment, feedback, and warranty rules
+
 ## Purpose
 
 This document defines the official post-service process followed by AFAQ Alhayat to ensure customer satisfaction, continuous improvement, and long-term customer relationships.
@@ -8,13 +16,14 @@ This document defines the official post-service process followed by AFAQ Alhayat
 
 # Overview
 
-The after-service process begins immediately after the technician completes the requested service and continues through customer follow-up and future maintenance planning.
+The after-service process begins after approved completion evidence is received
+from the external provider or digital service workflow.
 
 ---
 
 # Step 1 — Service Completion
 
-The technician will:
+The approved external provider or governing workflow must:
 
 - Confirm that all work has been completed.
 - Clean the work area.
@@ -48,12 +57,8 @@ Prepare and store:
 
 # Step 4 — Invoice & Payment
 
-Complete:
-
-- Final invoice
-- Payment confirmation
-- Digital receipt
-- Warranty information (if applicable)
+Invoice, payment, receipt, and warranty actions remain blocked until their
+canonical commercial rules are approved.
 
 ---
 
@@ -61,7 +66,7 @@ Complete:
 
 Within a reasonable period after service:
 
-- Contact the customer.
+- Send an approved follow-up communication.
 - Confirm satisfaction.
 - Answer additional questions.
 - Verify that no issues have appeared.

@@ -3,7 +3,7 @@
 ## Document Information
 
 - **Service ID:** `SVC-PLUMBING`
-- **Status:** Draft package — Owner and Licensed-Trade Review Required
+- **Status:** Structurally Complete Draft — Owner and Licensed-Trade Evidence Required
 - **Source:** `SOURCE_DRAFT.md`
 
 ## Purpose
@@ -18,3 +18,7 @@ The source draft is evidence for review only.
 - Approve materials, customer-supplied parts, damage handling, and warranty.
 - Validate every legal, licensing, response-time, and availability claim.
 
+## Package Completion
+
+The standard document set now exists as Draft/Not for Publication. The
+preserved source remains non-authoritative until the evidence gates close.

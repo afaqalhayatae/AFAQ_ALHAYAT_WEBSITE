@@ -1,5 +1,13 @@
 # Quality Assurance
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved quality criteria and provider evidence
+
 ## Purpose
 
 This document defines the Quality Assurance (QA) framework for AFAQ Alhayat to ensure every service meets the company's professional standards and customer expectations.
@@ -36,7 +44,7 @@ Every service must be:
 ## Before Service
 
 - Verify booking details.
-- Confirm technician assignment.
+- Confirm approved external-provider assignment when applicable.
 - Prepare required tools and materials.
 - Review customer requirements.
 
@@ -45,7 +53,7 @@ Every service must be:
 ## During Service
 
 - Follow standard operating procedures.
-- Use approved materials.
+- Use only materials verified by the applicable approved source.
 - Maintain a clean work environment.
 - Follow all safety requirements.
 
@@ -93,7 +101,7 @@ Conduct periodic audits to verify:
 
 - Service quality
 - Documentation accuracy
-- Technician performance
+- External-provider delivery evidence
 - Safety compliance
 - Customer satisfaction
 
@@ -115,7 +123,7 @@ When quality issues occur:
 
 AFAQ Alhayat is committed to:
 
-- Ongoing staff training.
+- Continuous refinement of governed-agent instructions and verified provider requirements.
 - Process optimization.
 - Technology adoption.
 - Regular performance reviews.

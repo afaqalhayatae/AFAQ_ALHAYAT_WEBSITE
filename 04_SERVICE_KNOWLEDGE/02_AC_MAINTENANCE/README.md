@@ -3,7 +3,7 @@
 ## Document Information
 
 - **Service ID:** `SVC-AC-MAINTENANCE`
-- **Status:** Draft package — Owner and Technical Review Required
+- **Status:** Structurally Complete Draft — Owner and Technical Evidence Required
 - **Source:** `SOURCE_DRAFT.md`
 
 ## Purpose
@@ -23,3 +23,8 @@ public, operational, pricing, safety, or compliance use.
 - Create the standard package documents defined by
   `99_STANDARDS/SERVICE_TEMPLATE.md`.
 
+## Package Completion
+
+The standard document set now exists. Every new file is explicitly Draft or
+Not for Publication and contains evidence gates; package structure does not
+mean its service facts are approved.

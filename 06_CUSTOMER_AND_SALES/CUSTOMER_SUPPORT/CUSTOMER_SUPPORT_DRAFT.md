@@ -1,5 +1,16 @@
 # Customer Support
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved channels, hours, escalation rules, and system capabilities
+
+> This draft does not establish support hours, emergency availability, or
+> response-time commitments.
+
 ## Purpose
 
 This document defines the customer support standards, communication channels, response procedures, and service expectations for AFAQ Alhayat.
@@ -28,9 +39,10 @@ Customers can contact AFAQ Alhayat through:
 
 # Support Availability
 
-Support should be available during official business hours.
+Support hours are `Owner Input Required`.
 
-Emergency requests should follow the Emergency Services policy.
+Urgent requests must enter owner-review escalation unless approved emergency
+availability and rules exist in a canonical source.
 
 ---
 

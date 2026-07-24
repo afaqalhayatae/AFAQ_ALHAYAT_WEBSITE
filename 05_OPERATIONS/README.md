@@ -10,17 +10,17 @@ Cross-service SOPs, quality assurance, health/safety/environment rules, forms, c
 
 | Folder | Purpose | Status |
 |---|---|---|
-| `SOP/` | Standard Operating Procedures shared across services. | Not yet populated |
-| `QUALITY/` | Quality assurance rules and inspection standards. | Not yet populated |
-| `SAFETY/` | HSE (Health, Safety, Environment) rules. | Not yet populated |
-| `FORMS/` | Reusable operational forms (`FORM-<DOMAIN>-###` per `NAMING_CONVENTIONS.md`). | Not yet populated |
-| `CHECKLISTS/` | Cross-service checklists. | Not yet populated |
-| `INCIDENTS/` | Incident logging and response. | Not yet populated |
-| `BUSINESS_CONTINUITY/` | Continuity planning. | Not yet populated |
+| `SOP/` | Standard Operating Procedures shared across services. | Draft source material present |
+| `QUALITY/` | Quality assurance rules and inspection standards. | Draft source material present |
+| `SAFETY/` | HSE (Health, Safety, Environment) rules. | Governed draft foundation |
+| `FORMS/` | Reusable operational forms (`FORM-<DOMAIN>-###` per `NAMING_CONVENTIONS.md`). | Governed draft foundation |
+| `CHECKLISTS/` | Cross-service checklists. | Draft source material present |
+| `INCIDENTS/` | Incident logging and response. | Governed draft foundation |
+| `BUSINESS_CONTINUITY/` | Continuity planning. | Governed draft foundation |
 
 ---
 
-# Why this domain is not yet populated
+# Approval boundary
 
 Real SOPs, safety rules, and incident procedures require approval by the
 business owner and, where the work is regulated or technically specialized,
@@ -34,5 +34,7 @@ Control package remains at `04_SERVICE_KNOWLEDGE/SERVICE_WORKFLOW.md`.
 
 # Status
 
-Structural foundation. Populate through the governed owner-and-agent workflow;
-specialist evidence is required where applicable.
+Draft foundation with preserved source material. Nothing in this domain directs
+live field work until the owner approves it and any regulated or specialized
+content is supported by applicable external-provider, manufacturer, or
+authority evidence.

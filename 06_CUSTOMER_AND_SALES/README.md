@@ -10,19 +10,23 @@ Booking, customer journeys, sales, customer support, pricing, warranty, and comm
 
 | Folder | Purpose | Status |
 |---|---|---|
-| `BOOKING/` | Booking process and rules. | Not yet populated |
-| `CUSTOMER_JOURNEYS/` | Mapped customer journeys per service/channel. | Not yet populated |
-| `SALES/` | Sales process, lead handling, upsell/cross-sell. | Not yet populated |
-| `CUSTOMER_SUPPORT/` | Support process and escalation. | Not yet populated |
-| `PRICING/` | Pricing model, packages. | Not yet populated |
-| `WARRANTY/` | Warranty terms. | Not yet populated |
-| `POLICIES/` | Cancellation, refund, and service policies. | Not yet populated |
+| `BOOKING/` | Booking process and rules. | Draft source material present |
+| `CUSTOMER_JOURNEYS/` | Mapped customer journeys per service/channel. | Governed draft foundation |
+| `SALES/` | Sales process, lead handling, upsell/cross-sell. | Draft source material present |
+| `CUSTOMER_SUPPORT/` | Support process and escalation. | Draft source material present |
+| `PRICING/` | Pricing model, packages. | Draft source material present; owner-gated |
+| `WARRANTY/` | Canonical warranty governance and approved terms. | Governed draft foundation |
+| `POLICIES/` | Cancellation, refund, and service policies. | Draft source material present; owner/legal-gated |
 
 ---
 
 # Related draft source material (unapproved, held)
 
-Several relevant drafts exist but are not yet approved or migrated — see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3 (Service Packages, Annual Maintenance Contracts, Emergency Services, Pricing Strategy, Customer Support, Booking Process, Service Policies, Warranty Policy, After-Service Process, Upsell/Cross-sell). They remain at their original migration-discovery paths, unmoved, pending a placement decision for each.
+Several relevant drafts exist but are not yet approved — see
+`00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` Sec. 3. They remain preserved
+as source material pending owner review. The legacy
+`POLICIES/WARRANTY_POLICY_DRAFT.md` is not canonical; warranty ownership and
+its disposition are tracked under `WARRANTY/`.
 
 ---
 
@@ -34,4 +38,5 @@ Prices, warranty terms, and commercial policies are exactly the kind of fact thi
 
 # Status
 
-Structural placeholder only. Populate once commercial terms are confirmed by ownership and the held draft material is reviewed.
+Draft foundation only. No commercial term is publishable until confirmed by
+the owner with an effective date and any required legal review.

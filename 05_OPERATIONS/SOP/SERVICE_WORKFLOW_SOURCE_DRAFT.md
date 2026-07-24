@@ -1,5 +1,13 @@
 # Service Workflow
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-confirmed channels, systems, providers, commercial rules, and service controls
+
 ## Purpose
 
 This document defines the standard workflow followed by AFAQ Alhayat from the moment a customer requests a service until after-service follow-up.
@@ -27,7 +35,7 @@ Customers may contact AFAQ Alhayat through:
 
 # Step 2 — Request Evaluation
 
-The customer support team will:
+The governed customer-and-sales agent may, within approved rules:
 
 - Confirm customer details
 - Identify the required service
@@ -51,7 +59,7 @@ When applicable:
 
 After approval:
 
-- Assign technician
+- Request an approved external-provider assignment when applicable
 - Confirm appointment
 - Notify customer
 - Prepare required materials
@@ -60,7 +68,7 @@ After approval:
 
 # Step 5 — Service Delivery
 
-Technicians will:
+Approved external providers may, subject to verified service requirements:
 
 - Arrive on time
 - Perform the required service
@@ -83,14 +91,8 @@ Before closing the job:
 
 # Step 7 — Payment
 
-Available payment methods:
-
-- Cash
-- Bank Transfer
-- Credit / Debit Card
-- Online Payment (future integration)
-
-Issue invoice and payment confirmation.
+Payment methods, invoice actions, and confirmation rules are `Owner Input
+Required` and must come from approved commercial sources.
 
 ---
 

@@ -3,7 +3,7 @@
 ## Document Information
 
 - **Service ID:** `SVC-ELECTRICAL-MAINTENANCE`
-- **Status:** Draft package — Owner, Safety, and Licensed-Trade Review Required
+- **Status:** Structurally Complete Draft — Owner, Safety, and Licensed-Trade Evidence Required
 - **Source:** `SOURCE_DRAFT.md`
 
 ## Purpose
@@ -19,3 +19,7 @@ knowledge. No instruction in the source draft is approved for field execution.
 - Approve inspection records, completion evidence, parts, and warranty rules.
 - Validate all regulatory, licensing, emergency, and response-time claims.
 
+## Package Completion
+
+The standard document set now exists as Draft/Not for Publication. It does not
+authorize electrical work or validate any source-draft instruction.

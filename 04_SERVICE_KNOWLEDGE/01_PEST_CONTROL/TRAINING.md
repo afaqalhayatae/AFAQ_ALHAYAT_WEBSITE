@@ -28,12 +28,15 @@ This document defines the minimum training requirements for technicians performi
 
 ---
 
-# Required Certifications
+# Certification Evidence Required
 
 - Pest Control Training
 - Health & Safety Training
 - Chemical Handling Training
 - First Aid (Recommended)
+
+This list describes areas to verify; it does not confirm that any person
+currently holds a certificate, license, training record, or authorization.
 
 ---
 
@@ -62,4 +65,4 @@ Technicians should be evaluated on:
 
 # Status
 
-Approved Training Knowledge
+Draft — Training and Authorization Evidence Required

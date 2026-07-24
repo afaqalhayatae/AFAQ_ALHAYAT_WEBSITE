@@ -8,13 +8,17 @@ This document contains the most common customer questions and their approved ans
 
 ## Is the treatment safe?
 
-Yes. Approved products are used according to safety regulations and manufacturer instructions.
+Safety depends on the actual pest, site assessment, approved product and method,
+occupant conditions, and compliance with the product label and competent
+safety controls. The company must not give an unconditional safety assurance.
 
 ---
 
 ## Is it safe for children and pets?
 
-Yes, provided the recommended safety instructions and re-entry times are followed.
+This requires case-specific assessment and approved product guidance. Customers
+must disclose children, pets, allergies, pregnancy, or other sensitive
+conditions before service. No unconditional assurance is approved.
 
 ---
 
@@ -54,7 +58,8 @@ Our service covers:
 
 ## Do you offer warranty?
 
-Warranty depends on the selected service package and the inspection results.
+Warranty terms are pending owner approval and must be confirmed in the written
+quotation or service order. No warranty should be assumed from this FAQ.
 
 ---
 
@@ -69,4 +74,4 @@ Warranty depends on the selected service package and the inspection results.
 
 # Status
 
-Approved FAQ
+Review Draft — Not Approved for Publication

@@ -1,5 +1,16 @@
 # Upsell & Cross-Sell Strategy
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved service catalog, customer need, packages, and commercial rules
+
+> Recommendations must never imply that an unapproved service, package,
+> discount, saving, urgency, or availability exists.
+
 ## Purpose
 
 This document defines the upsell and cross-sell strategy for AFAQ Alhayat to increase customer value while providing additional services that genuinely benefit customers.

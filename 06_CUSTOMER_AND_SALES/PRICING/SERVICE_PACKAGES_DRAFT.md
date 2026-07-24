@@ -1,5 +1,16 @@
 # Service Packages
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved package names, inclusions, prices, availability, and effective dates
+
+> Basic, Standard, Premium, AMC, and custom-package descriptions below are
+> unapproved concepts only and create no offer or commitment.
+
 ## Purpose
 
 This document defines the official service packages offered by AFAQ Alhayat to simplify customer decisions, increase average order value, and support long-term customer relationships.
@@ -58,7 +69,7 @@ Includes
 
 - Full Preventive Maintenance
 - Emergency Priority Response
-- Dedicated Account Support
+- Owner-review or governed-agent support, only if separately approved
 - Quarterly Service Reports
 - Annual Maintenance Planning
 - Exclusive Service Discounts
@@ -71,7 +82,7 @@ Benefits
 
 - Fixed maintenance schedule
 - Predictable costs
-- Priority technician dispatch
+- Priority external-provider coordination, only if separately approved
 - Preventive maintenance
 - Extended equipment lifespan
 - Reduced emergency repairs

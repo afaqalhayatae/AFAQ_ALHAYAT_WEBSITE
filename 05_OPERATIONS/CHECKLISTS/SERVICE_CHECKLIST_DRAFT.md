@@ -1,5 +1,16 @@
 # Service Checklist
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved SOP, service scope, provider capability, and commercial rules
+
+> This checklist is structural source material only. It must not direct live
+> work until every item is verified and approved.
+
 ## Purpose
 
 This checklist ensures that every AFAQ Alhayat service is delivered according to company standards, customer expectations, and quality requirements.
@@ -11,7 +22,7 @@ This checklist ensures that every AFAQ Alhayat service is delivered according to
 - Booking confirmed
 - Customer details verified
 - Service requirements reviewed
-- Technician assigned
+- Approved external provider assignment confirmed, when applicable
 - Required tools prepared
 - Required materials prepared
 - Safety equipment available
@@ -21,9 +32,8 @@ This checklist ensures that every AFAQ Alhayat service is delivered according to
 
 # During Service
 
-- Technician arrived on time
-- Company uniform worn
-- ID badge visible
+- Approved provider arrival recorded without an unverified time promise
+- Provider identification requirements verified, when applicable
 - Safety procedures followed
 - Work area protected
 - Customer informed before work begins
@@ -47,10 +57,10 @@ This checklist ensures that every AFAQ Alhayat service is delivered according to
 
 - Service report completed
 - Materials recorded
-- Technician notes saved
-- Invoice generated
-- Payment confirmed
-- Warranty explained (if applicable)
+- Provider or system notes saved
+- Invoice action completed only under approved commercial rules
+- Payment status recorded only from an approved payment source
+- Warranty information referenced only from the canonical approved source
 
 ---
 
@@ -71,7 +81,7 @@ This checklist ensures that every AFAQ Alhayat service is delivered according to
 - Satisfaction confirmed
 - Issues resolved if reported
 - Future maintenance recommended
-- CRM updated
+- Approved system of record updated
 - Next service reminder scheduled (if applicable)
 
 ---

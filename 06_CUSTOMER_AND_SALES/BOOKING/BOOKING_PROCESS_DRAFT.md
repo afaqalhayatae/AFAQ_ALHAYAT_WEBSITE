@@ -1,5 +1,16 @@
 # Booking Process
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved channels, availability source, provider rules, and commercial terms
+
+> This draft does not promise availability, provider assignment, price,
+> payment method, response time, or service coverage.
+
 ## Purpose
 
 This document defines the official booking process for AFAQ Alhayat to provide customers with a simple, transparent, and efficient service request experience.
@@ -41,12 +52,12 @@ The customer provides:
 
 ## Step 2 – Request Review
 
-The customer support team will:
+The governed customer-and-sales agent may:
 
 - Verify customer information.
-- Confirm service availability.
+- Retrieve approved availability or escalate for owner review.
 - Determine if a site inspection is required.
-- Assign the appropriate service category.
+- Propose an approved service category for owner or policy validation.
 
 ---
 
@@ -66,7 +77,7 @@ If required:
 After approval:
 
 - Confirm the booking.
-- Assign a technician.
+- Request approved external-provider assignment when applicable.
 - Notify the customer.
 - Prepare the required equipment and materials.
 
@@ -74,7 +85,7 @@ After approval:
 
 ## Step 5 – Service Delivery
 
-The assigned technician will:
+The approved external provider may, under verified service requirements:
 
 - Arrive on time.
 - Perform the requested service.
@@ -89,8 +100,7 @@ After the work is finished:
 
 - Inspect completed work.
 - Obtain customer confirmation.
-- Issue the invoice.
-- Process payment.
+- Trigger only owner-approved invoice and payment workflows.
 
 ---
 

@@ -6,7 +6,7 @@
 - Module: Website
 - Document: Homepage Content
 - Version: 1.0
-- Status: Build Phase
+- Status: In Review / Not for Publication
 
 ---
 
@@ -26,7 +26,9 @@ Professional Pest Control & Cleaning Services Across the UAE
 
 ## Supporting Headline
 
-Safe, reliable, and professional residential and commercial services delivered by experienced specialists using modern equipment and environmentally responsible solutions.
+Explore AFAQ Alhayat services for residential and commercial properties across
+the approved UAE coverage. Service methods, availability, and commitments must
+be resolved from the relevant approved service package before publication.
 
 ---
 
@@ -38,39 +40,42 @@ Book Your Service
 
 ## Secondary Call To Action
 
-Get a Free Quote
+Request an Assessment
 
 ---
 
 # Trust Indicators
 
-- Licensed & Insured
-- Professional Team
-- Fast Response
-- Satisfaction Guaranteed
-- Eco-Friendly Solutions
+Trust indicators may appear only when their evidence is approved in the
+canonical business or service source. Until then, do not publish license,
+insurance, certification, guarantee, response-time, environmental, or
+product-safety claims.
 
 ---
 
 # Featured Services
 
 - Pest Control
+- AC Maintenance
 - General Cleaning
 - Deep Cleaning
 - Water Tank Cleaning
-- Disinfection Services
-- Facility Management
+- Plumbing
+- Electrical Maintenance
+- Painting
+- Handyman
+- Drain Unblocking
+- Waterproofing
+- Water Leak Detection
 
 ---
 
 # Why Choose AFAQ Alhayat
 
-- Experienced Professionals
-- Certified Technicians
-- Modern Equipment
-- Transparent Pricing
-- Fast Response
-- Excellent Customer Support
+Generate this section only from approved, evidenced differentiators. Do not
+claim certified personnel, particular equipment, pricing characteristics,
+guarantees, response times, or support availability unless the owning canonical
+document has been approved.
 
 ---
 
@@ -78,7 +83,8 @@ Get a Free Quote
 
 Purpose:
 
-Display authentic customer experiences that increase confidence and conversion.
+Display only authenticated reviews with consent and a verifiable source. Hide
+the section when no approved review source is available.
 
 ---
 
@@ -86,7 +92,8 @@ Display authentic customer experiences that increase confidence and conversion.
 
 Purpose:
 
-Show all Emirates and cities covered by the company.
+Show approved emirate coverage from `03_MARKET/SERVICE_AREAS.md`. City and
+community claims require registry approval.
 
 ---
 
@@ -102,7 +109,8 @@ Provide answers to common customer questions while supporting SEO and AI search.
 
 Ready to book your service?
 
-Contact AFAQ Alhayat today and let our experts take care of the rest.
+Contact AFAQ Alhayat to submit a service enquiry. Confirmation, availability,
+price, and service commitments follow approved booking and commercial policies.
 
 Primary Button:
 

@@ -1,5 +1,16 @@
 # Pricing Strategy
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved pricing rules, effective date, tax/fee treatment, and commercial review
+
+> No pricing model, factor, discount, or quotation rule in this draft is
+> approved for customer use.
+
 ## Purpose
 
 This document defines the pricing strategy for AFAQ Alhayat to ensure competitive positioning, profitability, transparency, and customer satisfaction.

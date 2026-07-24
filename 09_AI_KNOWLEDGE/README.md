@@ -1,5 +1,12 @@
 # AI Knowledge
 
+## Document Control
+
+- **Owner:** Business Owner
+- **Status:** Foundation Complete — Live Connection Not Authorized
+- **Version:** 1.0
+- **Updated:** 2026-07-24
+
 ## Purpose
 
 Defines how AI systems (assistants, agents, generative search) should retrieve, interpret, and answer using AFAQ Alhayat's knowledge base. Per `SYSTEM_ARCHITECTURE.md` Sec. 5, this domain owns retrieval, entities, and AI policy — it must not invent business facts or duplicate source content.
@@ -18,7 +25,7 @@ Defines how AI systems (assistants, agents, generative search) should retrieve, 
 | `RETRIEVAL_POLICY.md` | Rules for which source an AI system must retrieve from for a given fact type. |
 | `ANSWER_POLICY.md` | Rules for what an AI system may and may not claim, and how to handle uncertainty. |
 | `GEO_STRATEGY.md` | Generative-Engine-Optimization approach — how content should be structured so AI search engines can find and cite it. |
-| `EVALUATIONS/` | Test cases and evaluation criteria for AI answer quality (not yet populated). |
+| `EVALUATIONS/` | Test method and core release-blocking cases for AI answer and agent quality. |
 
 ---
 

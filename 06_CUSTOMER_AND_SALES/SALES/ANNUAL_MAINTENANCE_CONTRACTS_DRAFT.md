@@ -1,5 +1,16 @@
 # Annual Maintenance Contracts (AMC)
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft source
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved contract scope, provider capacity, prices, response terms, discounts, and legal review
+
+> No AMC, plan, inclusion, response time, discount, or account-support promise
+> in this draft is approved.
+
 ## Purpose
 
 This document defines the Annual Maintenance Contract (AMC) services offered by AFAQ Alhayat to provide customers with proactive, scheduled maintenance and long-term value.
@@ -85,7 +96,7 @@ Corporate
 
 - Customized maintenance schedule
 - Emergency priority support
-- Dedicated account manager
+- Owner-review or governed-agent account coordination, only if approved
 - Comprehensive reporting
 - Maximum service discounts
 

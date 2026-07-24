@@ -21,18 +21,18 @@ This domain holds the authoritative, website-independent definition of every ser
 
 | Service package | Status |
 |---|---|
-| `01_PEST_CONTROL/` | Complete — 11-document package migrated and canonical (see `00_GOVERNANCE/DECISION_LOG.md` decision 6). |
-| `02_AC_MAINTENANCE/` | Draft package; source preserved, technical review required. |
+| `01_PEST_CONTROL/` | Structurally complete — 12-document package; unsupported claims require evidence review before final publication or field use. |
+| `02_AC_MAINTENANCE/` | Structurally complete draft; source preserved, owner and technical evidence required. |
 | `03_GENERAL_CLEANING/` | Review-ready 12-document package; owner and operations approval required. |
-| `04_DEEP_CLEANING/` | Blocked; owner scope required. |
+| `04_DEEP_CLEANING/` | Structurally complete draft; all service facts blocked pending owner scope. |
 | `05_WATER_TANK_CLEANING/` | Review-ready 12-document package; safety/compliance and owner approval required. |
-| `06_PLUMBING/` | Draft package; source preserved, licensed-trade review required. |
-| `07_ELECTRICAL_MAINTENANCE/` | Draft package; source preserved, safety/licensed-trade review required. |
-| `08_PAINTING/` | Draft package; source preserved, operations review required. |
-| `09_HANDYMAN/` | Draft package; source preserved, scope-boundary review required. |
-| `10_DRAIN_UNBLOCKING/` | Draft package; owner confirmed, plumbing/drainage operations and safety review required. |
-| `11_WATERPROOFING/` | Draft package; owner confirmed, technical system, substrate, safety, and warranty review required. |
-| `12_WATER_LEAK_DETECTION/` | Draft package; owner confirmed, diagnostic-method and licensed-trade review required. |
+| `06_PLUMBING/` | Structurally complete draft; source preserved, owner and licensed-trade evidence required. |
+| `07_ELECTRICAL_MAINTENANCE/` | Structurally complete draft; source preserved, owner, safety, and licensed-trade evidence required. |
+| `08_PAINTING/` | Structurally complete draft; source preserved, owner and operations evidence required. |
+| `09_HANDYMAN/` | Structurally complete draft; source preserved, owner scope-boundary evidence required. |
+| `10_DRAIN_UNBLOCKING/` | Structurally complete draft; owner-confirmed identity, technical scope and safety evidence required. |
+| `11_WATERPROOFING/` | Structurally complete draft; owner-confirmed identity, technical system, safety, and warranty evidence required. |
+| `12_WATER_LEAK_DETECTION/` | Structurally complete draft; owner-confirmed identity, diagnostic-method and licensed-trade evidence required. |
 
 ---
 

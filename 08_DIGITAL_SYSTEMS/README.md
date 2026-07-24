@@ -1,5 +1,25 @@
 # Digital Systems
 
+## Document Control
+
+- **Owner:** Business Owner
+- **Status:** Foundation Complete — Implementation Review Required
+- **Version:** 1.0
+- **Updated:** 2026-07-24
+
+## Index
+
+- [Canonical Data Model](DATA_MODEL.md)
+- [API Contract Standard](API_CONTRACTS.md)
+- [CRM, Customer Portal, and Owner Dashboard](CRM_AND_PORTALS.md)
+- [Integration Standard](INTEGRATION_STANDARD.md)
+- [Agent Orchestration](AUTOMATION/AGENT_ORCHESTRATION.md)
+- [Agent Runbook](AUTOMATION/AGENT_RUNBOOK.md)
+
+`DATABASE/WORDPRESS_DATABASE_ARCHITECTURE.md` is retained as non-canonical
+research. The canonical implementation direction is owned by
+[`TECH_STACK.md`](../00_GOVERNANCE/TECH_STACK.md).
+
 ## Purpose
 
 CRM, customer portal, admin dashboard, API, database, integrations, and automation specifications — per `SYSTEM_ARCHITECTURE.md` Sec. 5. This domain owns data models and system behavior; it must not own human-facing master content (that belongs to the domain the data represents).

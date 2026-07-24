@@ -1,8 +1,17 @@
 # Service Standards
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Owner-approved service criteria and applicable provider/authority evidence
+
 ## Purpose
 
-This document defines the official service standards that every AFAQ Alhayat employee, technician, and partner must follow to ensure consistent, professional, and high-quality service delivery.
+This draft defines the structure for future service standards governing digital
+agents, automated systems, and approved external providers.
 
 ---
 
@@ -19,13 +28,13 @@ Every service must demonstrate:
 
 ---
 
-# Technician Standards
+# External Provider Standards
 
-Every technician must:
+When physical delivery is required, the approved external provider must meet
+owner-confirmed requirements for:
 
 - Arrive on time.
-- Wear the official company uniform.
-- Carry proper identification.
+- Identification and presentation, where contractually required.
 - Use professional tools and equipment.
 - Treat customer property with respect.
 - Follow all safety procedures.
@@ -34,7 +43,7 @@ Every technician must:
 
 # Communication Standards
 
-Employees should always:
+Governed agents and approved external providers should:
 
 - Greet customers politely.
 - Explain the work clearly.
@@ -59,12 +68,11 @@ Every completed service must be:
 
 # Safety Standards
 
-All work must comply with:
+Approved work controls must be supported by:
 
-- UAE safety regulations
-- Company safety procedures
-- Proper use of Personal Protective Equipment (PPE)
-- Safe handling of tools and materials
+- applicable authority or licensed-provider evidence;
+- approved service-specific safety procedures;
+- verified manufacturer or safety documentation where relevant.
 
 ---
 
@@ -75,7 +83,7 @@ Customers should always experience:
 - Easy booking
 - Fast response
 - Transparent pricing
-- Professional technicians
+- Approved external providers
 - High-quality workmanship
 - Excellent after-service support
 
@@ -98,11 +106,11 @@ Every service should include:
 
 Quality should be monitored through:
 
-- Supervisor inspections
+- Owner review or independently verified inspection evidence
 - Customer feedback
-- Technician performance reviews
+- External-provider delivery reviews
 - Service audits
-- Continuous training
+- Continuous agent-instruction and provider-requirement improvement
 
 ---
 
@@ -112,7 +120,7 @@ AFAQ Alhayat is committed to:
 
 - Improving service quality
 - Updating service procedures
-- Investing in staff development
+- Improving governed-agent instructions and verified provider standards
 - Adopting new technologies
 - Exceeding customer expectations
 

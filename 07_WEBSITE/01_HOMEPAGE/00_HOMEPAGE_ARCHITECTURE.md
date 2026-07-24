@@ -6,7 +6,7 @@
 - Module: Website
 - Page: Homepage
 - Version: 1.0
-- Status: Build Phase
+- Status: In Review / Not for Implementation
 
 ---
 
@@ -74,7 +74,8 @@ Customer Relationship
 
 Purpose
 
-Display emergency information, promotions, and business hours.
+Display only approved announcements, promotions, or verified business hours.
+Emergency availability must not be implied without an approved policy.
 
 ---
 
@@ -100,8 +101,8 @@ Components
 - Primary CTA
 - Secondary CTA
 - Hero Image
-- Trust Badges
-- Customer Rating
+- Evidence-backed Trust Indicators
+- Verified Customer Rating (conditional)
 
 ---
 
@@ -109,10 +110,9 @@ Components
 
 Components
 
-- Years of Experience
-- Happy Customers
-- Projects Completed
-- Cities Covered
+- Approved business metrics only
+- Source and effective date
+- Verification status
 
 ---
 
@@ -132,10 +132,7 @@ Components
 Components
 
 - Competitive Advantages
-- Certifications
-- Professional Team
-- Modern Equipment
-- Safety Standards
+- Evidence-backed differentiators only
 
 ---
 
@@ -145,7 +142,7 @@ Components
 
 - Coverage Map
 - Emirates
-- Cities
+- Approved Locations
 - Coverage Details
 
 ---
@@ -154,8 +151,8 @@ Components
 
 Components
 
-- Customer Reviews
-- Ratings
+- Authenticated Customer Reviews
+- Verified Ratings
 - Before & After Gallery
 - Google Reviews
 
@@ -166,7 +163,7 @@ Components
 Components
 
 - Book Now
-- WhatsApp
+- WhatsApp (only when canonical value is approved)
 - Phone Call
 - Contact Form
 
@@ -193,10 +190,10 @@ Increase organic traffic and demonstrate expertise.
 Components
 
 - Phone
-- Email
-- Office Location
-- Working Hours
-- Google Maps
+- Email (conditional on canonical approval)
+- Office Location (conditional on canonical approval)
+- Working Hours (conditional on canonical approval)
+- Google Maps (conditional on canonical profile approval)
 
 ---
 

@@ -1,5 +1,17 @@
 # Service FAQ
 
+## Document Control
+
+- Owner: Business owner
+- Status: Draft
+- Version: 0.1
+- Publication: Blocked
+- Evidence required: Approved contact, coverage, service, commercial, provider, and warranty sources
+
+> Questions below are migration source material. Answers containing
+> availability, payment, staffing, warranty, response, or package claims are
+> not approved for customer use.
+
 ## Purpose
 
 This document provides answers to the most common customer questions about AFAQ Alhayat services to improve customer experience, support SEO, and reduce support requests.
@@ -10,7 +22,8 @@ This document provides answers to the most common customer questions about AFAQ 
 
 ## 1. Which Emirates do you serve?
 
-AFAQ Alhayat provides services across all seven Emirates of the UAE, with primary coverage in Dubai, Sharjah, and Ajman.
+Emirate-level coverage must be retrieved from the canonical approved coverage
+source. City/community priority claims require separate owner approval.
 
 ---
 
@@ -28,37 +41,29 @@ You can book through:
 
 ## 3. Do you provide emergency services?
 
-Yes.
-
-Emergency support is available for selected maintenance services depending on technician availability and service priority.
+Owner Input Required. No emergency availability or response commitment is
+approved by this draft.
 
 ---
 
 ## 4. Do you offer Annual Maintenance Contracts (AMC)?
 
-Yes.
-
-We provide flexible AMC plans for residential, commercial, and corporate customers.
+Owner Input Required. No AMC package is approved by this draft.
 
 ---
 
 ## 5. Which payment methods do you accept?
 
-Available payment methods include:
-
-- Cash
-- Credit / Debit Card
-- Bank Transfer
-
-Additional online payment methods may be introduced in the future.
+Owner Input Required. Payment methods must be retrieved from approved
+commercial rules.
 
 ---
 
-## 6. Are your technicians qualified?
+## 6. Who performs physical services?
 
-Yes.
-
-All technicians receive professional training and follow company quality and safety standards.
+Physical work may be performed only by an approved external provider whose
+capability and evidence have been verified for the applicable service. No
+internal technician workforce is assumed.
 
 ---
 
@@ -72,15 +77,14 @@ Where required, an inspection is performed and an official quotation is provided
 
 ## 8. Do you guarantee your work?
 
-AFAQ Alhayat is committed to delivering high-quality workmanship and addressing any verified service-related issues according to company policy.
+Owner Input Required. Warranty or remedy language must come from the canonical
+approved warranty source.
 
 ---
 
 ## 9. Can I reschedule my appointment?
 
-Yes.
-
-Customers may request rescheduling subject to technician availability.
+Rescheduling rules and live availability must come from approved booking rules.
 
 ---
 
@@ -91,7 +95,7 @@ Response time depends on:
 - Service type
 - Customer location
 - Traffic conditions
-- Technician availability
+- Approved external-provider availability
 - Emergency priority
 
 ---
