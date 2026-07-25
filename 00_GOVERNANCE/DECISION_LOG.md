@@ -75,6 +75,12 @@ existence.
 |---|---|---|
 | 32 | `ENTERPRISE_CONSTITUTION.md` is ratified by the Business Owner as v1.0, Approved, effective retroactively to 2026-07-24 — the date it was drafted and the date the EAOS v1 (decision 23) and ESMM/EPGM (decision 31) approvals were recorded. | Retroactive effect confirms EAOS v1, ESMM, and EPGM remain validly approved under the ratified Constitution; decisions 23 and 31 are not reopened, re-reviewed, or re-approved by this entry. Ratification covers the Constitution's text only. It does not start Program C, does not create `SERVICE_DNA_REGISTRY`, `SERVICE_RELATIONSHIPS`, or a Customer Intent Model file, and does not enable live automation. |
 
+## 2026-07-25 — Program C Phase C.2 Work Package 4: canonical file creation
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 33 | Following Owner authorization of Program C Phase C.2 Work Package 4 (design proposals, then the file-creation plan), three canonical files were created, each independently reviewed by `AGT-QA` before commit: `04_SERVICE_KNOWLEDGE/SERVICE_DNA_REGISTRY.md` (commit `0e3c6db`, fulfilling decision 24), `04_SERVICE_KNOWLEDGE/SERVICE_RELATIONSHIPS.md` (commit `690c1fc`, fulfilling decision 25), and `00_GOVERNANCE/ENTERPRISE_CUSTOMER_INTENT_MODEL.md` (commit `d0dcd72`, resolving decision 26/30's previously undecided canonical path). | Each file is `Status: Draft`, not Approved — none is elevated beyond the resolved content already Owner-confirmed across Phase C.1 and Phase C.2 Work Packages 1–3. This entry does not reopen or re-approve decisions 24, 25, 26, 30, or 31; at the time decision 31 was recorded, none of these files existed, and decision 31 explicitly anticipated their creation only "through a later, separately approved build step" — this entry records that step having occurred, not a revision of decision 31's own historical accuracy. Creation does not enable live automation, publishing, or customer-facing use, and does not modify `ENTERPRISE_SERVICE_META_MODEL.md` or `ENTERPRISE_PUBLICATION_GATE_MODEL.md`. |
+
 ## Deferred / open (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` for full detail)
 
 - Folder-numbering convention for 7 additional service-knowledge packages (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — content in scope per decision 5, destination IDs not yet assigned.
