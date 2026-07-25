@@ -3,9 +3,9 @@
 ## Document Information
 
 - **Owner:** Business Owner
-- **Status:** Approved Direction / Hosting Verification Pending
-- **Version:** 1.1
-- **Last Updated:** 2026-07-24
+- **Status:** Approved Direction / Hosting Verified — MySQL Adopted
+- **Version:** 1.2
+- **Last Updated:** 2026-07-26
 
 ## Purpose
 
@@ -16,15 +16,18 @@ This document defines the official technology stack for the AFAQ Alhayat Digital
 # Canonical Implementation Decision
 
 The canonical implementation direction is Next.js, TypeScript, React,
-Tailwind CSS, Node.js, PostgreSQL, and Prisma.
+Tailwind CSS, Node.js, MySQL, and Prisma.
 
 Documents under `07_WEBSITE/WORDPRESS/` and the WordPress database research
 document are retained as non-canonical historical research. They do not
 authorize a WordPress or hybrid implementation unless the owner records a new
 decision.
 
-Hostinger compatibility remains a deployment gate and must be verified against
-the actual purchased plan before infrastructure implementation.
+Hostinger plan verification is complete: Next.js, Node.js, and MySQL are
+confirmed supported on the current plan; PostgreSQL is not available,
+which is why MySQL is now the canonical database engine
+(`DECISION_LOG.md` decision 34). PostgreSQL was the prior canonical
+choice per decision 22, superseded by decision 34.
 
 ---
 
@@ -76,7 +79,7 @@ API Style
 
 Database Engine
 
-- PostgreSQL
+- MySQL
 
 ORM
 

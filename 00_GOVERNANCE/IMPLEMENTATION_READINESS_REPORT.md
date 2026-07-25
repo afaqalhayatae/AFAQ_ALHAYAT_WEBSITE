@@ -7,7 +7,7 @@
 - **Version:** 1.0
 - **Updated:** 2026-07-24
 - **Canonical Stack:** Next.js, TypeScript, React, Tailwind CSS, Node.js,
-  PostgreSQL, Prisma
+  MySQL, Prisma
 
 ## Decision
 
@@ -35,7 +35,9 @@ pending business facts.
 
 ## Open Gates
 
-1. Verify the actual Hostinger plan and deployment capabilities.
+1. ~~Verify the actual Hostinger plan and deployment capabilities.~~
+   Verified 2026-07-26 — Next.js, Node.js, and MySQL confirmed supported;
+   PostgreSQL not available (`DECISION_LOG.md` decision 34).
 2. Confirm pending contact and account details before public use.
 3. Confirm service methods, qualifications, equipment, safety evidence,
    availability, and exclusions per service.

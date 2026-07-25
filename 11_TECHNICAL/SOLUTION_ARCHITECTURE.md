@@ -18,7 +18,7 @@ facts.
 - Next.js and React deliver the bilingual customer and owner interfaces.
 - TypeScript is the application language.
 - Next.js server capabilities provide the initial API boundary.
-- PostgreSQL owns transactional platform data.
+- MySQL owns transactional platform data.
 - Prisma owns the application data-access schema and migrations.
 - External services connect only through documented adapters.
 - The enterprise knowledge repository remains the source of approved business
@@ -29,14 +29,15 @@ facts.
 1. Presentation: public website, booking, customer portal, owner dashboard.
 2. Application: service, booking, enquiry, consent, content, and approval flows.
 3. Domain: governed business rules and references to canonical knowledge.
-4. Data: PostgreSQL through Prisma with auditable migrations.
+4. Data: MySQL through Prisma with auditable migrations.
 5. Integration: analytics, messaging, email, maps, storage, and future CRM.
 6. Operations: deployment, monitoring, backups, incident response, and recovery.
 
 ## Implementation Gates
 
-- Verify the purchased Hostinger plan supports the required Node.js runtime,
-  PostgreSQL service, deployment method, secrets, backups, and observability.
+- Hostinger plan verified: Next.js, Node.js, and MySQL confirmed supported
+  (`DECISION_LOG.md` decision 34). Deployment method, secrets, backups, and
+  observability remain to be confirmed.
 - Confirm pending contact, consent, pricing, warranty, and service facts.
 - Approve the data model and API contracts before coding dependent features.
 - No production credential or secret may be stored in this repository.

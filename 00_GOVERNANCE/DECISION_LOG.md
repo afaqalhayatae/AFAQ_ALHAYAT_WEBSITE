@@ -81,6 +81,12 @@ existence.
 |---|---|---|
 | 33 | Following Owner authorization of Program C Phase C.2 Work Package 4 (design proposals, then the file-creation plan), three canonical files were created, each independently reviewed by `AGT-QA` before commit: `04_SERVICE_KNOWLEDGE/SERVICE_DNA_REGISTRY.md` (commit `0e3c6db`, fulfilling decision 24), `04_SERVICE_KNOWLEDGE/SERVICE_RELATIONSHIPS.md` (commit `690c1fc`, fulfilling decision 25), and `00_GOVERNANCE/ENTERPRISE_CUSTOMER_INTENT_MODEL.md` (commit `d0dcd72`, resolving decision 26/30's previously undecided canonical path). | Each file is `Status: Draft`, not Approved — none is elevated beyond the resolved content already Owner-confirmed across Phase C.1 and Phase C.2 Work Packages 1–3. This entry does not reopen or re-approve decisions 24, 25, 26, 30, or 31; at the time decision 31 was recorded, none of these files existed, and decision 31 explicitly anticipated their creation only "through a later, separately approved build step" — this entry records that step having occurred, not a revision of decision 31's own historical accuracy. Creation does not enable live automation, publishing, or customer-facing use, and does not modify `ENTERPRISE_SERVICE_META_MODEL.md` or `ENTERPRISE_PUBLICATION_GATE_MODEL.md`. |
 
+## 2026-07-26 — Technical stack: MySQL adopted as canonical database engine
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 34 | Following Hostinger plan verification (decision 16's open gate) — confirmed: Next.js, Node.js, and MySQL are supported; PostgreSQL is not available on the current plan — the Business Owner adopts MySQL as the canonical database engine, superseding the PostgreSQL references in decision 22 and `TECH_STACK.md`. Prisma remains the canonical ORM. Next.js, TypeScript, React, Tailwind CSS, and Node.js are unchanged. | This decision amends decision 22's database-engine component only; its WordPress/hybrid exclusion and decision 16's Hostinger-provider guardrail are untouched. It does not authorize any external database provider, does not approve production deployment or credentials, and does not change any other stack component. Implementation has not started; no code or schema exists to migrate. |
+
 ## Deferred / open (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` for full detail)
 
 - Folder-numbering convention for 7 additional service-knowledge packages (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — content in scope per decision 5, destination IDs not yet assigned.

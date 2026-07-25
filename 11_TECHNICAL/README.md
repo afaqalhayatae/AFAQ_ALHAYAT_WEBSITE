@@ -25,9 +25,9 @@ Technical architecture, security, testing, deployment, and monitoring — per `S
 The platform's technology stack is recorded at
 [`00_GOVERNANCE/TECH_STACK.md`](../00_GOVERNANCE/TECH_STACK.md):
 Next.js/TypeScript/React/Tailwind frontend, Next.js API Routes on Node.js,
-PostgreSQL via Prisma ORM, and owner-selected Hostinger hosting. Hostinger plan
-compatibility with the decided runtime and database must be technically
-verified before deployment. This domain should build detailed architecture,
+MySQL via Prisma ORM, and owner-selected Hostinger hosting. Hostinger plan
+verification is complete — Next.js, Node.js, and MySQL are confirmed
+supported (`DECISION_LOG.md` decision 34). This domain should build detailed architecture,
 security, testing, deployment, and monitoring documentation on top of the
 approved decisions rather than silently changing them.
 

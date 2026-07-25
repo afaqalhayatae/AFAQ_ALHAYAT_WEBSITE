@@ -84,7 +84,7 @@ Full registry: `SYSTEM_ARCHITECTURE.md` §6 (source-of-truth registry) and §7 (
 
 ## Not yet built
 
-Per `PROJECT_MANIFEST.md` scope and `TECH_STACK.md`, this repo is the knowledge foundation *for* a future stack (Next.js/TypeScript/React/Tailwind frontend, Next.js API routes on Node, PostgreSQL+Prisma, hosted on Hostinger at `afaqalhayatae.com`) — none of that is implemented here yet. Source code implementation, accounting, HR, and financial reporting are explicitly out of scope for this repository. Don't scaffold an application in this repo unless the user is deliberately starting that phase.
+Per `PROJECT_MANIFEST.md` scope and `TECH_STACK.md`, this repo is the knowledge foundation *for* a future stack (Next.js/TypeScript/React/Tailwind frontend, Next.js API routes on Node, MySQL+Prisma, hosted on Hostinger at `afaqalhayatae.com`) — none of that is implemented here yet. Source code implementation, accounting, HR, and financial reporting are explicitly out of scope for this repository. Don't scaffold an application in this repo unless the user is deliberately starting that phase.
 
 ## Governance artifacts worth knowing about
 
