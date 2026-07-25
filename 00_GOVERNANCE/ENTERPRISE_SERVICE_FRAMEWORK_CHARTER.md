@@ -203,6 +203,31 @@ per decision 26/30. No file was created or modified by this assessment.
 Work Package 4 (the future Owner authorization gate) is defined but not
 opened by this review.
 
+### Phase C.2 Work Package 4 — Canonical Artifact Creation (2026-07-25)
+
+The Owner authorized opening Work Package 4, scoped design-first: an
+Owner Authorization Package was prepared and approved, followed by a
+design proposal covering (a) `SERVICE_DNA_REGISTRY` structure and
+location, (b) `SERVICE_RELATIONSHIPS` structure and location, and (c)
+the Customer Intent Model's canonical path — all three approved by the
+Owner as `04_SERVICE_KNOWLEDGE/SERVICE_DNA_REGISTRY.md`,
+`04_SERVICE_KNOWLEDGE/SERVICE_RELATIONSHIPS.md`, and
+`00_GOVERNANCE/ENTERPRISE_CUSTOMER_INTENT_MODEL.md` respectively,
+resolving decision 26/30's previously undecided path. A file-creation
+plan was then prepared and approved, and executed as three separate,
+individually authorized steps, each produced, independently reviewed by
+`AGT-QA` (accepted for all three — 2 minor transcription-fidelity
+defects found and corrected in `SERVICE_DNA_REGISTRY.md` during its
+review, 0 defects in the other two), reported, and committed only after
+explicit Owner confirmation: `SERVICE_DNA_REGISTRY.md` (commit
+`0e3c6db`), `SERVICE_RELATIONSHIPS.md` (commit `690c1fc`), and
+`ENTERPRISE_CUSTOMER_INTENT_MODEL.md` (commit `d0dcd72`). All three
+fulfill decisions 24, 25, and 26/30 respectively; none was created
+without a Git checkpoint or independent QA. The creation was recorded as
+`DECISION_LOG.md` decision 33 (commit `3fa84b2`). All three files remain
+`Status: Draft`, not Approved. ESMM and EPGM were not modified at any
+point in this work package.
+
 ## Phase C.2 Charter
 
 ### 1. Name and Objective
