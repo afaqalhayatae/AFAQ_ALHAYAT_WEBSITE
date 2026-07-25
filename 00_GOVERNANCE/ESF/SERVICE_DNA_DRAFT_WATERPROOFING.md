@@ -3,10 +3,10 @@
 ## Document Information
 
 - **Owner:** Business Owner
-- **Status:** Draft — Expansion, Owner-Reviewed (Partial)
-- **Version:** 0.3
+- **Status:** Draft — Expansion, Owner-Reviewed (Complete)
+- **Version:** 0.4
 - **Prepared:** 2026-07-24
-- **Updated:** 2026-07-25 (Phase C.2 — Owner confirmed scope, promise, boundaries vs. Water Leak Detection and Plumbing, and customer problems; Business Outcome, Brand Position, and specific Core Risks remain Pending)
+- **Updated:** 2026-07-25 (Phase C.2 — Owner confirmed scope, promise, boundaries vs. Water Leak Detection and Plumbing, customer problems, Business Outcome, Brand Position, and Core Risks; all seven fields are now populated)
 - **Program:** `PROG-ESF-V1` (Program C — Enterprise Service Framework), Phase C.1.a / C.2
 - **Service:** `SVC-WATERPROOFING`
 
@@ -23,12 +23,11 @@ Owner Input rather than inferred from the service name. This draft's
 structure was reviewed by `AGT-QA` (Pass, one defect corrected) as part
 of the Phase C.1.a expansion batch. Following Phase C.2 Owner Knowledge
 Capture, the Owner confirmed this service's scope, promise, customer
-problems, boundaries against Water Leak Detection and Plumbing, and a
-general safety principle (see Owner Review Resolution below); specific
-Core Risks content, Business Outcome, and Brand Position remain Pending
-Owner Input. Its content has not been reviewed by `AGT-QA` since this
-update and must not be cited elsewhere or used to inform publishing, AI
-answers, or customer-facing material.
+problems, boundaries against Water Leak Detection and Plumbing, Business
+Outcome, Brand Position, and Core Risks (see Owner Review Resolution
+below). All seven fields are now populated. Its content has not been
+reviewed by `AGT-QA` since these updates and must not be cited elsewhere
+or used to inform publishing, AI answers, or customer-facing material.
 
 ---
 
@@ -54,13 +53,15 @@ No method, material, lifespan, guarantee, or price is stated or implied.*
 
 ## 3. Core Risks
 
-**Partially addressed, not a specific hazard list.** Owner-confirmed
-2026-07-25: "Apply appropriate safety considerations based on work
-location and conditions." This is a general principle, not an identified
-hazard — `SAFETY.md` still contains no hazard list for this service, and
-no specific risk (chemical, fall, structural, or otherwise) has been
-named. Specific Core Risks content remains Pending Owner Input pending a
-competent safety review.
+Risks may relate to roof, elevated-area, and access-related conditions.
+Risks may relate to exposure to waterproofing materials and coatings.
+Risks may relate to surface condition and structural-area factors.
+
+*Source: Owner decision, 2026-07-25 (Round 3). These are stated as risk
+categories only, not safety procedures or operational instructions — no
+control measure, PPE, or method is specified. `SAFETY.md` still contains
+no formal hazard assessment for this service; a competent safety review
+remains a separate, open item beyond this Core Risks entry.*
 
 ## 4. Core Constraints
 
@@ -162,6 +163,15 @@ unchanged, per instruction. This resolution creates no new business fact
 beyond what is stated above, does not create `SERVICE_DNA_REGISTRY.md`,
 and does not touch ESMM or EPGM.
 
+## Owner Review Resolution — Round 3 (2026-07-25, Core Risks)
+
+1. **Core Risks:** roof, elevated-area, and access-related risks;
+   waterproofing material and coating exposure risks; surface condition
+   and structural-area risks. Recorded as risk categories only — not
+   converted into safety procedures or operational instructions. No
+   hazard beyond these three points is claimed. This closes the last
+   remaining field for this service; all seven fields are now populated.
+
 ## Validation Performed
 
 - Every field traces to `BUSINESS.md`, `SAFETY.md`, `README.md`,
@@ -171,11 +181,10 @@ and does not touch ESMM or EPGM.
   points the Owner confirmed.
 - Customer Emotion is explicitly marked interpretive, not a direct
   restatement, and flagged for confirmation.
-- Core Risks is explicitly distinguished as a general principle, not a
-  specific hazard list — not silently treated as resolved.
-- Six of seven fields are populated from Owner-confirmed facts. Core
-  Risks carries a general safety principle but no specific hazard list —
-  the sole remaining partial item, not a blank Pending field.
+- Core Risks is recorded exactly as given — not converted into safety
+  procedures or operational instructions.
+- All seven fields are populated from Owner-confirmed facts; none remain
+  Pending Owner Input.
 - No number, guarantee, price, or warranty claim appears in any field.
 - `SERVICE_RELATIONSHIPS_DRAFT.md` was not modified.
 - This file does not modify `ENTERPRISE_SERVICE_META_MODEL.md`,
@@ -185,9 +194,6 @@ and does not touch ESMM or EPGM.
 
 ## Status
 
-Draft — Expansion, Owner-Reviewed (Partial). Core Purpose, Core Promise,
-Core Constraints, Customer Emotion (interpreted), Business Outcome, and
-Brand Position are now populated from Owner-confirmed facts (2026-07-25);
-Core Risks carries a general safety principle but no specific hazard —
-the sole remaining Pending item. Not approved, not QA-reviewed
-against this update, not canonical.
+Draft — Expansion, Owner-Reviewed (Complete). All seven fields are now
+populated from Owner-confirmed facts (2026-07-25) — none invented. Not
+approved, not canonical, and not QA-reviewed against this update.
