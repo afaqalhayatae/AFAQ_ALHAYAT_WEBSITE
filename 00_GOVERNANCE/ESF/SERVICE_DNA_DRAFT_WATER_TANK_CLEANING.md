@@ -49,16 +49,22 @@ from microorganisms." That excluded claim is not restated here.*
 
 Risk of confined-space hazards (oxygen deficiency, engulfment, restricted
 entry), falls from ladder, roof, or tank-opening access, drowning or
-unexpected inflow, electrical and pump hazards, chemical exposure, and
-biological contamination.
+unexpected inflow, electrical and pump hazards, chemical exposure,
+biological contamination, slips and manual handling, and unintended use
+of the tank before release.
 
-*Source: `SAFETY.md` § Critical Hazards.*
+*Source: `SAFETY.md` § Critical Hazards; Owner-confirmed wording
+refinement, 2026-07-26 — adds the "slips, manual handling" and "service
+interruption and unintended use before release" hazard categories
+already listed in `SAFETY.md` § Critical Hazards but previously omitted
+from this field.*
 
-**Owner-confirmed 2026-07-25:** kept Pending until a competent
-confined-space entry assessment is completed. `SAFETY.md` states no person
-may enter a tank without one and an approved entry system (§ Mandatory
-Control Principle). No unsupported risk claim is added; this entry remains
-provisional pending that assessment.
+**Owner-confirmed 2026-07-25 and 2026-07-26:** kept Pending until a
+competent confined-space entry assessment is completed. `SAFETY.md`
+states no person may enter a tank without one and an approved entry
+system (§ Mandatory Control Principle). No unsupported risk claim is
+added; this entry remains provisional pending that assessment —
+refining its wording does not resolve or substitute for it.
 
 ## 4. Core Constraints
 
@@ -126,6 +132,18 @@ invented to separate them.
 This resolution creates no new business fact, does not create
 `SERVICE_DNA_REGISTRY.md`, and does not touch ESMM or EPGM.
 
+## Owner Review Resolution — Round 3 (2026-07-26, Core Risks wording refinement)
+
+1. **Core Risks wording refined**, not resolved: the "slips, manual
+   handling" and "service interruption and unintended use before
+   release" hazard categories, already listed in `SAFETY.md` § Critical
+   Hazards but previously omitted from this field, are now included.
+2. No new fact is introduced; the additions trace to the same
+   `SAFETY.md` § Critical Hazards section already cited.
+3. **The provisional status is unchanged.** This entry remains pending a
+   competent confined-space entry assessment; this round does not
+   perform or substitute for that assessment.
+
 ## Owner Review Resolution — Round 2 (2026-07-25, Business Outcome & Brand Position)
 
 1. **Business Outcome superseded:** prior entry ("Recurring inspection
@@ -156,5 +174,7 @@ This resolution creates no new business fact, does not create
 
 Draft — Expansion, Owner-Reviewed (Complete). All seven fields are
 populated; Business Outcome and Brand Position updated 2026-07-25 with
-direct Owner statements superseding prior sourced content. Not approved,
-not QA-reviewed against this update, not canonical.
+direct Owner statements superseding prior sourced content. Core Risks
+wording was refined 2026-07-26 (still provisional, pending a competent
+confined-space entry assessment). Not approved, not QA-reviewed against
+this update, not canonical.

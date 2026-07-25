@@ -54,19 +54,22 @@ gate.
 
 ## 3. Core Risks
 
-Risk of harm to customer health, property, or the environment if treatment
-is performed without correct chemical handling, protective equipment, or
-containment of treated areas.
+**Provisional — pending a competent safety review.** Risks may relate to
+chemical handling, storage, and exposure during treatment. Risks may
+relate to incorrect or missing personal protective equipment. Risks may
+relate to contamination of food, sensitive items, or occupied areas if
+containment is inadequate. Risks may relate to exposure of children,
+pets, or bystanders during or after treatment. Risks may relate to
+improper waste or chemical disposal after service.
 
 *Source: `SAFETY.md` § PPE, Before/During/After Service, Emergency
-Procedures — reshaped as risk statements, not as approved control
-instructions.*
-
-**Requires Owner input:** `SAFETY.md` itself states it is "a legacy draft
-control list, not an approved risk assessment" and requires "a competent
-safety review" before its hazards, exposure routes, and controls can be
-treated as confirmed. This Core Risks entry is therefore provisional pending
-that review.
+Procedures, § Safety Rules — reshaped as risk categories, not as approved
+control instructions; Owner-confirmed wording refinement, 2026-07-26.
+`SAFETY.md` itself states it is "a legacy draft control list, not an
+approved risk assessment" and requires "a competent safety review" before
+its hazards, exposure routes, and controls can be treated as confirmed.
+This Core Risks entry remains provisional pending that review — refining
+its wording does not resolve or substitute for it.*
 
 ## 4. Core Constraints
 
@@ -140,6 +143,20 @@ flagged items. It does not approve any underlying fact (response time,
 municipality compliance, safety controls, certification, or product
 approval) — those evidence gates remain separately open and unresolved.
 
+## Owner Review Resolution — Round 3 (2026-07-26, Core Risks wording refinement)
+
+1. **Core Risks wording refined**, not resolved: two hazard categories
+   already present in `SAFETY.md` but not previously reflected in this
+   field — exposure of children/pets/bystanders (§ Before Service) and
+   waste/chemical disposal (§ After Service, § Emergency Procedures) —
+   are now included, and the field is restated as itemized risk
+   categories, matching the format used elsewhere in this program.
+2. No new fact is introduced; every clause traces to an existing
+   `SAFETY.md` section already cited.
+3. **The provisional status is unchanged.** This entry remains pending a
+   competent safety review; this round does not perform or substitute
+   for that review.
+
 ## Owner Review Resolution — Round 2 (2026-07-25, Business Outcome & Brand Position)
 
 1. **Business Outcome superseded:** prior entry ("Repeat business and
@@ -175,5 +192,7 @@ approval) — those evidence gates remain separately open and unresolved.
 
 Draft — Pilot, Owner-Reviewed. Business Outcome and Brand Position were
 updated 2026-07-25 with direct Owner statements superseding their prior
-`BUSINESS.md`-derived content. This draft is still not approved, not
-QA-reviewed against this update, and not canonical.
+`BUSINESS.md`-derived content. Core Risks wording was refined 2026-07-26
+(still provisional, pending a competent safety review). This draft is
+still not approved, not QA-reviewed against this update, and not
+canonical.

@@ -99,15 +99,18 @@ evidence.
 
 ### Core Risks
 
-**Provisional — pending a competent safety review.** Risk of harm to
-customer health, property, or the environment if treatment is performed
-without correct chemical handling, protective equipment, or containment
-of treated areas.
+**Provisional — pending a competent safety review.** Risks may relate to
+chemical handling, storage, and exposure during treatment. Risks may
+relate to incorrect or missing personal protective equipment. Risks may
+relate to contamination of food, sensitive items, or occupied areas if
+containment is inadequate. Risks may relate to exposure of children,
+pets, or bystanders during or after treatment. Risks may relate to
+improper waste or chemical disposal after service.
 
 *Source: `04_SERVICE_KNOWLEDGE/01_PEST_CONTROL/SAFETY.md` § PPE, Before/During/After
-Service, Emergency Procedures, reshaped as risk statements; Owner-confirmed
-2026-07-24 as provisional pending `SAFETY.md`'s own required competent
-safety review.*
+Service, Emergency Procedures, § Safety Rules; Owner-confirmed wording
+refinement, 2026-07-26 — remains provisional pending `SAFETY.md`'s own
+required competent safety review.*
 
 ### Core Constraints
 
@@ -246,10 +249,12 @@ visible quality checks.
 trips, and wet-floor incidents; chemical exposure from incompatible
 products; manual-handling strain; electrical-equipment hazards in wet
 environments; contact with sharps, broken glass, or biological material;
-unsafe work at height or access; and damage to sensitive surfaces.
+unsafe work at height or access; risk arising from customer, child, pet,
+or public interaction during service; and damage to sensitive surfaces.
 
-*Source: `SAFETY.md` § Primary Hazards; Owner-confirmed 2026-07-25 as
-kept Pending until a competent safety review is completed.*
+*Source: `SAFETY.md` § Primary Hazards; Owner-confirmed wording
+refinement, 2026-07-26 — remains provisional pending a competent safety
+review.*
 
 ### Core Constraints
 
@@ -399,12 +404,13 @@ responsible hygiene practice.
 Risk of confined-space hazards (oxygen deficiency, engulfment,
 restricted entry), falls from ladder, roof, or tank-opening access,
 drowning or unexpected inflow, electrical and pump hazards, chemical
-exposure, and biological contamination.
+exposure, biological contamination, slips and manual handling, and
+unintended use of the tank before release.
 
-*Source: `SAFETY.md` § Critical Hazards; Owner-confirmed 2026-07-25 as
-kept Pending until a competent confined-space entry assessment is
-completed. `SAFETY.md` states no person may enter a tank without one and
-an approved entry system.*
+*Source: `SAFETY.md` § Critical Hazards; Owner-confirmed wording
+refinement, 2026-07-26 — remains provisional pending a competent
+confined-space entry assessment. `SAFETY.md` states no person may enter
+a tank without one and an approved entry system.*
 
 ### Core Constraints
 

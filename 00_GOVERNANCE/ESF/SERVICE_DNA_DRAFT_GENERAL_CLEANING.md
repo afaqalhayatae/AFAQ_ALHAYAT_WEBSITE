@@ -51,15 +51,21 @@ cheapest, fastest, or best." Those excluded claims are not restated here.*
 Risk of slips, trips, and wet-floor incidents; chemical exposure from
 incompatible products; manual-handling strain; electrical-equipment hazards
 in wet environments; contact with sharps, broken glass, or biological
-material; unsafe work at height or access; and damage to sensitive
+material; unsafe work at height or access; risk arising from customer,
+child, pet, or public interaction during service; and damage to sensitive
 surfaces.
 
-*Source: `SAFETY.md` § Primary Hazards.*
+*Source: `SAFETY.md` § Primary Hazards; Owner-confirmed wording
+refinement, 2026-07-26 — adds the "customer, child, pet, or public
+interaction" hazard category already listed in `SAFETY.md` § Primary
+Hazards but previously omitted from this field.*
 
-**Owner-confirmed 2026-07-25:** kept Pending until a competent safety
-review is completed. `SAFETY.md` states this is a "Draft control set —
-competent safety review required before operational use." No unsupported
-risk claim is added; this entry remains provisional pending that review.
+**Owner-confirmed 2026-07-25 and 2026-07-26:** kept Pending until a
+competent safety review is completed. `SAFETY.md` states this is a
+"Draft control set — competent safety review required before operational
+use." No unsupported risk claim is added; this entry remains provisional
+pending that review — refining its wording does not resolve or
+substitute for it.
 
 ## 4. Core Constraints
 
@@ -130,6 +136,18 @@ supply one.
 This resolution creates no new business fact, does not create
 `SERVICE_DNA_REGISTRY.md`, and does not touch ESMM or EPGM.
 
+## Owner Review Resolution — Round 3 (2026-07-26, Core Risks wording refinement)
+
+1. **Core Risks wording refined**, not resolved: the "customer, child,
+   pet, or public interaction" hazard category, already listed in
+   `SAFETY.md` § Primary Hazards but previously omitted from this field,
+   is now included.
+2. No new fact is introduced; the addition traces to the same
+   `SAFETY.md` § Primary Hazards section already cited.
+3. **The provisional status is unchanged.** This entry remains pending a
+   competent safety review; this round does not perform or substitute
+   for that review.
+
 ## Owner Review Resolution — Round 2 (2026-07-25, Business Outcome & Brand Position)
 
 1. **Business Outcome superseded:** prior entry ("Recurring, contracted
@@ -161,5 +179,7 @@ This resolution creates no new business fact, does not create
 
 Draft — Expansion, Owner-Reviewed (Complete). All seven fields are
 populated; Business Outcome and Brand Position updated 2026-07-25 with
-direct Owner statements superseding prior sourced content. Not approved,
-not QA-reviewed against this update, not canonical.
+direct Owner statements superseding prior sourced content. Core Risks
+wording was refined 2026-07-26 (still provisional, pending a competent
+safety review). Not approved, not QA-reviewed against this update, not
+canonical.
