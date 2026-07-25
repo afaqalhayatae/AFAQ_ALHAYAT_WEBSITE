@@ -1,9 +1,11 @@
 # AFAQ Alhayat Enterprise Knowledge System Architecture
 
-> **Status:** Proposed migration constitution  
-> **Version:** 1.0  
+> **Status:** Approved — Structural Architecture Authority (Migration Complete; Repository Stabilized)  
+> **Version:** 1.1  
 > **Prepared:** 2026-07-23  
-> **Migration mode:** Analysis first; no file may be moved, renamed, overwritten, or deleted without explicit approval  
+> **Updated:** 2026-07-24  
+> **Authority:** Subordinate to the Business Owner and the Enterprise Constitution  
+> **Migration mode:** Complete — this document governs ongoing structural and architectural decisions  
 > **Applies to:** `AFAQ_ALHAYAT_ENTERPRISE_KNOWLEDGE`
 
 ---

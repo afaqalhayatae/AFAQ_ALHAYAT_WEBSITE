@@ -178,9 +178,12 @@ If a document does not improve decision-making, execution, or customer experienc
 
 # Governance
 
-All major architectural decisions must align with this manifest.
+All major architectural decisions must align with the Enterprise Constitution
+and this Manifest.
 
-Project standards take precedence over individual documents.
+Where a conflict exists, the Enterprise Constitution prevails.
+
+Project standards govern implementation within that hierarchy.
 
 Knowledge integrity has higher priority than speed of documentation.
 

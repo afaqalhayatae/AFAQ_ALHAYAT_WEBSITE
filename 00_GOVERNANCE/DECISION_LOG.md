@@ -40,6 +40,41 @@ Source: `SYSTEM_ARCHITECTURE.md` v1.0, migration plan `MIGPLAN-20260723-0326-4ff
 | 21 | The governed Agent Operating System and risk-based model-routing policy are approved. | Specialist agents use bounded roles, independent QA, Git-first recovery, and owner gates. Current flagship models handle high-impact architecture and review; balanced models handle routine implementation; efficient models are limited to deterministic, easily verified work. |
 | 22 | The canonical implementation direction remains Next.js, TypeScript, React, Tailwind CSS, Node.js, PostgreSQL, and Prisma. | This is the existing approved direction in `TECH_STACK.md`. WordPress and hybrid documents are retained as non-canonical research and cannot drive implementation without a new owner decision. Hostinger plan compatibility remains a required verification gate. |
 
+## 2026-07-24 — EAOS v1 approval
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 23 | The Enterprise Agent Operating System v1 (`00_GOVERNANCE/EAOS/`, 8 documents: `EAOS_CHARTER.md`, `EAOS_ARCHITECTURE.md`, `REGISTRIES.md`, `AGENT_LIFECYCLE.md`, `COMMUNICATION_PROTOCOL.md`, `DECISION_FLOW.md`, `QUALITY_GATES.md`, `README.md`) is approved as the governing protocol description for agent job structure, lifecycle, communication, decision flow, and quality gates. | Approval covers the documented protocol only, following independent QA (`JOB-000001`, `AGT-QA`, 0 defects, Pass) and a successful pilot. It does not enable live automation, create new agent roles, create new capabilities beyond `REGISTRIES.md`'s existing Capability Registry, start Program C, or authorize any credential, spend, or publishing action. |
+
+## 2026-07-24 — ESMM governance decisions
+
+Source: Enterprise Service Meta-Model (ESMM) proposal and its Owner review
+package. ESMM itself is not yet ratified and has not been written to a
+repository file; these decisions govern its future build, not its current
+existence.
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 24 | A future `SERVICE_DNA_REGISTRY` is approved in concept, to be placed within the `04_SERVICE_KNOWLEDGE` domain when built. | No file is created by this decision. Structure and fields remain subject to ESMM's own design and a later, separately approved build step. |
+| 25 | A future `SERVICE_RELATIONSHIPS` registry is approved in concept, to be placed within the `04_SERVICE_KNOWLEDGE` domain when built. | No file is created by this decision. Once built, every relationship entry must validate against an existing `SVC-` ID in `SERVICE_CATALOG.md`. |
+| 26 | The Customer Intent Model is approved as a future enterprise-wide canonical model serving AI, CRM, Booking, and Analytics jointly. | AI Experience is explicitly **not** the sole owner. Exact file placement is undecided and remains an open blocker before ratification. |
+| 27 | `SERVICE_CATALOG.md` categories remain classification labels only; no Parent Service Object is created at this stage. | ESMM §12 (Parent-Child Lifecycle Constraints) and §14 (Object Inheritance Rules) remain dormant until a future, separately approved decision revisits this. |
+| 28 | The Enterprise Publication Gate Model (EPGM) remains a separate model from ESMM — cross-referenced, never merged. | Preserves the "no new architectural layer" boundary both models were built under; each keeps its own review and ratification cycle. |
+| 29 | Future ESMM and EPGM governed documents, once created, will be placed under `00_GOVERNANCE/`. | No file is created by this decision. Placement only — content, drafting, review, and ratification remain separate future steps. |
+| 30 | The Customer Intent Model's ownership is Enterprise Knowledge Governance; AI, CRM, Booking, and Analytics are consumers, not owners. | Resolves the placement blocker from decision 26 — AI Experience is confirmed a consumer only, not sole owner. Exact file name and path within governance remain undecided. No file is created by this decision; the model itself is not yet drafted. |
+
+## 2026-07-24 — ESMM and EPGM ratification
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 31 | `ENTERPRISE_SERVICE_META_MODEL.md` and `ENTERPRISE_PUBLICATION_GATE_MODEL.md` are approved, and EPGM's `Blocked`/`Suspended` status modifiers are formally adopted alongside the existing five-value status vocabulary. | Approval covers the documented model and computation only, following independent QA (0 defects, Pass) accepted by the Owner. It does not create `SERVICE_DNA_REGISTRY`, `SERVICE_RELATIONSHIPS`, or a Customer Intent Model file, does not start Program C, and does not enable live automation. `Suspended` may be set only by the Business Owner, or provisionally by `AGT-QA` pending immediate Owner confirmation, per `ENTERPRISE_PUBLICATION_GATE_MODEL.md` §14. |
+
+## 2026-07-24 — Enterprise Constitution ratification
+
+| # | Decision | Scope and guardrail |
+|---|---|---|
+| 32 | `ENTERPRISE_CONSTITUTION.md` is ratified by the Business Owner as v1.0, Approved, effective retroactively to 2026-07-24 — the date it was drafted and the date the EAOS v1 (decision 23) and ESMM/EPGM (decision 31) approvals were recorded. | Retroactive effect confirms EAOS v1, ESMM, and EPGM remain validly approved under the ratified Constitution; decisions 23 and 31 are not reopened, re-reviewed, or re-approved by this entry. Ratification covers the Constitution's text only. It does not start Program C, does not create `SERVICE_DNA_REGISTRY`, `SERVICE_RELATIONSHIPS`, or a Customer Intent Model file, and does not enable live automation. |
+
 ## Deferred / open (see `00_GOVERNANCE/MIGRATION/VALIDATION_REPORT.md` for full detail)
 
 - Folder-numbering convention for 7 additional service-knowledge packages (AC Maintenance, Cleaning Services, Plumbing, Electrical Maintenance, Painting Services, Handyman Services, Water Tank Cleaning) — content in scope per decision 5, destination IDs not yet assigned.
