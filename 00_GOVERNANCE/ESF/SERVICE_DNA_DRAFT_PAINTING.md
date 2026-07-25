@@ -4,9 +4,9 @@
 
 - **Owner:** Business Owner
 - **Status:** Draft — Expansion, Owner-Reviewed (Complete)
-- **Version:** 0.4
+- **Version:** 0.5
 - **Prepared:** 2026-07-24
-- **Updated:** 2026-07-25 (Phase C.2 — Owner confirmed scope, promise, boundary vs. Handyman, customer problems, Business Outcome, Brand Position, and Core Risks; all seven fields are now populated)
+- **Updated:** 2026-07-25 (Phase C.2 — Owner confirmed scope, promise, boundary vs. Handyman, customer problems, Business Outcome, Brand Position, and Core Risks; all seven fields are now populated. WP2 B1: Customer Emotion interpretation confirmed as Owner judgment.)
 - **Program:** `PROG-ESF-V1` (Program C — Enterprise Service Framework), Phase C.1.a / C.2
 - **Service:** `SVC-PAINTING`
 
@@ -90,10 +90,10 @@ changing colors, improving walls/surfaces appearance, and finishing after
 repairs or preparation"). Interpretive, not a direct restatement — this
 names the given problem, not a stated emotion.*
 
-**Requires Owner input:** this interpretation should be confirmed or
-corrected — the Owner described the customer's problem, not explicitly
-the emotion behind it; this entry infers desire/satisfaction from that
-problem description.
+**Owner-confirmed 2026-07-25 (Round 4):** the interpreted entry above is
+accepted as Owner judgment. No replacement content was supplied — this
+remains labeled as interpretation, not sourced fact, and is not elevated
+to a directly-sourced claim by this confirmation.
 
 ## 6. Business Outcome
 
@@ -164,6 +164,14 @@ business fact beyond what is stated above, does not create
    hazard beyond these three points is claimed. This closes the last
    remaining field for this service; all seven fields are now populated.
 
+## Owner Review Resolution — Round 4 (2026-07-25, Customer Emotion — Phase C.2 WP2 B1)
+
+1. **Customer Emotion:** the drafted interpretation is confirmed as Owner
+   judgment. No replacement content was supplied. Remains labeled as
+   interpretation, not sourced fact.
+2. This closes the last open item for this service identified by the
+   AGT-QA consolidated review (Phase C.2 Work Package 2).
+
 ## Validation Performed
 
 - Every field traces to `BUSINESS.md`, `SAFETY.md`, `README.md`,
@@ -172,7 +180,8 @@ business fact beyond what is stated above, does not create
 - No claim was inferred from the service name or expanded beyond the
   points the Owner confirmed.
 - Customer Emotion is explicitly marked interpretive, not a direct
-  restatement, and flagged for confirmation.
+  restatement; Owner-confirmed (Round 4) as accepted judgment, not
+  elevated to sourced fact.
 - Core Risks is recorded exactly as given — not converted into safety
   procedures or operational instructions.
 - All seven fields are populated from Owner-confirmed facts; none remain
@@ -187,5 +196,6 @@ business fact beyond what is stated above, does not create
 ## Status
 
 Draft — Expansion, Owner-Reviewed (Complete). All seven fields are now
-populated from Owner-confirmed facts (2026-07-25) — none invented. Not
-approved, not canonical, and not QA-reviewed against this update.
+populated from Owner-confirmed facts (2026-07-25) — none invented; the
+Customer Emotion interpretive-confirmation flag closed the same day
+(Phase C.2 WP2 B1). Not approved, not canonical.

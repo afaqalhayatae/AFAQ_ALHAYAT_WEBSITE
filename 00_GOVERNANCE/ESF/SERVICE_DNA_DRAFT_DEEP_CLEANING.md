@@ -4,9 +4,9 @@
 
 - **Owner:** Business Owner
 - **Status:** Draft — Expansion, Owner-Reviewed (Complete)
-- **Version:** 0.6
+- **Version:** 0.7
 - **Prepared:** 2026-07-24
-- **Updated:** 2026-07-25 (Round 6 — Owner confirmed Core Risks; all seven fields are now populated. Round 4 supplied scope, promise, boundary vs. General Cleaning, exclusions, and customer reason; Round 5 supplied Business Outcome and Brand Position)
+- **Updated:** 2026-07-25 (Round 6 — Owner confirmed Core Risks; all seven fields are now populated. Round 4 supplied scope, promise, boundary vs. General Cleaning, exclusions, and customer reason; Round 5 supplied Business Outcome and Brand Position. Round 7 (Phase C.2 WP2 B1): Customer Emotion interpretation confirmed as Owner judgment.)
 - **Program:** `PROG-ESF-V1` (Program C — Enterprise Service Framework), Phase C.1.a / C.2
 - **Service:** `SVC-DEEP-CLEANING`
 
@@ -128,10 +128,10 @@ regular cleaning. The service addresses accumulated dirt and areas
 requiring more detailed attention"). Interpretive, not a direct
 restatement — this names the given need, not a stated emotion.*
 
-**Requires Owner input:** this interpretation should be confirmed or
-corrected — the Owner described the customer's need, not explicitly the
-emotion behind it; this entry infers satisfaction/relief from that
-description.
+**Owner-confirmed 2026-07-25 (Round 7):** the interpreted entry above is
+accepted as Owner judgment. No replacement content was supplied — this
+remains labeled as interpretation, not sourced fact, and is not elevated
+to a directly-sourced claim by this confirmation.
 
 ## 6. Business Outcome
 
@@ -255,6 +255,14 @@ reasoning is wrong, it should be corrected the same way Round 2 was.
 3. This closes the last remaining field for this service; all seven
    fields are now populated.
 
+## Owner Review Resolution (2026-07-25, Round 7 — Customer Emotion — Phase C.2 WP2 B1)
+
+1. **Customer Emotion:** the drafted interpretation is confirmed as Owner
+   judgment. No replacement content was supplied. Remains labeled as
+   interpretation, not sourced fact.
+2. This closes the last open item for this service identified by the
+   AGT-QA consolidated review (Phase C.2 Work Package 2).
+
 ## Validation Performed
 
 - Every field traces to `BUSINESS.md`, `SAFETY.md`, `README.md`,
@@ -264,9 +272,8 @@ reasoning is wrong, it should be corrected the same way Round 2 was.
   populated from Round 4's Owner-supplied statements; no task, room,
   surface, fixture, duration, price, or warranty was added beyond what
   was given.
-- Customer Emotion is explicitly marked interpretive and flagged for
-  confirmation, consistent with how this field is handled elsewhere in
-  this program.
+- Customer Emotion is explicitly marked interpretive; Owner-confirmed
+  (Round 7) as accepted judgment, not elevated to sourced fact.
 - Core Risks is recorded exactly as given (Round 6) — not converted into
   cleaning procedures, operational instructions, chemical handling
   rules, or technical methods, and its routing point stays within the
@@ -287,5 +294,6 @@ Customer Emotion, Business Outcome, Brand Position) — none invented.
 This supersedes Round 3's fully-reverted state, which was itself a
 correction of Round 2's retracted over-interpretation — see Owner Review
 Resolution above for the full history and the distinction drawn between
-Round 2 and Round 4. Not approved, not QA-reviewed against this update,
-not canonical.
+Round 2 and Round 4. The Customer Emotion interpretive-confirmation flag
+closed 2026-07-25 (Round 7, Phase C.2 WP2 B1). Not approved, not
+canonical.

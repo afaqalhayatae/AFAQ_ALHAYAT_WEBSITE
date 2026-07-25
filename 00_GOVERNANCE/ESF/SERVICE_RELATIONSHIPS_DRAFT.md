@@ -4,9 +4,9 @@
 
 - **Owner:** Business Owner
 - **Status:** Draft — Preparatory, Owner-Reviewed (Complete)
-- **Version:** 0.1
+- **Version:** 0.2
 - **Prepared:** 2026-07-24
-- **Updated:** 2026-07-25
+- **Updated:** 2026-07-25 (Phase C.2 WP2 — Alternative closed; Deep Cleaning publication limitation lifted)
 - **Program:** `PROG-ESF-V1` (Program C — Enterprise Service Framework), Phase C.1.b
 
 ## What This Is
@@ -46,7 +46,7 @@ coverage:
 | Parent | **Dormant for all 12 services.** Per `DECISION_LOG.md` decision 27 and ESMM Layer 14's own note, `SERVICE_CATALOG.md` categories are classification labels only — no Parent Service Object exists yet. No parent edge is drafted. |
 | Child | **Dormant for all 12 services**, same reason as Parent. |
 | Related | Populated below from explicit, named scope-boundary text in service `README.md` files — not from shared catalog category (see § 4 for why category alone was not used). |
-| Alternative | **No candidates found.** No repository source frames any two services as substitutable alternatives for the same customer need. Pending Owner Input for all 12 services. |
+| Alternative | **Closed 2026-07-25 (Phase C.2 WP2).** No candidates identified — no repository source frames any two services as substitutable alternatives for the same customer need. Owner-confirmed: no Alternative relationships exist across the 12 services at this stage; re-evaluate only if new evidence appears. Not pending resolution. |
 | Upsell | **No validated candidate.** One source example names a service pair ("Basic Cleaning" → "Deep Cleaning"), but "Basic Cleaning" does not match a catalog name. Closed 2026-07-25: "Basic Cleaning" is permanently unmapped as a historical source term — see § 5. This is not pending resolution. |
 | Cross-sell | Six candidates (see § 2); **Owner-reviewed 2026-07-24 — original 3 confirmed. Owner-reviewed 2026-07-25 — 3 more confirmed, resolved from § 5 unresolved terms.** |
 | Dependency | Four candidates found (see § 3); **Owner-reviewed 2026-07-24 — 2 confirmed (→ Plumbing, → Waterproofing), 2 rejected (→ AC Maintenance, → Water Tank Cleaning).** |
@@ -78,15 +78,18 @@ The one example naming a service pair ("Upgrade from Basic Cleaning to
 Deep Cleaning") is listed in § 5 as unresolved, because "Basic Cleaning" is
 not a catalog name.
 
-**Deep Cleaning publication limitation (Owner-confirmed 2026-07-25):** the
-two Cross-sell candidates targeting `SVC-DEEP-CLEANING` (Pest Control →
-Deep Cleaning, Plumbing → Deep Cleaning) are confirmed as valid
-**structural** service relationships. They do not indicate Deep Cleaning
-is publication-ready, and must not be used for AI answers, publishing, or
-any customer-facing material until `SERVICE_DNA_DRAFT_DEEP_CLEANING.md`'s
-scope-differentiation-from-General-Cleaning blocker is resolved. This
-limitation applies to these two candidates only — no other confirmed
-relationship in this file carries it.
+**Deep Cleaning publication limitation — lifted 2026-07-25 (Phase C.2 WP2
+B3).** The two Cross-sell candidates targeting `SVC-DEEP-CLEANING` (Pest
+Control → Deep Cleaning, Plumbing → Deep Cleaning) are confirmed as valid
+**structural** service relationships. The scope-differentiation-from-
+General-Cleaning blocker this limitation was tied to is resolved —
+`SERVICE_DNA_DRAFT_DEEP_CLEANING.md` Rounds 3–4 confirmed Deep Cleaning
+as a separate catalog service from General Cleaning, with Task Scope as
+the differentiation basis, and recorded scope, exclusions, and boundary.
+This limitation is therefore lifted; these two candidates now carry the
+same status as every other confirmed relationship in this file — a
+confirmed structural candidate in a Draft, non-canonical registry, not
+yet an approved relationship or publication authorization.
 
 ## 3. Dependency Candidates
 
@@ -250,6 +253,27 @@ This resolution creates no new candidate, does not create
 `SERVICE_RELATIONSHIPS.md`, and does not touch ESMM, EPGM, or any Service
 DNA draft.
 
+## Owner Review Resolution — Round 4 (2026-07-25, Phase C.2 Work Package 2)
+
+Recorded under Program C Phase C.2, Work Package 2 (Consolidated QA
+Resolution — B2, B3):
+
+1. **Alternative (§1):** confirmed closed — no Alternative relationships
+   exist across the 12 catalog services at this stage. No candidates
+   identified; not pending resolution; re-evaluate only if new evidence
+   appears. §1's Alternative row is updated accordingly.
+2. **Deep Cleaning limitation (§2):** confirmed lifted. The
+   scope-differentiation-from-General-Cleaning blocker that Round 3's
+   limitation was tied to is resolved by `SERVICE_DNA_DRAFT_DEEP_CLEANING.md`
+   Rounds 3–4 (Deep Cleaning confirmed as a separate catalog service from
+   General Cleaning, Task Scope as the differentiation basis, with scope,
+   exclusions, and boundary now recorded). The Pest Control → Deep
+   Cleaning and Plumbing → Deep Cleaning Cross-sell candidates now carry
+   the same status as every other confirmed relationship in this file.
+3. No new candidate is created by this round. `SERVICE_RELATIONSHIPS.md`
+   is not created. ESMM and EPGM are not touched. No Service DNA draft is
+   modified by this round.
+
 ## Validation Performed
 
 - Every candidate's both ends were checked against `SERVICE_CATALOG.md`'s
@@ -282,13 +306,18 @@ Draft — Preparatory, Owner-Reviewed (Complete). The Business Owner has
 resolved every item raised during Phase C.2 Work Package 2: all 10
 originally drafted candidates (2026-07-24); "Bathroom Deep Cleaning,"
 "Electrical Inspection" (both occurrences), "Air Duct Cleaning,"
-"Preventive Maintenance," and both zero-coverage services (2026-07-25);
-and "Basic Cleaning," closed 2026-07-25 as a permanent unresolved
-historical reference (not mapped to any service). No item remains
-pending Owner decision. This draft is not yet QA-reviewed against this
-final candidate set (6 Cross-sell, 2 Dependency, 3 Related — 11 confirmed
-candidates total) and is not canonical — even confirmed candidates are
-not approved relationships until the underlying source facts (all
-currently Draft, Blocked, or "Requiring Confirmation") are separately
-confirmed, and until `SERVICE_RELATIONSHIPS.md` is created through a
-later, separate authorization.
+"Preventive Maintenance," both zero-coverage services, and "Basic
+Cleaning" (closed 2026-07-25 as a permanent unresolved historical
+reference, not mapped to any service); and, per the AGT-QA consolidated
+review, the Alternative relationship type (closed 2026-07-25 — no
+candidates identified across the 12 services) and the Deep Cleaning
+publication limitation (lifted 2026-07-25 — its underlying scope blocker
+is resolved). No item remains pending Owner decision. This draft
+reflects its first independent AGT-QA consolidated review (Phase C.2
+Work Package 2) against its final candidate set (6 Cross-sell, 2
+Dependency, 3 Related — 11 confirmed candidates total) and is not
+canonical — even confirmed candidates are not approved relationships
+until the underlying source facts (all currently Draft, Blocked, or
+"Requiring Confirmation") are separately confirmed, and until
+`SERVICE_RELATIONSHIPS.md` is created through a later, separate
+authorization.
