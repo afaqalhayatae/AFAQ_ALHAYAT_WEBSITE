@@ -156,6 +156,53 @@ Consultation decision above. None of the three future artifacts
 (`SERVICE_DNA_REGISTRY.md`, `SERVICE_RELATIONSHIPS.md`, canonical Customer
 Intent Model file) exists.
 
+### Phase C.2 Work Package 1 — Resolution of Remaining Owner Decisions (2026-07-25)
+
+Every Pending Owner Input item confirmed still open at the Phase C.1
+Completion Review was resolved through individual, per-item Owner
+decisions, following the same "stop and ask" discipline used throughout
+Phase C.1: the outstanding Service DNA fields across all 12 drafts
+(closing with Painting's and Waterproofing's Core Risks, commit
+`50a8725`), the 5 unresolved Service Relationships source terms and the
+2 zero-coverage services, and the Consultation handling shape in
+`CUSTOMER_INTENT_MODEL_DRAFT.md`. No item was silently dropped. No
+canonical file or registry was created; ESMM and EPGM were not modified.
+
+### Phase C.2 Work Package 2 — Consolidated AGT-QA Review (2026-07-25)
+
+`AGT-QA` performed one consolidated review across all three resolved
+artifact families together — Structural QA, Traceability QA,
+cross-service consistency, and relationship alignment — the first
+cross-artifact consistency check run in this program. The review
+returned REVISE with three findings: B1 (the Customer Emotion
+interpretive-confirmation flag left open on 5 of 12 Service DNA drafts —
+AC Maintenance, Deep Cleaning, Electrical Maintenance, Painting,
+Waterproofing — despite each file's own status reading "Complete"), B2
+(`SERVICE_RELATIONSHIPS_DRAFT.md`'s Status claimed no item remained
+pending while its own §1 table still listed Alternative as "Pending
+Owner Input for all 12 services"), and B3 (a stale Deep Cleaning
+publication-readiness caveat in the same file, tied to a
+scope-differentiation blocker that Deep Cleaning's own DNA draft had
+since resolved). The Business Owner resolved all three per item —
+confirming the 5 Customer Emotion interpretations as Owner judgment,
+closing Alternative as no-candidates-identified, and lifting the Deep
+Cleaning limitation — recorded and committed (`8a12ee9`). No canonical
+file or registry was created; ESMM and EPGM were not modified.
+
+### Phase C.2 Work Package 3 — Canonical-Readiness Assessment (2026-07-25)
+
+`AGT-QA` produced a read-only canonical-readiness assessment for the
+three future artifacts. Finding: Service DNA and Service Relationships
+are content-ready and QA-clean, but registry creation for both remains
+gated on a registry-schema design step that has not happened yet
+(decisions 24 and 25 require ESMM's own design plus a separately
+approved build step). The Customer Intent Model is likewise
+content-ready, with an additional, narrower open item unique to it — its
+canonical file name and path within `00_GOVERNANCE/` remain undecided
+per decision 26/30. No file was created or modified by this assessment.
+Work Package 4 (the future Owner authorization gate) is defined but not
+opened by this review.
+
 ## Phase C.2 Charter
 
 ### 1. Name and Objective
