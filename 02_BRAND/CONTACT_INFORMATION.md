@@ -22,15 +22,21 @@ AFAQ Alhayat Maintenance, Cleaning & Pest Control
 
 ## WhatsApp
 
-**Owner Confirmation Required.** Do not assume that the approved phone number
-is also the official WhatsApp number.
++971 58 543 1766 (same number as Phone).
+
+Click-to-chat link in use: `https://wa.me/message/JMZVJDFDQL3VD1`
+
+**Verification:** Confirmed directly by the business owner on 2026-07-27, via
+`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 1.
 
 ---
 
 ## Email
 
-**Owner Input Required.** No official email address has been confirmed. Do not
-derive an email address from the approved domain.
+Info@afaqalhayatae.com
+
+**Verification:** Confirmed directly by the business owner on 2026-07-27, via
+`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 2.
 
 ---
 
@@ -58,7 +64,10 @@ still be retrieved from that registry and must not be inferred.
 
 ## Working Hours
 
-**Owner Input Required.** Hours have not been verified.
+24/7.
+
+**Verification:** Confirmed directly by the business owner on 2026-07-27, via
+`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 4.
 
 ---
 
@@ -71,8 +80,17 @@ still be retrieved from that registry and must not be inferred.
 
 ## Social Media
 
-**Owner Input Required.** Add only verified profile URLs. Platform names alone
-must not be treated as proof that an official company account exists.
+- Facebook: https://www.facebook.com/aafaqalhayat/
+- Instagram: https://www.instagram.com/afaq_alhayat
+- TikTok: https://www.tiktok.com/@afaq.alhayat
+- LinkedIn: https://www.linkedin.com/company/afaq-al-hayat/
+- X: https://x.com/afaqalhayat1
+- Pinterest: https://pin.it/1Ev0TVeKL
+- Threads: https://www.threads.com/@afaq_alhayat
+- YouTube: https://www.youtube.com/@afaqalhayatae
+
+**Verification:** Confirmed directly by the business owner on 2026-07-27, via
+`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 5.
 
 ---
 
@@ -90,10 +108,10 @@ Partially Verified:
 - Phone: Approved.
 - Website domain: Approved.
 - Hosting provider: Approved.
-- WhatsApp: Pending.
-- Email: Pending.
-- Working hours: Pending.
-- Social profile URLs: Pending.
+- WhatsApp: Approved.
+- Email: Approved.
+- Working hours: Approved (24/7).
+- Social profile URLs: Approved.
 - Emergency-service availability: Pending.
 
 Consumers may publish only the fields explicitly marked Approved. Missing or

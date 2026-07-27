@@ -16,21 +16,30 @@ Owner Input Required — must match the legal/trade name exactly as it should ap
 
 # Address
 
-Owner Input Required. No verified street address exists in the source material migrated into this system.
+Dubai - Oud Metha, Um Hurair Street - Al Makhawi Center (EN); دبي - عود ميثاء، شارع أم هرير - مركز المخاوي (AR).
+
+**Verification:** Confirmed directly by the business owner on 2026-07-27, via
+`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 3.
 
 ---
 
 # Phone / WhatsApp
 
 See [`CONTACT_INFORMATION.md`](CONTACT_INFORMATION.md) — canonical source. Do
-not duplicate the number here. Phone is owner-approved; WhatsApp remains
-unverified.
+not duplicate the number here. Phone and WhatsApp are both owner-approved
+(same number).
 
 ---
 
 # Map Coordinates
 
-Owner Input Required — latitude/longitude for each branch, if more than one.
+Google Maps profile link confirmed and approved: https://maps.app.goo.gl/jeLNXvJB9fV8JxPG7
+(`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 6, 2026-07-27).
+
+Precise numeric latitude/longitude (for structured-data `geo` properties) has
+not been separately supplied and remains Owner Input Required — the approved
+map link does not by itself substitute for coordinates if a future schema
+implementation needs them.
 
 ---
 
@@ -42,7 +51,8 @@ Owner Input Required. No branch structure has been defined yet. If AFAQ Alhayat 
 
 # Business Profile URLs
 
-- Google Business Profile: Owner Input Required.
+- Google Business Profile / Maps: Approved — https://maps.app.goo.gl/jeLNXvJB9fV8JxPG7
+  (`00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md` row 6, 2026-07-27).
 - Other directory listings (if any): Owner Input Required.
 
 ---
@@ -57,9 +67,12 @@ branch, and address claims remain unapproved until added to that registry.
 
 # Status
 
-Partially Verified — the phone, domain, hosting provider, and emirate-level
-coverage have owner approval. The registered listing name, address or
-service-area-business configuration, branch structure, coordinates, Google
-Business Profile URL, Place ID, WhatsApp, email, and hours remain pending.
-LocalBusiness schema or public listings must not be generated until the
-required fields for the relevant entity are verified.
+Partially Verified — the phone, WhatsApp, email, working hours, domain,
+hosting provider, address, Google Maps/Business Profile link, social profile
+URLs, and emirate-level coverage all have owner approval (see
+`CONTACT_INFORMATION.md` and `00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md`).
+The registered listing name (as it should appear on Google Business Profile),
+branch structure/count, precise numeric map coordinates, Place ID, and other
+directory listings remain pending. LocalBusiness schema or public listings
+must not be generated until these remaining fields are verified — approval of
+the fields above authorizes their own display, not a complete schema entity.
