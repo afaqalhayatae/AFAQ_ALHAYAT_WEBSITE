@@ -32,6 +32,24 @@ Alternative Libraries
 
 ---
 
+# Two Approved Icon Systems
+
+Two separate icon systems are approved, each for a distinct purpose:
+
+Brand Icons
+
+- Location: `public/brand/icons/`
+- Purpose: service illustrations and marketing visuals.
+
+UI Icons
+
+- Library: Lucide
+- Purpose: interface controls only.
+
+Brand Icons must not be used as interface controls, and UI Icons must not be used as service illustrations or marketing visuals. Each system keeps its own existing style — Brand Icons are not redrawn to match the Lucide line-icon style described above.
+
+---
+
 # Icon Sizes
 
 Small

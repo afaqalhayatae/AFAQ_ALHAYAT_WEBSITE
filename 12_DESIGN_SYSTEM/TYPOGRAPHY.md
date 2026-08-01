@@ -25,7 +25,7 @@
 
 ### العربية
 
-**Noto Kufi Arabic**
+**Cairo**
 
 تُستخدم في:
 
@@ -60,7 +60,7 @@
 
 ```css
 :lang(ar) {
-  font-family: "Noto Kufi Arabic", Tahoma, Arial, sans-serif;
+  font-family: "Cairo", Tahoma, Arial, sans-serif;
 }
 
 :lang(en) {
