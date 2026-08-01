@@ -22,9 +22,19 @@ Usage:
 
 ---
 
+# Brand Blue
+
+HEX: #2563EB
+
+Usage:
+
+- Distinct brand blue, independent from Primary Color (Deep Blue) and from the implementation-source Info color (`#0EA5E9` in `12_DESIGN_SYSTEM/COLORS.md`). Used where a separate brand-blue accent is needed.
+
+---
+
 # Secondary Color
 
-Name: Emerald Green
+Name: Secondary Green (Emerald Green)
 
 HEX: #16A34A
 
@@ -58,7 +68,7 @@ White
 
 HEX: #FFFFFF
 
-Light Gray
+Light Gray Surface
 
 HEX: #F5F7FA
 
@@ -73,6 +83,14 @@ HEX: #374151
 Black
 
 HEX: #111827
+
+Text Muted
+
+HEX: #9CA3AF
+
+Border
+
+HEX: #E5E7EB
 
 ---
 
@@ -94,7 +112,7 @@ Dark Background
 
 # Status Colors
 
-Success
+Status Success
 
 #22C55E
 
@@ -106,9 +124,7 @@ Error
 
 #DC2626
 
-Information
-
-#2563EB
+(Information — see Brand Blue, `#2563EB`, above. No longer listed as a separate Status Color; it is a distinct brand token, not an information/status color.)
 
 ---
 
