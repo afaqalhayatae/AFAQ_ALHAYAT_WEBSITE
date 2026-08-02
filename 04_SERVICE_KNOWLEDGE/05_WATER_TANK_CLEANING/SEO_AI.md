@@ -2,8 +2,7 @@
 
 ## Status
 
-Draft — publication blocked on service, compliance, contact, and location
-approval.
+Approved — General Operational SEO Content (`DECISION_LOG.md` #38, 2026-07-31). Publication of certification, compliance, testing, and warranty claims remains blocked pending separate approval.
 
 ## Entity
 

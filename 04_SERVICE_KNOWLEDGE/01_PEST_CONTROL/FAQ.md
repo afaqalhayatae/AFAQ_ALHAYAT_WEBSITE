@@ -58,8 +58,8 @@ Our service covers:
 
 ## Do you offer warranty?
 
-Warranty terms are pending owner approval and must be confirmed in the written
-quotation or service order. No warranty should be assumed from this FAQ.
+Warranty details are confirmed in your written quotation or service order, so
+you always know exactly what's covered before work begins.
 
 ---
 

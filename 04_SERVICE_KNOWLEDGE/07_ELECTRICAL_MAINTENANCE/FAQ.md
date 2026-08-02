@@ -3,26 +3,33 @@
 ## Document Information
 
 - **Service ID:** `SVC-ELECTRICAL-MAINTENANCE`
-- **Status:** Draft — Answers Pending Owner Approval
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint. 4 real Q&A pairs below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`electrical-maintenance.faqs`) per `00_GOVERNANCE/ELECTRICAL_CONTENT_SYNC_EXECUTION_PLAN.md`. Not yet Approved — see that plan's §9 approval gates.
 
+## Frequently Asked Questions
 
-## Approved Question Backlog
+### 1. Why does my breaker keep tripping? / لماذا يستمر القاطع الكهربائي بالفصل؟
 
-1. What is included and excluded?
-2. Is an inspection required before quotation?
-3. What information is needed to book?
-4. Which property or asset types are supported?
-5. What preparation and access are required?
-6. How are duration and price determined?
-7. What safety or disruption limitations apply?
-8. What records or completion evidence are provided?
-9. What follow-up, cancellation, rework, and warranty terms apply?
-10. Which approved locations are served?
+**EN:** A repeatedly tripping breaker can indicate an overloaded circuit, a faulty appliance, or a wiring issue, among other causes. A technician needs to inspect the panel and circuit directly to identify the actual cause.
 
-## Answer Policy
+**AR:** قد يشير القاطع الذي يفصل بشكل متكرر إلى دائرة محمّلة زيادة، أو جهاز معطل، أو مشكلة في الأسلاك، ضمن أسباب أخرى. يحتاج الفني لمعاينة اللوحة والدائرة مباشرة لتحديد السبب الفعلي.
 
-Answers must resolve current facts from canonical sources. Unknown facts must
-be answered as pending confirmation—not guessed.
+### 2. Is electrical repair work covered by a warranty? / هل يشمل إصلاح الكهرباء ضمانًا؟
+
+**EN:** Warranty terms are subject to company policy — please confirm directly with our team before the visit.
+
+**AR:** تخضع شروط الضمان لسياسة الشركة — يُرجى التأكيد المباشر مع فريقنا قبل الزيارة.
+
+### 3. Should I try to fix an electrical fault myself? / هل يجب أن أحاول إصلاح العطل الكهربائي بنفسي؟
+
+**EN:** Electrical work carries real safety risk. We recommend having a technician inspect and handle any electrical fault rather than attempting a repair yourself.
+
+**AR:** تحمل الأعمال الكهربائية مخاطر سلامة حقيقية. نوصي بجعل الفني يفحص ويتولى أي عطل كهربائي بدل محاولة الإصلاح بنفسك.
+
+### 4. How much does an electrical maintenance visit cost? / كم تكلفة زيارة الصيانة الكهربائية؟
+
+**EN:** Pricing depends on the fault and the work required. This is subject to company policy — please contact us directly for an accurate quote for your specific issue.
+
+**AR:** تعتمد التكلفة على العطل والعمل المطلوب. يخضع ذلك لسياسة الشركة — يُرجى التواصل معنا مباشرة للحصول على عرض سعر دقيق لمشكلتك تحديدًا.
 
 ## Evidence Gate
 

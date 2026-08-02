@@ -2,7 +2,7 @@
 
 ## Status
 
-Review Draft — not approved for publication.
+Approved — General Operational Content (`DECISION_LOG.md` #38, 2026-07-31). Price, warranty, certification, licensing, and response-time claims are not included and remain unapproved.
 
 ## Service Title
 

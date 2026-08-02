@@ -3,26 +3,35 @@
 ## Document Information
 
 - **Service ID:** `SVC-PAINTING`
-- **Status:** Draft — Answers Pending Owner Approval
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint. 4 real Q&A pairs below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`painting.faqs`) per `00_GOVERNANCE/PAINTING_CONTENT_SYNC_EXECUTION_PLAN.md`. Not yet Approved — see that plan's §6 approval gates.
 
+## Frequently Asked Questions
 
-## Approved Question Backlog
+### 1. How long does paint take to dry before the room can be used? / كم يستغرق الطلاء ليجف قبل استخدام الغرفة؟
 
-1. What is included and excluded?
-2. Is an inspection required before quotation?
-3. What information is needed to book?
-4. Which property or asset types are supported?
-5. What preparation and access are required?
-6. How are duration and price determined?
-7. What safety or disruption limitations apply?
-8. What records or completion evidence are provided?
-9. What follow-up, cancellation, rework, and warranty terms apply?
-10. Which approved locations are served?
+**EN:** Drying time depends on the paint type, number of coats, and ventilation. Your technician will advise the expected drying time for your specific job before finishing.
 
-## Answer Policy
+**AR:** يعتمد وقت الجفاف على نوع الطلاء وعدد الطبقات والتهوية. سيرشدك الفني إلى وقت الجفاف المتوقع لعملك تحديدًا قبل الانتهاء.
 
-Answers must resolve current facts from canonical sources. Unknown facts must
-be answered as pending confirmation—not guessed.
+*(Informational content only — concerns a physical/product characteristic (paint drying time), not a service response-time commitment. Per `00_GOVERNANCE/PAINTING_SEO_DECISION_APPLIED.md` §3, this must not be interpreted or reported as a response-time promise.)*
+
+### 2. Is painting work covered by a warranty? / هل تشمل أعمال الطلاء ضمانًا؟
+
+**EN:** Warranty terms are subject to company policy — please confirm directly with our team before the visit.
+
+**AR:** تخضع شروط الضمان لسياسة الشركة — يُرجى التأكيد المباشر مع فريقنا قبل الزيارة.
+
+### 3. Can you help me choose a paint color? / هل يمكنكم مساعدتي في اختيار لون الطلاء؟
+
+**EN:** Yes, our team can offer general color guidance based on your space and preference during the on-site consultation.
+
+**AR:** نعم، يمكن لفريقنا تقديم إرشاد عام لاختيار الألوان حسب مساحتك وتفضيلك أثناء المعاينة الميدانية.
+
+### 4. How much does painting a room cost? / كم تكلفة طلاء غرفة؟
+
+**EN:** Pricing depends on the area size, surface condition, and paint chosen. This is subject to company policy — please contact us directly for an accurate quote for your property.
+
+**AR:** تعتمد التكلفة على حجم المساحة وحالة السطح والطلاء المختار. يخضع ذلك لسياسة الشركة — يُرجى التواصل معنا مباشرة للحصول على عرض سعر دقيق لعقارك.
 
 ## Evidence Gate
 

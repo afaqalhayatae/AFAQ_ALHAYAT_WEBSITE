@@ -9,6 +9,8 @@ Professional Pest Control Services
 
 ---
 
+
+
 ## Short Description
 
 AFAQ Alhayat provides professional pest control services using safe, approved, and effective treatment methods to protect homes, businesses, and industrial facilities from all types of pests.
@@ -29,12 +31,11 @@ AFAQ Alhayat provides professional pest control services using safe, approved, a
 
 ## Why Choose Us?
 
-- Competency evidence to be confirmed
-- Product approvals to be confirmed
-- Response commitment to be confirmed
-- Safety claims subject to case-specific assessment
-- Professional Inspection Reports
-- Scheduled Maintenance Programs
+- A thorough, documented inspection and treatment process for every visit — never guesswork.
+- No one-size-fits-all treatment: we assess your property's specific situation before recommending a plan.
+- Clear guidance before, during, and after every visit, so you always know what to expect.
+- Scheduled maintenance programs available for ongoing protection.
+- Follow-up support if you have any questions after your visit.
 
 ---
 

@@ -3,8 +3,18 @@
 ## Document Information
 
 - **Service ID:** `SVC-PLUMBING`
-- **Status:** Draft — Not Approved for Publication or Live AI Answers
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint for the publication half; Live AI Answers remain separately gated and unaffected by this migration (per `09_AI_KNOWLEDGE/ANSWER_POLICY.md`). SEO fields below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`plumbing`) per `00_GOVERNANCE/PLUMBING_CONTENT_SYNC_EXECUTION_PLAN.md`.
 
+## SEO Fields (transcribed, pending final approval)
+
+- **SEO Title (EN):** Plumbing Services in the UAE | AFAQ AL HAYAT
+- **SEO Title (AR):** خدمات السباكة في الإمارات | آفاق الحياة
+- **Meta Description (EN):** Professional plumbing repair and maintenance across the UAE from AFAQ AL HAYAT — leak repair, fixture maintenance, and drain checks for homes and businesses.
+- **Meta Description (AR):** خدمات إصلاح وصيانة السباكة الاحترافية في جميع أنحاء الإمارات من آفاق الحياة — إصلاح التسربات وصيانة التجهيزات وفحص الصرف للمنازل والمنشآت.
+- **Keywords (EN, illustrative/unresearched):** Plumbing UAE; Plumber Dubai; Leak Repair; Pipe Repair UAE; Bathroom Plumbing
+- **Keywords (AR, illustrative/unresearched):** سباكة الإمارات؛ سباك دبي؛ إصلاح تسرب؛ إصلاح أنابيب؛ سباكة حمامات
+
+**Scope-tension check (per `PLUMBING_CONTENT_SYNC_EXECUTION_PLAN.md` §5):** "Pipe Repair UAE" was checked against `CONTENT_EN.md`'s Scope — Excluded item "Major re-piping or full bathroom re-plumbing projects." No conflict found — Scope — Included explicitly names "Pipe joint and fitting inspection and repair" as in-scope, so this keyword accurately reflects included work. No keyword removed.
 
 ## Canonical Entity
 

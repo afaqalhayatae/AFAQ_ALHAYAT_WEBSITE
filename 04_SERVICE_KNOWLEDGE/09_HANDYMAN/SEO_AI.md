@@ -3,8 +3,18 @@
 ## Document Information
 
 - **Service ID:** `SVC-HANDYMAN`
-- **Status:** Draft — Not Approved for Publication or Live AI Answers
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint for the publication half; Live AI Answers remain separately gated and unaffected by this migration (per `09_AI_KNOWLEDGE/ANSWER_POLICY.md`). SEO fields below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`handyman`) per `00_GOVERNANCE/HANDYMAN_CONTENT_SYNC_EXECUTION_PLAN.md`.
 
+## SEO Fields (transcribed, pending final approval)
+
+- **SEO Title (EN):** Handyman Services in the UAE | AFAQ AL HAYAT
+- **SEO Title (AR):** خدمات الصيانة العامة (هاندي مان) في الإمارات | آفاق الحياة
+- **Meta Description (EN):** General handyman services across the UAE from AFAQ AL HAYAT — furniture assembly, wall-mounting, minor carpentry, and small repairs for homes and offices.
+- **Meta Description (AR):** خدمات صيانة عامة (هاندي مان) في جميع أنحاء الإمارات من آفاق الحياة — تجميع الأثاث والتركيب على الجدران والنجارة البسيطة والإصلاحات الصغيرة للمنازل والمكاتب.
+- **Keywords (EN, illustrative/unresearched):** Handyman UAE; Handyman Dubai; Furniture Assembly; Small Repairs; General Maintenance UAE
+- **Keywords (AR, illustrative/unresearched):** هاندي مان الإمارات؛ صيانة عامة دبي؛ تجميع أثاث؛ إصلاحات صغيرة؛ صيانة منزلية عامة
+
+**No keyword exclusion required** — unlike Painting's "Villa Painting," `HANDYMAN_CONTENT_SOURCE_REVIEW_PLAN.md` §6 found no keyword in this record reaching toward excluded scope (licensed-trade or structural work). All 5 English and 5 Arabic keywords migrate unchanged from source.
 
 ## Canonical Entity
 

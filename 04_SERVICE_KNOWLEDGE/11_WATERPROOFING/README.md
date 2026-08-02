@@ -51,3 +51,12 @@ after owner and technical review.
 
 The standard document set now exists as Draft/Not for Publication. No system,
 material, application method, lifespan, result, or warranty is approved.
+
+## Image Library Addition
+
+Added `IMAGE_SEO_LIBRARY.md`, `IMAGE_GENERATION_BRIEF.md`, and
+`assets/{hero,service-cards,process,trust,blog}/` — the final package in the
+enterprise-wide image asset management structure, completing 12/12 catalog
+coverage (see `07_WEBSITE/IMPLEMENTATION/IMAGE_LIBRARY_CREATION_REPORT.md`).
+Planning only — no images generated. These files carry their own Draft
+status and do not change this package's approval status above.

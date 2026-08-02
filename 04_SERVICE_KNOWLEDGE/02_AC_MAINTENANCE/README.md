@@ -28,3 +28,12 @@ public, operational, pricing, safety, or compliance use.
 The standard document set now exists. Every new file is explicitly Draft or
 Not for Publication and contains evidence gates; package structure does not
 mean its service facts are approved.
+
+## Image Library Addition
+
+Added `IMAGE_SEO_LIBRARY.md`, `IMAGE_GENERATION_BRIEF.md`, and
+`assets/{hero,service-cards,process,trust,blog}/` as part of an
+enterprise-wide image asset management structure created across
+`04_SERVICE_KNOWLEDGE/`. Planning only — no images generated. These files
+carry their own Draft status and do not change this package's approval
+status above.

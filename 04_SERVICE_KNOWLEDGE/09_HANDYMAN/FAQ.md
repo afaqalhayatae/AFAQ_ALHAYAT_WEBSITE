@@ -3,26 +3,27 @@
 ## Document Information
 
 - **Service ID:** `SVC-HANDYMAN`
-- **Status:** Draft — Answers Pending Owner Approval
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint. 3 real Q&A pairs below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`handyman.faqs`) per `00_GOVERNANCE/HANDYMAN_CONTENT_SYNC_EXECUTION_PLAN.md`. Not yet Approved — see that plan's §6 approval gates.
 
+## Frequently Asked Questions
 
-## Approved Question Backlog
+### 1. Can a handyman visit cover several small jobs at once? / هل يمكن لزيارة الصيانة العامة تغطية عدة مهام صغيرة في آنٍ واحد؟
 
-1. What is included and excluded?
-2. Is an inspection required before quotation?
-3. What information is needed to book?
-4. Which property or asset types are supported?
-5. What preparation and access are required?
-6. How are duration and price determined?
-7. What safety or disruption limitations apply?
-8. What records or completion evidence are provided?
-9. What follow-up, cancellation, rework, and warranty terms apply?
-10. Which approved locations are served?
+**EN:** Yes — many customers group several small tasks into one visit. Let us know the list of jobs when booking so we can plan the visit accordingly.
 
-## Answer Policy
+**AR:** نعم — يجمع العديد من العملاء عدة مهام صغيرة في زيارة واحدة. أخبرنا بقائمة الأعمال عند الحجز حتى نخطط للزيارة وفقًا لذلك.
 
-Answers must resolve current facts from canonical sources. Unknown facts must
-be answered as pending confirmation—not guessed.
+### 2. How do I know if my task needs a handyman or a specialist trade? / كيف أعرف إن كانت مهمتي تحتاج صيانة عامة أم أخصائي حرفة؟
+
+**EN:** As a general guide, small repairs, assembly, and mounting jobs suit a handyman visit, while major electrical, plumbing, or AC work suits our dedicated trade services. If you're unsure, describe the task when contacting us and we'll advise.
+
+**AR:** كقاعدة عامة، تناسب الإصلاحات الصغيرة والتجميع والتركيب زيارة الصيانة العامة، بينما تناسب الأعمال الكهربائية أو السباكة أو التكييف الكبرى خدماتنا الحرفية المخصصة. إن لم تكن متأكدًا، صف المهمة عند التواصل معنا وسنقدم لك النصيحة.
+
+### 3. How much does a handyman visit cost? / كم تكلفة زيارة الصيانة العامة؟
+
+**EN:** Pricing depends on the number and type of tasks. This is subject to company policy — please contact us directly for an accurate quote for your specific list of jobs.
+
+**AR:** تعتمد التكلفة على عدد ونوع المهام. يخضع ذلك لسياسة الشركة — يُرجى التواصل معنا مباشرة للحصول على عرض سعر دقيق لقائمة أعمالك تحديدًا.
 
 ## Evidence Gate
 

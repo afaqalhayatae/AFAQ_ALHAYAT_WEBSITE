@@ -25,3 +25,12 @@ The source draft is preserved unchanged pending validation.
 
 The standard document set now exists as Draft/Not for Publication. Scope,
 products, controls, acceptance, timing, and commercial claims remain pending.
+
+## Image Library Addition
+
+Added `IMAGE_SEO_LIBRARY.md`, `IMAGE_GENERATION_BRIEF.md`, and
+`assets/{hero,service-cards,process,trust,blog}/` as part of an
+enterprise-wide image asset management structure created across
+`04_SERVICE_KNOWLEDGE/`. Planning only — no images generated. These files
+carry their own Draft status and do not change this package's approval
+status above.

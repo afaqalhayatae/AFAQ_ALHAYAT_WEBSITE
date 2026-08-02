@@ -3,8 +3,18 @@
 ## Document Information
 
 - **Service ID:** `SVC-AC-MAINTENANCE`
-- **Status:** Draft — Not Approved for Publication or Live AI Answers
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint for the publication half; Live AI Answers remain separately gated and unaffected by this migration (per `09_AI_KNOWLEDGE/ANSWER_POLICY.md`). SEO fields below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`ac-maintenance`) per `00_GOVERNANCE/AC_MAINTENANCE_SYNC_EXECUTION_PLAN.md`.
 
+## SEO Fields (transcribed, pending final approval)
+
+- **SEO Title (EN):** AC Maintenance Services in the UAE | AFAQ AL HAYAT
+- **SEO Title (AR):** خدمات صيانة التكييف في الإمارات | آفاق الحياة
+- **Meta Description (EN):** Professional AC maintenance across the UAE from AFAQ AL HAYAT — filter cleaning, coil and drain-line inspection, and performance checks for split, window, and central units.
+- **Meta Description (AR):** صيانة احترافية لمكيفات الهواء في جميع أنحاء الإمارات من آفاق الحياة — تنظيف الفلاتر وفحص الملف الحراري وخط الصرف وفحص الأداء لوحدات السبليت والشباك والمركزي.
+- **Keywords (EN, illustrative/unresearched):** AC Maintenance UAE; AC Service Dubai; Air Conditioning Cleaning; Split AC Maintenance
+- **Keywords (AR, illustrative/unresearched):** صيانة تكييف؛ صيانة مكيفات الإمارات؛ تنظيف تكييف دبي؛ خدمة تكييف؛ صيانة سبليت
+
+**Resolved finding:** the keyword "AC Repair UAE," previously flagged in `AC_MAINTENANCE_SYNC_EXECUTION_PLAN.md` §5 for tension with `CONTENT_EN.md`'s Scope — Excluded item "Major refrigerant-system repairs requiring specialized parts," has been removed by Owner decision. All other SEO fields (title, meta description, Arabic keywords) are unchanged.
 
 ## Canonical Entity
 

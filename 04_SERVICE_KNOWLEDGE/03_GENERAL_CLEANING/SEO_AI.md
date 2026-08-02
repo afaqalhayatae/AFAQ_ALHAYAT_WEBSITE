@@ -2,8 +2,7 @@
 
 ## Status
 
-Draft — do not publish until the service package, contact data, and locations
-are approved.
+Approved — General Operational SEO Content (`DECISION_LOG.md` #38, 2026-07-31). Publication of price, warranty, certification, licensing, and response-time claims remains blocked pending separate approval.
 
 ## Primary Entity
 

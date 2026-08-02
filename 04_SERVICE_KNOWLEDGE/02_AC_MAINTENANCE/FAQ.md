@@ -3,26 +3,33 @@
 ## Document Information
 
 - **Service ID:** `SVC-AC-MAINTENANCE`
-- **Status:** Draft — Answers Pending Owner Approval
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint. 4 real Q&A pairs below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`ac-maintenance.faqs`) per `00_GOVERNANCE/AC_MAINTENANCE_SYNC_EXECUTION_PLAN.md`. Not yet Approved — see that plan's §7 checkpoint.
 
+## Frequently Asked Questions
 
-## Approved Question Backlog
+### 1. How often should an AC unit be maintained? / كم مرة يجب صيانة وحدة التكييف؟
 
-1. What is included and excluded?
-2. Is an inspection required before quotation?
-3. What information is needed to book?
-4. Which property or asset types are supported?
-5. What preparation and access are required?
-6. How are duration and price determined?
-7. What safety or disruption limitations apply?
-8. What records or completion evidence are provided?
-9. What follow-up, cancellation, rework, and warranty terms apply?
-10. Which approved locations are served?
+**EN:** This depends on usage patterns, unit type, and environment. Many households in the UAE have units checked more frequently around peak summer months; a technician can recommend a suitable schedule after inspecting your specific unit.
 
-## Answer Policy
+**AR:** يعتمد ذلك على نمط الاستخدام ونوع الوحدة والبيئة المحيطة. تقوم العديد من المنازل في الإمارات بفحص الوحدات بشكل أكثر تكرارًا خلال أشهر الصيف الذروة، ويمكن للفني اقتراح جدول مناسب بعد معاينة وحدتك تحديدًا.
 
-Answers must resolve current facts from canonical sources. Unknown facts must
-be answered as pending confirmation—not guessed.
+### 2. Why is my AC unit making unusual noises? / لماذا تصدر وحدة التكييف أصواتًا غير معتادة؟
+
+**EN:** Unusual noises can have several causes — loose parts, debris, fan issues, or a mounting problem, among others. A technician needs to inspect the unit directly to identify the actual cause before recommending a fix.
+
+**AR:** يمكن أن تكون الأصوات غير المعتادة ناتجة عن عدة أسباب — أجزاء غير محكمة، أتربة، مشاكل في المروحة، أو مشكلة في التثبيت، ضمن أسباب أخرى. يحتاج الفني لمعاينة الوحدة مباشرة لتحديد السبب الفعلي قبل اقتراح الحل.
+
+### 3. Does maintenance come with a warranty? / هل تأتي الصيانة مع ضمان؟
+
+**EN:** Warranty terms are subject to company policy — please confirm directly with our team before the visit.
+
+**AR:** تخضع شروط الضمان لسياسة الشركة — يُرجى التأكيد المباشر مع فريقنا قبل الزيارة.
+
+### 4. How much does AC maintenance cost? / كم تكلفة صيانة التكييف؟
+
+**EN:** Pricing depends on the number of units, their condition, and the work required. This is subject to company policy — please contact us directly for an accurate quote for your property.
+
+**AR:** تعتمد التكلفة على عدد الوحدات وحالتها والعمل المطلوب. يخضع ذلك لسياسة الشركة — يُرجى التواصل معنا مباشرة للحصول على عرض سعر دقيق لعقارك.
 
 ## Evidence Gate
 

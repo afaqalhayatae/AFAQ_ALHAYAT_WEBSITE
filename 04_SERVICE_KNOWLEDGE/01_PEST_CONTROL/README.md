@@ -27,6 +27,22 @@ It serves as the single source of truth for this service across all company syst
 - TRAINING.md
 - MEDIA.md
 - CHANGELOG.md
+- WEB_CONTENT_PRODUCTION_PLAN.md
+- FAQ_AR.md
+- VISUAL_ASSET_BRIEF.md
+- IMAGE_SEO_LIBRARY.md
+- IMAGE_GENERATION_BRIEF.md
+- 01_SERVICE_PROFILE.md
+- 02_SEO_DATA.md
+- 03_BOOKING_OPTIONS.md
+- 04_FAQ.md
+- 05_IMAGE_METADATA.md
+- 06_PAGE_CONTENT.md
+- assets/hero/
+- assets/service-cards/
+- assets/process/
+- assets/trust/
+- assets/blog/
 
 ---
 
@@ -49,6 +65,6 @@ this package.
 
 ## Status
 
-Review Required — Not Approved for Publication or Field Execution
+Approved — General Operational Content, specifically `02_SEO_DATA.md`, `04_FAQ.md`, and `06_PAGE_CONTENT.md` (`DECISION_LOG.md` #37, 2026-07-31). The Evidence Gate above is unchanged: certification, municipality-compliance, approved-product, child/pet-safety, fast-response, and warranty claims remain unapproved. The legacy `CONTENT_EN.md`/`CONTENT_AR.md`/`FAQ.md`/`FAQ_AR.md`/`SEO_AI.md` set and `01_SERVICE_PROFILE.md`/`03_BOOKING_OPTIONS.md`/`05_IMAGE_METADATA.md` are not named by `DECISION_LOG.md` #37 and are not covered by this status update — see `CHANGELOG.md` 1.19.
 
-Version 1.0
+Version 1.1

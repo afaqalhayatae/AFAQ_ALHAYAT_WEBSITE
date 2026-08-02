@@ -3,8 +3,18 @@
 ## Document Information
 
 - **Service ID:** `SVC-PAINTING`
-- **Status:** Draft — Not Approved for Publication or Live AI Answers
+- **Status:** Migrated (Pilot) — Pending Final Approval Checkpoint for the publication half; Live AI Answers remain separately gated and unaffected by this migration (per `09_AI_KNOWLEDGE/ANSWER_POLICY.md`). SEO fields below are transcribed from `afaqalhayatae-app/src/data/SERVICE_DATABASE.json` (`painting`) per `00_GOVERNANCE/PAINTING_CONTENT_SYNC_EXECUTION_PLAN.md`.
 
+## SEO Fields (transcribed, pending final approval)
+
+- **SEO Title (EN):** Painting Services in the UAE | AFAQ AL HAYAT
+- **SEO Title (AR):** خدمات الدهانات في الإمارات | آفاق الحياة
+- **Meta Description (EN):** Professional interior and exterior painting across the UAE from AFAQ AL HAYAT — surface preparation, color consultation, and clean finishing for homes and businesses.
+- **Meta Description (AR):** طلاء داخلي وخارجي احترافي في جميع أنحاء الإمارات من آفاق الحياة — تحضير الأسطح واستشارة الألوان وتشطيب نظيف للمنازل والمنشآت.
+- **Keywords (EN, illustrative/unresearched):** Painting Services UAE; House Painter Dubai; Wall Painting; Interior Painting UAE
+- **Keywords (AR, illustrative/unresearched):** دهانات الإمارات؛ دهان دبي؛ طلاء جدران؛ دهانات داخلية
+
+**Resolved finding (applied per Owner decision):** the source record's keyword lists originally included "Villa Painting" (EN) and "دهان فلل" (AR). Both were removed per `00_GOVERNANCE/PAINTING_SEO_DECISION_APPLIED.md` §1 — the keyword risked implying full villa exterior-painting capability, including height-access work, while Scope — Excluded disclaims "work at heights requiring specialized access equipment beyond standard reach." English and Arabic keyword lists are now aligned (4 of the original 5 in each language). All other SEO fields (title, meta description, remaining keywords) are unchanged from source.
 
 ## Canonical Entity
 

@@ -4,8 +4,8 @@
 
 - **Service ID:** `SVC-WATER-TANK-CLEANING`
 - **Owner:** Operations
-- **Status:** Review-ready package — Safety, Compliance, and Owner approval required
-- **Version:** 1.0
+- **Status:** Approved — General Operational Content (`DECISION_LOG.md` #38, 2026-07-31). Certification, compliance, product-approval, testing, and warranty claims remain unapproved — see "Approval Blockers" below, unchanged.
+- **Version:** 1.1
 - **Source:** Preserved `SOURCE_DRAFT.md` plus governed project standards
 
 ## Purpose
@@ -38,3 +38,11 @@ safety, laboratory, municipality, or regulatory claims.
 - Water-quality testing responsibility, laboratory method, and acceptance criteria
 - Applicable authority requirements, records, frequency, and certificates
 
+## Image Library Addition
+
+Added `IMAGE_SEO_LIBRARY.md`, `IMAGE_GENERATION_BRIEF.md`, and
+`assets/{hero,service-cards,process,trust,blog}/` as part of an
+enterprise-wide image asset management structure created across
+`04_SERVICE_KNOWLEDGE/`. Planning only — no images generated. These files
+carry their own Draft status and do not change this package's approval
+status above.

@@ -71,9 +71,10 @@ Pest Control Service
 
 # Internal Links
 
+Restricted to real, approved catalog services only (`04_SERVICE_KNOWLEDGE/SERVICE_CATALOG.md`) — "Disinfection" was removed as it is not an approved service and has no page to link to.
+
 - General Cleaning
 - Deep Cleaning
-- Disinfection
 - Water Tank Cleaning
 
 ---
