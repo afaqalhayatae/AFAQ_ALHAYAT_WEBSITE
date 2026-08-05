@@ -59,7 +59,7 @@ The repository's core discipline is: **write each fact once, in its owning domai
 
 | Fact type | Owning source | Notes |
 |---|---|---|
-| Phone, WhatsApp, email, domain, address, hours, social URLs | `02_BRAND/CONTACT_INFORMATION.md` | Only phone (`+971 58 543 1766`) and domain (`afaqalhayatae.com`) are owner-approved; the rest are still Pending/Unverified — never present them as final. |
+| Phone, WhatsApp, email, domain, hosting, address, hours, social URLs | `02_BRAND/CONTACT_INFORMATION.md`, `02_BRAND/LOCAL_SEO_PROFILE.md` | All owner-approved (confirmed 2026-07-27, `00_GOVERNANCE/BUSINESS_FACTS_VERIFICATION.md`) — phone `+971 58 543 1766`, domain `afaqalhayatae.com`, address, hours (24/7), Google Maps/Business Profile link, and social URLs all safe to publish. Only emergency-service availability/response-time commitments remain Pending — never present those as final. |
 | NAP / map / business-profile data | `02_BRAND/LOCAL_SEO_PROFILE.md` | |
 | Company identity/description | `01_BUSINESS/COMPANY_PROFILE.md` | |
 | Geographic coverage & areas | `03_MARKET/SERVICE_AREAS.md` | Service pages reference area IDs, never re-list coverage. |
