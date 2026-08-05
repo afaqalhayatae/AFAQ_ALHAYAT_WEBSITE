@@ -19,8 +19,20 @@ one-owner/AI-agent operating model.
 
 This repository remains the enterprise knowledge system. Its governed
 documentation foundation is now conditionally ready for software
-implementation. Production website code and live external automations are not
-yet deployed.
+implementation.
+
+**Update (2026-08-06):** The production website is confirmed live at
+`https://afaqalhayatae.com` — verified by direct browser check of the live
+domain, which is serving the current `afaqalhayatae-app` codebase and picks up
+pushes to `main` (confirmed by checking the 30-article blog publish + blog
+pagination change, commit `87d6725`, live on the domain shortly after push).
+The exact Hostinger deployment mechanism (auto-deploy hook, CI/CD, or manual
+step on the owner's side) is not documented anywhere in this repository and
+should be captured in `11_TECHNICAL/DEPLOYMENT_AND_MONITORING.md` and
+`07_WEBSITE/IMPLEMENTATION/06_DEPLOYMENT_PLAN.md` — both still describe
+deployment as an undone future phase, which this update supersedes for the
+fact of live status (not for the unresolved specifics: exact Hostinger plan,
+staging, backups, SSH/CI access).
 
 ## Approved Owner Facts
 
