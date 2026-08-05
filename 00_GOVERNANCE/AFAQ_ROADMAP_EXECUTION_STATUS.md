@@ -111,6 +111,20 @@ Scope: location pages, service pages, navigation, homepage sidebar.
 | Navigation | Structural review only — no browser tooling connected this session, so this is not a real visual QA pass. 7 top-level items (Home/Services/Locations/About/Contact/Blog/FAQ), consistent responsive desktop/mobile split, active-state handling all present and unchanged since the Mobile UX pass fixed its touch-target issues. No structural problem found worth changing blind. |
 | Homepage sidebar (`home-sidebar.tsx`) | **Recommend: keep, not confirmed to need redesign or removal.** Well-engineered (desktop-only, no mobile conflict, defensive `max-h`/`overflow-y-auto` sizing, real approved content only) — confirmed during the Mobile UX pass. One real design observation: the header is `sticky top-0`, so its own phone/WhatsApp/Request-Service CTAs are already persistently visible while scrolling — the sidebar's CTA block is therefore somewhat redundant with an already-persistent surface, not filling a gap the header leaves open. No conversion data available this session (no analytics access) to say whether it helps or hurts — Owner requested it explicitly one day before this pass (`136be77`, 2026-08-04). Not removed or redesigned without evidence; flagging for a data-driven call once real analytics on it exist, per the decision boundary this repo already draws around unverified claims. |
 
+---
+
+## Visual Production Pass (2026-08-05, same day)
+
+Owner requested a photography asset plan plus a sweep of the whole site for empty
+visual sections/placeholder assets. No browser tooling connected this session either,
+so "review homepage visually" below is a structural code review, not live visual QA.
+
+| Item | Status |
+|---|---|
+| Empty visual sections sweep | **Found and fixed the largest one in code, not photography.** `city-content.ts` (backs every service×city combo page, e.g. "AC Maintenance in Dubai") has zero per-city images across all 57 entries — every one of those pages (dozens per locale) was showing a generic illustration despite a real, already-approved photo for that exact service existing elsewhere in the same codebase. Wired `CityPageContent` to fall back to the service's own `cardImage` before falling to illustration — zero new assets. `bbb99aa`. Also wired 2 real, unwired category hero banners (cleaning, pest-control) as a further fallback for the section-level city hubs, though those generate 0 live pages today (`7b4cc6d`) — ready for when that content ships. |
+| Photography asset plan | **Done.** `02_BRAND/PHOTOGRAPHY_PRODUCTION_PLAN.md` — precise shot list for the 4 things left with no real-photo code path: 7 emirate location heroes (existing hero photo has a Dubai skyline baked in, can't be reused for other emirates), Waterproofing's card image (documents the exact typo defect that got the previous candidate rejected, so it doesn't recur), a maintenance-section hero (for content not live yet), and the About page hero (the one page with zero conditional path to a real photo at all). |
+| Homepage visual review | Structural only (hero, menu, sidebar, service cards, CTAs) — all previously reviewed/fixed in the Mobile UX and Production Completion passes above; nothing further found without live rendering. |
+
 ## Related Documents
 
 - `00_GOVERNANCE/GOOGLE_ECOSYSTEM_FINAL_STATUS.md`
