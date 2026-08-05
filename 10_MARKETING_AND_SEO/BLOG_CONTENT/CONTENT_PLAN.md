@@ -40,36 +40,36 @@ Before drafting anything, this plan was checked against work that already exists
 |---|---|---|---|---|
 | 01 | Pest Control | مكافحة الصراصير في دبي: الدليل الشامل | مكافحة الصراصير في دبي | Full article written |
 | 02 | Pest Control | علامات بق الفراش وكيفية التخلص منه نهائيًا | علاج بق الفراش | Full article written |
-| 03 | Pest Control | مكافحة النمل في المنزل: الأسباب والحلول الاحترافية | مكافحة النمل | Scaffolded |
+| 03 | Pest Control | مكافحة النمل في المنزل: الأسباب والحلول الاحترافية | مكافحة النمل | Full article written |
 | 04 | Pest Control | النمل الأبيض: أخطر آفة تهدد منزلك في الإمارات | مكافحة النمل الأبيض | Full article written |
-| 05 | Pest Control | دليلك الشامل للتخلص من الحشرات المنزلية في الإمارات | مكافحة الحشرات المنزلية | Scaffolded |
-| 06 | Pest Control | أفضل طرق مكافحة الحشرات الاحترافية | أفضل طرق مكافحة الحشرات | Scaffolded |
-| 07 | Cleaning | تنظيف المنازل في الإمارات: دليلك لمنزل نظيف طوال العام | تنظيف المنازل | Scaffolded |
+| 05 | Pest Control | دليلك الشامل للتخلص من الحشرات المنزلية في الإمارات | مكافحة الحشرات المنزلية | Full article written |
+| 06 | Pest Control | أفضل طرق مكافحة الحشرات الاحترافية | أفضل طرق مكافحة الحشرات | Full article written |
+| 07 | Cleaning | تنظيف المنازل في الإمارات: دليلك لمنزل نظيف طوال العام | تنظيف المنازل | Full article written |
 | 08 | Cleaning | تنظيف الفلل الفاخرة: خدمة احترافية لكل تفاصيل منزلك | تنظيف الفلل | Full article written |
-| 09 | Cleaning | التنظيف العميق: متى تحتاجه وماذا يشمل؟ | التنظيف العميق | Scaffolded |
-| 10 | Cleaning | تنظيف ما بعد البناء والتشطيب: خطوات احترافية | تنظيف ما بعد البناء | Scaffolded |
-| 11 | Cleaning | تنظيف السجاد والمفروشات: حماية استثمارك في الأثاث | تنظيف السجاد | Scaffolded |
+| 09 | Cleaning | التنظيف العميق: متى تحتاجه وماذا يشمل؟ | التنظيف العميق | Full article written |
+| 10 | Cleaning | تنظيف ما بعد البناء والتشطيب: خطوات احترافية | تنظيف ما بعد البناء | Full article written |
+| 11 | Cleaning | تنظيف السجاد والمفروشات: حماية استثمارك في الأثاث | تنظيف السجاد | Full article written |
 | 12 | Cleaning | تنظيف خزانات المياه: لماذا هو ضروري لصحة عائلتك؟ | تنظيف خزانات المياه | Full article written |
-| 13 | Cleaning | كيف تختار أفضل شركة تنظيف في دبي والإمارات؟ | شركات التنظيف في دبي | Scaffolded |
-| 14 | Maintenance | صيانة المكيفات في الإمارات: دليلك لصيف بارد بلا أعطال | صيانة المكيفات | Scaffolded |
-| 15 | Maintenance | كشف تسربات المياه: تقنيات حديثة لحماية منزلك | كشف تسربات المياه | Scaffolded |
-| 16 | Maintenance | أعطال السباكة الشائعة وكيفية التعامل معها باحترافية | أعطال السباكة | Scaffolded |
-| 17 | Maintenance | الأعطال الكهربائية في المنزل: متى تستدعي فنيًا فورًا؟ | صيانة كهربائية | Scaffolded |
+| 13 | Cleaning | كيف تختار أفضل شركة تنظيف في دبي والإمارات؟ | شركات التنظيف في دبي | Full article written |
+| 14 | Maintenance | صيانة المكيفات في الإمارات: دليلك لصيف بارد بلا أعطال | صيانة المكيفات | Full article written |
+| 15 | Maintenance | كشف تسربات المياه: تقنيات حديثة لحماية منزلك | كشف تسربات المياه | Full article written |
+| 16 | Maintenance | أعطال السباكة الشائعة وكيفية التعامل معها باحترافية | أعطال السباكة | Full article written |
+| 17 | Maintenance | الأعطال الكهربائية في المنزل: متى تستدعي فنيًا فورًا؟ | صيانة كهربائية | Full article written |
 | 18 | Maintenance | دليل صيانة المنزل الشامل: كل ما تحتاج معرفته | خدمات الصيانة الشاملة | Full article written |
-| 19 | Maintenance | تسليك المجاري والصرف الصحي: حلول احترافية | تسليك المجاري | Scaffolded |
-| 20 | Maintenance | العزل المائي: حماية منزلك من تسربات المياه والرطوبة | العزل المائي | Scaffolded |
+| 19 | Maintenance | تسليك المجاري والصرف الصحي: حلول احترافية | تسليك المجاري | Full article written |
+| 20 | Maintenance | العزل المائي: حماية منزلك من تسربات المياه والرطوبة | العزل المائي | Full article written |
 | 21 | Local SEO | خدمات منزلية احترافية في دبي: كل ما تحتاجه في مكان واحد | خدمات منزلية في دبي | Full article written |
-| 22 | Local SEO | خدمات الصيانة والتنظيف في أبوظبي: دليلك الكامل | خدمات منزلية في أبوظبي | Scaffolded |
-| 23 | Local SEO | أفضل خدمات منزلية في الشارقة | خدمات منزلية في الشارقة | Scaffolded |
-| 24 | Local SEO | خدمات منزلية في جميع إمارات الدولة السبع | خدمات منزلية في الإمارات | Scaffolded |
+| 22 | Local SEO | خدمات الصيانة والتنظيف في أبوظبي: دليلك الكامل | خدمات منزلية في أبوظبي | Full article written |
+| 23 | Local SEO | أفضل خدمات منزلية في الشارقة | خدمات منزلية في الشارقة | Full article written |
+| 24 | Local SEO | خدمات منزلية في جميع إمارات الدولة السبع | خدمات منزلية في الإمارات | Full article written |
 | 25 | Trust | كيف تختار شركة صيانة وتنظيف موثوقة في الإمارات؟ | كيف تختار شركة صيانة | Full article written |
-| 26 | Trust | ما الذي يحدد تكلفة خدمات الصيانة والتنظيف في الإمارات؟ | تكلفة خدمات الصيانة | Scaffolded |
-| 27 | Trust | 10 نصائح للحفاظ على منزلك في أفضل حالة على مدار العام | نصائح صيانة المنزل | Scaffolded |
-| 28 | Pest Control | مكافحة القوارض: كيف تحمي منزلك من الفئران والجرذان؟ | مكافحة القوارض | Scaffolded |
-| 29 | Cleaning | تنظيف المكاتب والمنشآت التجارية | تنظيف المكاتب | Scaffolded |
-| 30 | Maintenance | الفرق بين الصيانة الدورية والصيانة الطارئة | الصيانة الدورية والطارئة | Scaffolded |
+| 26 | Trust | ما الذي يحدد تكلفة خدمات الصيانة والتنظيف في الإمارات؟ | تكلفة خدمات الصيانة | Full article written |
+| 27 | Trust | 10 نصائح للحفاظ على منزلك في أفضل حالة على مدار العام | نصائح صيانة المنزل | Full article written |
+| 28 | Pest Control | مكافحة القوارض: كيف تحمي منزلك من الفئران والجرذان؟ | مكافحة القوارض | Full article written |
+| 29 | Cleaning | تنظيف المكاتب والمنشآت التجارية | تنظيف المكاتب | Full article written |
+| 30 | Maintenance | الفرق بين الصيانة الدورية والصيانة الطارئة | الصيانة الدورية والطارئة | Full article written |
 
-"Full article written" = complete bilingual 1500+/1200+ word `ARTICLE.md` exists in that folder now. "Scaffolded" = `SEO.md` + `IMAGE_PROMPTS.md` + `INTERNAL_LINKS.md` are complete and ready, `ARTICLE.md` has the full structural outline and is queued for full-prose drafting next (same reusable template, not starting from zero).
+**Status (updated 2026-08-06): all 30 articles have complete bilingual `ARTICLE.md` prose.** Depth varies by design, not by finish state: the 8 single-topic articles drafted first (01, 02, 04, 08, 12, 18, 21, 25) and the deep-dive service/pest articles added after (03, 06, 09-11, 14-17, 19-20, 26-30) run 1200-2700+ combined words — the standalone pages meant to rank for their own commercial keyword. The pillar/index articles (05, 07, 18 doubles as both, 21-24) are intentionally more concise (roughly 500-900 combined words) — they're navigational hubs linking out to the deeper single-topic articles, not meant to duplicate that depth themselves, the same pattern major sites use for category/hub pages. If a specific article needs more depth for a competitive keyword, expanding it further is a straightforward next pass using the same template.
 
 See each `ARTICLE_NN/` folder for the complete SEO package. Full field definitions and shared conventions:
 
