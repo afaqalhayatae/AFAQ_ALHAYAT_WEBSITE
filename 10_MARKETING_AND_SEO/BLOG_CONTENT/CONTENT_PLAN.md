@@ -3,9 +3,9 @@
 ## Document Information
 
 - **Owner:** Business Owner / Marketing
-- **Status:** Draft — plan and scaffolding only; no article is published or wired into the live site by this document
+- **Status:** Published — all 30 articles are live in `afaqalhayatae-app/src/lib/catalog/blog.ts` (commit `87d6725`, pushed to `main` on 2026-08-06)
 - **Prepared:** 2026-08-05
-- **Scope:** Content and SEO only. No app code, routing, or design was touched to produce this plan (per explicit instruction). Nothing here goes live until reviewed and wired into `afaqalhayatae-app/src/lib/catalog/blog.ts`, the same "empty registry until approved" pattern the live site already uses.
+- **Published:** 2026-08-06 — wired into the app's `BLOG_POSTS` catalog with real approved photography, matching `BlogFaq` entries, and real catalog `serviceSlugs`/`locationSlugs`; verified via `typecheck`, `lint`, the blog test suite, a production `build`, and a live desktop/mobile × EN-LTR/AR-RTL preview before push. The blog now holds 51 bilingual posts (21 pre-existing + these 30), and the blog listing page gained Previous/Next pagination (9 posts per page) as part of the same change.
 
 ## Relationship to existing content work (read this first)
 
