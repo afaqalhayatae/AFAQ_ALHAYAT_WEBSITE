@@ -3,9 +3,9 @@
 ## Document Information
 
 - **Owner:** Business Owner and Operations
-- **Status:** Approved at emirate level; lower-level areas pending
-- **Version:** 1.0
-- **Effective Date:** 2026-07-23
+- **Status:** Approved at emirate level; Priority Community Registry (below) approved for publication as of 2026-08-05
+- **Version:** 1.1
+- **Effective Date:** 2026-07-23 (community-level addendum: 2026-08-05)
 - **Authority:** Canonical geographic coverage registry
 
 ## Purpose
@@ -46,10 +46,30 @@ This approval applies at **emirate level only**. It does not create or approve:
 `04_SERVICE_KNOWLEDGE/SERVICE_CATALOG.md` at the time of use. A newly proposed
 service does not inherit coverage until it is added to the approved catalog.
 
+## Community-Level Publication Addendum (2026-08-05)
+
+On 2026-08-05 the business owner directly confirmed, in the course of website
+development work, that the named communities in the Priority Community
+Registry below may be published as service-area content on the website
+(location pages listing them, not standalone pages per community). This
+resolves the "lower-level areas pending" status this document previously
+carried for those specific, already-named rows only.
+
+This does **not** approve:
+
+- Any community, district, or neighborhood not already listed by name in the
+  Priority Community Registry below.
+- Standalone landing pages per community (still a distinct SEO-quality-gate
+  decision, not made here).
+- Branch addresses, response-time commitments, or anything else the Owner
+  Decision above already excludes.
+
 ## Publication Rules
 
 - UAE-wide and emirate-level coverage may be stated using this registry.
-- City, district, community, neighborhood, and branch claims remain blocked.
+- City, district, community, or neighborhood claims are permitted only for
+  rows explicitly listed in the Priority Community Registry (see the
+  2026-08-05 addendum above) — any other sub-emirate claim remains blocked.
 - Emirate landing pages require unique useful content and the normal SEO quality gate.
 - Coverage does not prove availability for a particular date or time.
 - Booking must confirm operational availability before making a commitment.
