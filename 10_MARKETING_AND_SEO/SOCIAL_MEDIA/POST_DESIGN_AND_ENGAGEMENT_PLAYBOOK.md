@@ -73,22 +73,31 @@ baseline, not a guaranteed-current fact, same caution
 
 ## 2. Title/caption formula
 
-One formula, filled from real facts only (the `social-content/facts`
-endpoint), never invented:
+**Update 2026-08-07 (Owner clarification):** the phone number must
+appear in the **title/headline line itself** — the first line of every
+post, not only somewhere inside the image or buried at the end of a
+longer caption body. Title and caption body are two distinct, both
+-mandatory parts of every post from here on:
 
 ```
-[Hook — real pain point, from `commonProblems`] +
-[Service name] +
-[One real benefit, from `benefits`] +
-[CTA] + [Phone number] + [WhatsApp]
+TITLE (first line, always):
+  [Service name] — [real hook, from `commonProblems`] | 📞 +971 58 543 1766
+
+CAPTION BODY (below the title):
+  [One real benefit, from `benefits`] + [CTA] + [WhatsApp link/handle]
 ```
 
 **Example shape (illustrative structure only — actual copy is drafted
 per-service from real facts, not hardcoded here):**
 
-> AC not cooling like it used to? 🔧 AFAQ AL HAYAT's AC maintenance team
-> inspects, cleans, and diagnoses the real cause — across all 7 emirates.
-> 📞 +971 58 543 1766 | WhatsApp us — link in bio.
+> **AC Maintenance — Not cooling like it used to? 📞 +971 58 543 1766**
+> AFAQ AL HAYAT's technicians inspect, clean, and diagnose the real
+> cause — across all 7 emirates. WhatsApp us — link in bio.
+
+The phone number appears twice by design: once as text in the title
+(readable even if the image doesn't load or gets cropped, and indexable
+by the platform's own search), and once burned into the image itself per
+§1's safe-area rule. Neither replaces the other.
 
 Rules (all restating existing, not new, policy):
 
