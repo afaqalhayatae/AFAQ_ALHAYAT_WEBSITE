@@ -40,3 +40,4 @@ measurement across social channels.
 - `ACCOUNT_VERIFICATION_AND_SECURITY.md`
 - `TIKTOK_AND_SNAPCHAT_STRATEGY.md`
 - `PINTEREST_GROWTH_STRATEGY.md`
+- `POST_DESIGN_AND_ENGAGEMENT_PLAYBOOK.md` — post template/caption formula per platform and the comment-reply automation design (added 2026-08-07)
